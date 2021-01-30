@@ -1181,3 +1181,17 @@ git status
 cd holberton-system_engineering-devops/
 ls
 cd ..
+git commit --all
+git push
+ls
+exit
+exit
+clear
+ls
+exit
+ ls
+nvim 
+git status
+git checkout -A
+git checkout --all
+git status
