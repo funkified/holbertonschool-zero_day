@@ -1155,3 +1155,12 @@ ls
 git checkout master 
 git status
 git commit --al
+git checkout .bash_history
+git checkout .tmux.conf
+git checkout holberton-system_engineering-devops/
+git status
+git config --global user.email sergio.vera@icloud.com
+git commit --al
+git commit --all
+ git config --global user.name
+ git config --global user.name funkified
