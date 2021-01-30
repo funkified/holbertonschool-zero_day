@@ -1164,3 +1164,10 @@ git commit --al
 git commit --all
  git config --global user.name
  git config --global user.name funkified
+git commit --all
+git push 
+git checkout master 
+git pull
+git pull origin master 
+git status
+git add --all
