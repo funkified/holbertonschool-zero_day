@@ -1128,3 +1128,24 @@ git pull origin https://github.com/funkified/holbertonschool-zero_day
 git pull origin update_script 
 git checkout master 
 git status
+git add --all
+git commit -m "fixing conflicts branch update_script"
+git push 
+ls
+rm -rf 0x00-vagrant/ 
+rm -rf 0x01-emacs/
+rm -rf 0x02-vi/
+git commit -m "removing dirs" 
+cd holberton
+cd holberton-system_engineering-devops/
+s
+ls
+cd 0x00-shell_basics/
+ls
+cd ..
+cd ..
+cd holbertonschool-zero_day/
+ls
+xs ..
+cd ..
+git commit -- all

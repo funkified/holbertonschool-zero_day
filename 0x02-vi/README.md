@@ -1,1 +1,0 @@
-Vi Text Editor
