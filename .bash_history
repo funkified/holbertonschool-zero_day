@@ -1171,3 +1171,13 @@ git pull
 git pull origin master 
 git status
 git add --all
+git commit --all
+git pushh 
+git push
+ls
+git rm -rf 0x01-emacs/ 0x03-git/
+ls
+git status
+cd holberton-system_engineering-devops/
+ls
+cd ..
