@@ -14,8 +14,10 @@
 $
 
 # Command Line History (newest to oldest):
-:wq
 :q
+:wq
+:help togglebg
+:togglebg
 :q!
 :w
 :wq!
@@ -33,23 +35,35 @@ $
 
 # Registers:
 
+# global variables:
+
 # File marks:
-'0  42  0  ~/.tmux.conf
-'1  9  0  ~/.gitconfig
-'2  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/holberton.mgc
-'3  1  1  ~/holbertonschool-zero_day/0x03-git/.gitignore
-'4  2  24  ~/holbertonschool-zero_day/0x03-git/bash/school
-'5  1  7  ~/holbertonschool-zero_day/0x03-git/up_to_date
-'6  2  28  ~/holberton-system_engineering-devops/0x01-shell_permissions/100-Star_Wars
-'7  2  27  ~/holberton-system_engineering-devops/0x01-shell_permissions/16-if_only
-'8  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/su
-'9  2  25  ~/holberton-system_engineering-devops/0x01-shell_permissions/14-change_owner_and_group
+'0  803  0  ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
+'1  1  0  ~/.vim/bundle/vim-colors-solarized
+'2  3  24  ~/.vimrc
+'3  1  0  ~/conf/vim-colors-solarized/autoload/togglebg.vim
+'4  1  0  ~/.gitconfig
+'5  1  0  ~/conf/panda.vimrc
+'6  1  0  ~/conf/panda.bashrc
+'7  17  0  ~/.gitconfig
+'8  1  0  ~/conf/funkified.gitconfig
+'9  42  0  ~/.tmux.conf
 
 # Jumplist (newest first):
+-'  803  0  ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
+-'  1  0  ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
+-'  1  0  ~/.vim/bundle/vim-colors-solarized
+-'  3  24  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  1  0  ~/conf/vim-colors-solarized/autoload/togglebg.vim
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/conf/panda.vimrc
+-'  1  0  ~/conf/panda.bashrc
+-'  17  0  ~/.gitconfig
+-'  1  0  ~/conf/funkified.gitconfig
 -'  42  0  ~/.tmux.conf
 -'  1  0  ~/.tmux.conf
 -'  9  0  ~/.gitconfig
--'  1  0  ~/.gitconfig
 -'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/holberton.mgc
 -'  1  1  ~/holbertonschool-zero_day/0x03-git/.gitignore
 -'  2  24  ~/holbertonschool-zero_day/0x03-git/bash/school
@@ -135,24 +149,39 @@ $
 -'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/1-listit
 -'  2  2  ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
 -'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
--'  1  0  ~/holbertonschool-zero_day/0x03-git/bash/holberton
--'  2  4  ~/holbertonschool-zero_day/0x03-git/bash/holberton
--'  1  0  ~/holbertonschool-zero_day/0x03-git/README.md
--'  2  12  ~/holbertonschool-zero_day/0x03-git/bash?school
--'  1  0  ~/holbertonschool-zero_day/0x03-git/bash?school
--'  3  15  ~/holbertonschool-zero_day/0x03-git/bash/holberton
--'  1  0  ~/holbertonschool-zero_day/0x03-git/bash/README.md
--'  3  25  ~/holbertonschool-zero_day/0x03-git/bash/school
--'  4  22  ~/holbertonschool-zero_day/0x03-git/bash/holberton
--'  1  19  ~/holbertonschool-zero_day/0x03-git/c/README.md
 
 # History of marks within files (newest to oldest):
 
-> ~/.tmux.conf
-	"	42	0
+> ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
+	"	803	0
+
+> ~/.vimrc
+	"	3	24
+	^	3	25
+	.	3	0
+	+	3	0
+
+> ~/conf/vim-colors-solarized/autoload/togglebg.vim
+	"	1	0
 
 > ~/.gitconfig
-	"	9	0
+	"	1	0
+
+> ~/conf/panda.vimrc
+	"	1	0
+
+> ~/conf/panda.bashrc
+	"	1	0
+
+> ~/conf/funkified.gitconfig
+	"	1	0
+	^	1	0
+	.	14	18
+	+	13	31
+	+	14	18
+
+> ~/.tmux.conf
+	"	42	0
 
 > ~/holberton-system_engineering-devops/0x00-shell_basics/holberton.mgc
 	"	1	0

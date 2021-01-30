@@ -1195,3 +1195,110 @@ git status
 git checkout -A
 git checkout --all
 git status
+git add --all
+git commit -m "bash history"
+git push 
+git push 
+git clone https://github.com/panda01/conf.git
+ls
+cd conf/
+ls
+./install.sh 
+ls
+mv panda.gitconfig funkified.gitconfig
+vim funkified.gitconfig 
+./ panda.tmux.conf 
+./install.sh 
+ls
+./ funkified.gitconfig 
+ls
+cd ..
+c d..
+ls
+ls -la 
+vim .gitconfig 
+./.gitconfig
+sudo ./.gitconfig
+./ .gitconfig 
+cd .gitcofig
+cd bash
+ls
+./conf/
+cd conf/
+ls
+vim panda.bashrc 
+vim panda.vimrc 
+./ panda.vimrc 
+cd panda.vimrc
+ls
+./install.sh 
+ls
+ls -la
+cd ..
+ls
+git branch
+ls -la
+vim .gitconfig 
+cd conf/
+git clone https://github.com/altercation/vim-colors-solarized.git
+ls
+./vim-colors-solarized/
+cd vim-colors-solarized/
+ls
+./autoload/
+./colors/
+cd autoload/
+ls
+vim togglebg.vim 
+ls
+ls -la
+cd ..
+ls
+./doc/
+cd doc/
+ls
+cd ~/.vim/bundle
+cd ..
+cd .vim
+ls
+cd.
+cd ..
+cd ~
+cd .vim/
+ls
+https://github.com/tpope/vim-pathogen.git
+git clone https://github.com/tpope/vim-pathogen.git
+ls
+mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+ls
+vim ~/.vimrc
+cd ~/.vim/bundle && git clone https://github.com/tpope/vim-sensible.git
+ls
+ls
+cd ..
+ls
+cd autoload/
+la
+ls
+c d..
+cd ..
+ls
+cd ..
+ls
+cd conf/
+cd ..
+cd ~/.vim/bundle
+git clone git://github.com/altercation/vim-colors-solarized.git
+mv vim-colors-solarized ~/.vim/bundle/
+ls
+vim vim-colors-solarized/
+cd vim-colors-solarized/
+la
+ls
+cd colors/
+la
+ls
+vim solarized.vim 
+cd `
+cd ~
+git status
