@@ -1149,3 +1149,9 @@ ls
 xs ..
 cd ..
 git commit -- all
+git commit --all
+git push 
+ls
+git checkout master 
+git status
+git commit --al
