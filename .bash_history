@@ -1624,3 +1624,78 @@ git status
 git add 0x02-shell_redirections/
 cd ..
 git status
+git add --all
+git commit -m "redir"
+git push 
+ls
+cd holberton
+cd holberton-system_engineering-devops/
+ls
+git add 0x01-shell_permissions/
+git add 0x02-shell_redirections/
+git status
+git reset HEAD 0x02-shell_redirections/
+ls
+git commit -m "sh redir"
+git rm hello iacta olleh 
+git commit -m "sh rdir"
+git push 
+git push 
+ls
+cd 0x02-shell_redirections/
+git status
+ls
+git rm --all
+git rm 0x00-shell_basics 
+git rm -r 0x00-shell_basics 
+git status
+git commit -m "rm files"
+git push 
+ls
+cd ..
+git add 0x01-shell_permissions/
+git add 0x02-shell_redirections/
+git status
+git commit -m "adding dirs"
+git push 
+git status
+cd 0x01-shell_permissions/
+ls
+git status
+git add --all
+git commit -m "updating dir"
+git push 
+git remote add origin master
+git branch
+git push origin -u master 
+git push origin master
+git remote add origin https://github.com/funkified/holberton-system_engineering-devops.git
+git branch -M master
+git push origin -u master
+git push origin -u https://github.com/funkified/holberton-system_engineering-devops.git
+git status
+cd ..
+git status
+git add --all
+git commit -m "adding 0x01" 
+git push 
+git add 0x01-shell_permissions/
+git commit -m "merging"
+ls
+cd 0x01-shell_permissions/
+ls
+git status
+git push origin 
+git push
+commit -m "perm"
+git commit -m "perm"
+cd ..
+git status
+cd 0x02-shell_redirections/
+git status
+ls
+git commit -m "redir"
+cd ..
+git status
+cd ..
+git status
