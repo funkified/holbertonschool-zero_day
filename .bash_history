@@ -1302,3 +1302,313 @@ vim solarized.vim
 cd `
 cd ~
 git status
+git add --all
+git commit --all
+git commit -m "nvim"
+git push 
+ls
+exit
+ls
+cd holberton
+cd holbertonschool-zero_day/
+la
+ls
+cd ..
+clear
+git branch
+ls
+cd holberton-system_engineering-devops/
+ls
+mkdir 0x02-shell_redirections
+vim 0x02-shell_redirections/README.md
+cd 0x02-shell_redirections/
+git init
+git add --all
+git commit -m"first commit"
+git branch -M master
+git remote add https://github.com/funkified/holberton-system_engineering-devops.git
+git remote add origin https://github.com/funkified/holberton-system_engineering-devops.git
+git push origin master
+git push -u origin master 
+git sttus
+cd ..
+git add --all
+git commit -m "shell redir" 
+git push 
+git push 
+cd 0x02-shell_redirections/
+git status
+touch 0-hello_world
+git add 0-hello_world 
+git commit -m " hello world"
+git push 
+git push 
+git remote add origin master
+git push -u origin master
+cd ,,
+cd ..
+git add --all
+git commit -m " hello world:
+git commit -m " hello world:
+git commit -m " hello world"
+cd 0x02-shell_redirections/
+git commit -m "h w"
+cd ,, 
+cd ..
+git push 
+ls
+cd oxo2
+cd 0x02-shell_redirections/
+ls
+vim 0-hello_world 
+chmod +x 0-hello_world 
+./0-hello_world 
+chmod +x 0-hello_world 
+vim 0-hello_world 
+./0-hello_world 
+vim 0-hello_world 
+./0-hello_world 
+vim 0-hello_world 
+./0-hello_world 
+ls
+vim 0-hello_world 
+./0-hello_world 
+git add 0-hello_world 
+git commit -m "0-helloworld"
+git push origin -u master
+git push origin -u master
+cd ..
+git add --all
+git commit -m "Hell world" 
+git push 
+vim 0x02-shell_redirections/1-confused_smiley 
+git add 0x02-shell_redirections/1-confused_smiley 
+ls
+cd 0x02-shell_redirections/
+ls
+cd ..
+git add 0x02-shell_redirections/1-confused_smiley 
+chmod +x 0x02-shell_redirections/1-confused_smiley 
+./0x02-shell_redirections/1-confused_smiley 
+git add 0x02-shell_redirections/1-confused_smiley 
+git add --all
+git commit -m "conf smile"
+git push 
+git status
+git add --all
+git status
+git commit --all
+cd 0x02-shell_redirections/
+git branch
+git status
+git add 1-confused_smiley 
+git commit -m "confused add"
+cd ..
+git add --all
+git commit -m "confsmiley
+git commit -m "confsmiley"
+git commit -m "confsmiley"
+git push
+git push
+vim 0x02-shell_redirections/2-hellofile
+chmod x+x 0x02-shell_redirections/2-hellofile 
+chmod +x 0x02-shell_redirections/2-hellofile 
+./0x02-shell_redirections/2-hellofile 
+vim 0x02-shell_redirections/2-hellofile 
+./0x02-shell_redirections/2-hellofile 
+vim 0x02-shell_redirections/2-hellofile 
+vim 0x02-shell_redirections/2-hellofile 0x02-shell_redirections/2-hellofile 
+./0x02-shell_redirections/2-hellofile 
+git add 0x02-shell_redirections/2-hellofile 
+cd 0x02-shell_redirections/
+git add 2-hellofile 
+git commit -m "hellofile"
+cd ..
+git add --all
+git commit -m "2ehllofile"
+git push 
+vim 0x02-shell_redirections/3-twofiles
+chmod +x 0x02-shell_redirections/3-twofiles 
+./0x02-shell_redirections/3-twofiles 
+git add --all
+git commit -m "3 twofiles"
+cd 0x02-shell_redirections/
+la
+la
+ls
+git add 3-twofiles 
+git commit -m "3two"
+cd ..
+git commit --all
+git add --all
+git commit -m "3two"
+git push 
+cd 0x02-shell_redirections/git init
+cd 0x02-shell_redirections/
+git init
+cd ..
+vim 0x02-shell_redirections/4-lastlines
+chmod +x 0x02-shell_redirections/4-lastlines 
+cd 0x02-shell_redirections/
+./4-lastlines 
+git add --all
+cd ..
+git add --all
+git commti -m "last lines"
+cd 0x02-shell_redirections/
+git commit -m "lastlines"
+cd ..
+git commit -m "lastlines:
+git commit -m "lastlines"
+cd git add 0x02-shell_redirections/4
+cd 0x02-shell_redirections/
+ls
+git add 4-lastlines 
+git commit -m "lastlines"
+cd ..
+git status
+git add 0x02-shell_redirections/
+git commit -m "lastlines"
+git push 
+cd 0x02-shell_redirections/
+vim 5-firstlines
+chmod +x 5-firstlines 
+./5-firstlines 
+git add 5-firstlines 
+git commit -m "fistlines"
+cd ..
+git add --all
+git commit -m "fistlines"
+git push 
+vim iacta
+cd 0x02-shell_redirections/6-third_line
+vim 0x02-shell_redirections/6-third_line
+chmod +x 0x02-shell_redirections/6-third_line 
+cd 0x02-shell_redirections/
+./6-third_line 
+vim 6-third_line 
+cd ..
+./0x02-shell_redirections/6-third_line 
+cd 0x02-shell_redirections/
+git add 6-third_line 
+git commit -m "iacta"
+cd ..
+git add --all
+git commit -m "iacta3l"
+git push
+clear
+git status
+cd 0x02-shell_redirections/
+ls
+vim 7-file
+chmod +x 7-file 
+./7-file 
+ls
+git add --all
+git commit -m "7 the file"
+cd ..
+git add --all
+git comit -m "7file"
+git push 
+cd 0x02-shell_redirections/
+ls
+vim README.md 
+git status
+cd ..
+git status
+rm 0x02-shell_redirections/README.md 
+git commit -m "rm readme" 
+git push 
+git status
+cd 0x02-shell_redirections/
+git commit -m "rm readme"
+git push 
+cd ..
+git push 
+git status
+git add --all
+git commit -m "rm readme" 
+git add 0x02-shell_redirections/
+git commit -m "redirections" 
+cd 0x02-shell_redirections/
+git branch
+git remote add origin master
+git branch _M
+git branch -M
+git branch -M master
+git push origin -u master
+git pull origin master
+ls
+git commit -m "mergin"
+git commit --all
+gir commit -F
+git commit -F
+git commit -m "mergin"
+git commit --all
+git commit --branch
+git status
+git rm README.md 
+git commit -m "mergein"
+git push origin -u master
+vim README.md
+git add README.md 
+git commit -m "readme"
+git push 
+cd ..
+git status
+git add --all
+git comit -m "adding readme" 
+git push 
+git pull origin master
+git status
+ls
+git checkout --all
+git checgit rm 0-hello_world 1-confused_smiley 2-hellofile 3-twofiles
+rm 0-hello_world 1-confused_smiley 2-hellofile 3-twofiles
+ls
+rm 4-lastlines 5-firstlines 6-third_line 7-file  \*\\'"Holberton"\'\\*$\?\*\*\*\*:)
+rm 4-lastlines 5-firstlines 6-third_line 7-file  \*\\'"Holberton"\'\\*$\?\*\*\*\*:)\
+rm 4-lastlines 5-firstlines 6-third_line 7-file 
+rm dir_holberton hello iacta olleh 
+rm hello iacta olleh 
+ls
+cd 0x02-shell_redirections/
+ls
+./0-hello_world 
+git status
+ls
+rm -rf 0x00-shell_basics/ 0x01-shell_permissions/ 0x02-shell_redirections/
+ls
+git commit -m "dkn"
+git rm --all
+git rm -r --all
+git rm -r 
+git rm -r 0x01-shell_permissions 0x02-shell_redirections 
+git commit -m "rm files"
+git push origin maste r
+git push origin maste r
+git push origin master
+ls
+vim README.md 
+vim 0-hello_world 
+git add 0-hello_world 
+gti commit -m "remvoing extra line" 
+git commit -m "remvoing extra line" 
+git push 
+cd ..
+git status
+git rm 0-hello_world 1-confused_smiley 2-hellofile 3-twofiles 
+git status
+git rm 4-lastlines 5-firstlines 6-third_line 7-file 
+git commit -m "rm files"
+git push
+git git push origin master
+cd 0x02-shell_redirections/git init
+cd 0x02-shell_redirections/
+git init
+cd ..
+git push origin master
+cd ..
+git status
+rm -rf conf/ 
+git status
