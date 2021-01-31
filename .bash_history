@@ -1699,3 +1699,40 @@ cd ..
 git status
 cd ..
 git status
+git add --all
+git commit -m "updating" 
+git push 
+ls
+cd holbertonschool-zero_day/
+ls
+git status
+git clone https://github.com/funkified/holbertonschool-zero_day.git
+ls
+cd holbertonschool-zero_day/
+ls
+cd holberton-system_engineering-devops/
+ls
+cd ..
+rm -rf holberton-system_engineering-devops/
+ls
+cd holbertonschool-zero_day/
+ls
+cd ..
+rm holbertonschool-zero_day/
+ls
+cd ..
+ls
+cd holbertonschool-zero_day/
+ls
+cd holbertonschool-zero_day/
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf holbertonschool-zero_day/
+ls
+git status
+git commit -m "rm repo"
+cd ..
+git status
