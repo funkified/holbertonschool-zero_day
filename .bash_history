@@ -1612,3 +1612,15 @@ cd ..
 git status
 rm -rf conf/ 
 git status
+git add --all
+git rm conf
+git commit -m "rm conf"
+git push origin master
+exit
+ls 
+cd holberton-system_engineering-devops/
+ls
+git status
+git add 0x02-shell_redirections/
+cd ..
+git status
