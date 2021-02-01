@@ -14,8 +14,8 @@
 $
 
 # Command Line History (newest to oldest):
-:wq
 :q
+:wq
 :sq
 :WQ
 :q!
@@ -44,20 +44,20 @@ $
 # global variables:
 
 # File marks:
-'0  2  32  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
-'1  2  2  ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
-'2  2  4  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
-'3  2  7  ~/holberton-system_engineering-devops/0x02-shell_redirections/20-hiago
-'4  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections
-'5  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
-'6  2  37  ~/holberton-system_engineering-devops/0x02-shell_redirections/18-letteronly
-'7  2  22  ~/holberton-system_engineering-devops/0x02-shell_redirections/17-hidethisword
-'8  2  25  ~/holberton-system_engineering-devops/0x02-shell_redirections/16-whatsnext
-'9  2263  40  ~/.bash_history
+'0  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+'1  2  32  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+'2  2  2  ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
+'3  2  4  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
+'4  2  7  ~/holberton-system_engineering-devops/0x02-shell_redirections/20-hiago
+'5  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections
+'6  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
+'7  2  37  ~/holberton-system_engineering-devops/0x02-shell_redirections/18-letteronly
+'8  2  22  ~/holberton-system_engineering-devops/0x02-shell_redirections/17-hidethisword
+'9  2  25  ~/holberton-system_engineering-devops/0x02-shell_redirections/16-whatsnext
 
 # Jumplist (newest first):
--'  2  32  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+-'  2  32  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
 -'  2  2  ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
 -'  2  4  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
@@ -153,13 +153,11 @@ $
 -'  2  27  ~/holberton-system_engineering-devops/0x01-shell_permissions/16-if_only
 -'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/16-if_only
 -'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/su
--'  2  25  ~/holberton-system_engineering-devops/0x01-shell_permissions/14-change_owner_and_group
--'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/14-change_owner_and_group
 
 # History of marks within files (newest to oldest):
 
 > ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
-	"	2	32
+	"	1	0
 	^	2	33
 	.	2	32
 	+	2	32

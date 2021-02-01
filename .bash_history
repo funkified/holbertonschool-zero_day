@@ -2418,3 +2418,20 @@ chmod +x 0x02-shell_redirections/22-users_and_homes
 git add --all
 git commit -m "users&homes"
 cd ..
+git add --all
+git commit -m "users&homes"
+git push 
+cd holberton-system_engineering-devops/
+cd 0x02-shell_redirections/
+ls
+./22-users_and_homes 
+vim 22-users_and_homes 
+git status
+git add --all
+git commit -m "users&homes"
+git init
+git push
+cd ..
+git status
+cd ..
+git status
