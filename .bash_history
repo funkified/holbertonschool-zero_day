@@ -2435,3 +2435,41 @@ cd ..
 git status
 cd ..
 git status
+git add --all
+git commit -m "22 users"
+git push
+git add holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes 
+cd holberton-system_engineering-devops/
+git add 0x02-shell_redirections/22-users_and_homes 
+git commit -m "adding 22"
+git push
+vim 0x02-shell_redirections/100-empty_casks
+chmod +x 0x02-shell_redirections/100-empty_casks 
+./0x02-shell_redirections/100-empty_casks 
+git add --all
+vim 0x02-shell_redirections/101-gifs
+chmod +x 0x02-shell_redirections/101-gifs 
+./0x02-shell_redirections/101-gifs 
+git add --all
+vim 0x02-shell_redirections/102-acrostic
+chmod +x 0x02-shell_redirections/102-acrostic 
+./0x02-shell_redirections/102-acrostic 
+vim 0x02-shell_redirections/103-biggest_fan
+chmod +x 0x02-shell_redirections/103-biggest_fan 
+./0x02-shell_redirections/103-biggest_fan 
+git add --all
+git commit -m "advd tasks"
+git push 
+cd 0x02-shell_redirections/
+git status
+git add --all
+git commit -m "advc task" 
+cd ..
+git add-- all
+git add.
+git add .
+git commit -m "advc task" 
+git push 
+git status
+cd ..
+git status
