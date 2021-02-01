@@ -2326,3 +2326,95 @@ cd ..
 ls -la
 vim .bash_history 
 git status
+git add --all
+git commit -m "mod .bash_history
+git commit -m "mod .bash_history"
+git status
+ls
+cd holbertonschool-zero_day/
+ls
+cd ..
+git push 
+clear 
+ls 
+cd holberton-system_engineering-devops/
+ls
+cd 0x02-shell_redirections/
+ls
+vim 16-whatsnext
+chmod +x 16-whatsnext 
+./16-whatsnext 
+git add 16-whatsnext 
+git commit -m "16whatsnext"
+git push
+cd ..
+git status
+git add 0x02-shell_redirections/16-whatsnext 
+git commit -m "16whatsnext"
+git push 
+git push 
+vi 0x02-shell_redirections/17-hidethisword
+chmod +x 0x02-shell_redirections/17-hidethisword 
+./0x02-shell_redirections/17-hidethisword 
+git add 0x02-shell_redirections/17-hidethisword 
+git commit -m "17hidewrd"
+git push
+vim 0x02-shell_redirections/18-letteronly
+chmod +x 0x02-shell_redirections/18-letteronly 
+./0x02-shell_redirections/18-letteronly 
+vim 0x02-shell_redirections/19-AZ
+chmod 0x02-shell_redirections/19-AZ 
+chmod +x 0x02-shell_redirections/19-AZ 
+chmod 0x02-shell_redirections/19-AZ 
+./0x02-shell_redirections/19-AZ 
+vi 0x02-shell_redirections/19-AZ 
+./0x02-shell_redirections/19-AZ 
+git add 0x02-shell_redirections/19-AZ 
+git commit -m "19 AZ" 
+git push 
+git add 0x02-shell_redirections/18-letteronly 
+./0x02-shell_redirections/18-letteronly 
+git commit -m "18"
+git push 
+chmod a+x 0x02-shell_redirections/19-AZ 
+0x02-shell_redirections/19-AZ 
+cd 0x02-shell_redirections/
+./19-AZ 
+ls
+git add 19-AZ 
+git commit -m "19AZ" 
+cd ..
+git add 0x02-shell_redirections/19-AZ 
+git commit -m "19aAZ"
+git push 
+vim 0x02-shell_redirections/
+vim 0x02-shell_redirections/20-hiago
+chmod +x 0x02-shell_redirections/20-hiago 
+./0x02-shell_redirections/20-hiago 
+git add 0x02-shell_redirections/20-hiago 
+git commit -m "20 hiago"
+git push 
+vim 0x02-shell_redirections/19-AZ 
+./0x02-shell_redirections/19-AZ 
+cd 0x02-shell_redirections/
+./19-AZ 
+cd ..
+git add 0x02-shell_redirections/19-AZ 
+git commit -m "19 AZ fix"
+git push 
+vim 0x02-shell_redirections/21-reverse
+chmod a+x 0x02-shell_redirections/21-reverse 
+cd 0x02-shell_redirections/
+echo "Reverse" | ./21-reverse 
+git add 21-reverse 
+git commit -m "reverse" 
+cd ..
+git add --all
+git commit -m "reverse" 
+git push 
+vim 0x02-shell_redirections/22-users_and_homes
+chmod +x 0x02-shell_redirections/22-users_and_homes 
+./0x02-shell_redirections/22-users_and_homes 
+git add --all
+git commit -m "users&homes"
+cd ..

@@ -36,24 +36,41 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+""0	CHAR	0
+	g
+"-	CHAR	0
 	g
 
 # global variables:
 
 # File marks:
-'0  2263  40  ~/.bash_history
-'1  1  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
-'2  1  2  ~/holbertonschool-zero_day/0x02-vi/4-exiting
-'3  2  6  ~/holberton-system_engineering-devops/0x02-shell_redirections/15-countthatword
-'4  2  20  ~/holberton-system_engineering-devops/0x02-shell_redirections/14-findthatword
-'5  2  13  ~/holberton-system_engineering-devops/0x02-shell_redirections/13-unique
-'6  2  12  ~/holberton-system_engineering-devops/0x02-shell_redirections/12-newest_files
-'7  2  31  ~/holberton-system_engineering-devops/0x02-shell_redirections/11-directories
-'8  2  34  ~/holberton-system_engineering-devops/0x02-shell_redirections/10-no_more_js
-'9  2  21  ~/holberton-system_engineering-devops/0x02-shell_redirections/9-duplicate_last_line
+'0  2  32  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+'1  2  2  ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
+'2  2  4  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
+'3  2  7  ~/holberton-system_engineering-devops/0x02-shell_redirections/20-hiago
+'4  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections
+'5  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
+'6  2  37  ~/holberton-system_engineering-devops/0x02-shell_redirections/18-letteronly
+'7  2  22  ~/holberton-system_engineering-devops/0x02-shell_redirections/17-hidethisword
+'8  2  25  ~/holberton-system_engineering-devops/0x02-shell_redirections/16-whatsnext
+'9  2263  40  ~/.bash_history
 
 # Jumplist (newest first):
+-'  2  32  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+-'  2  2  ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
+-'  2  4  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
+-'  2  7  ~/holberton-system_engineering-devops/0x02-shell_redirections/20-hiago
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/20-hiago
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections
+-'  2  37  ~/holberton-system_engineering-devops/0x02-shell_redirections/18-letteronly
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/18-letteronly
+-'  2  22  ~/holberton-system_engineering-devops/0x02-shell_redirections/17-hidethisword
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/17-hidethisword
+-'  2  25  ~/holberton-system_engineering-devops/0x02-shell_redirections/16-whatsnext
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/16-whatsnext
 -'  2263  40  ~/.bash_history
 -'  1  0  ~/.bash_history
 -'  1  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
@@ -88,7 +105,6 @@ $
 -'  2  25  ~/holberton-system_engineering-devops/0x02-shell_redirections/3-twofiles
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/3-twofiles
 -'  2  14  ~/holberton-system_engineering-devops/0x02-shell_redirections/2-hellofile
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
 -'  2  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
@@ -139,22 +155,50 @@ $
 -'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/su
 -'  2  25  ~/holberton-system_engineering-devops/0x01-shell_permissions/14-change_owner_and_group
 -'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/14-change_owner_and_group
--'  17  26  ~/holberton-system_engineering-devops/0x01-shell_permissions/101-man_holberton
--'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/101-man_holberton
--'  2  24  ~/holberton-system_engineering-devops/0x01-shell_permissions/15-symbolic_link_permissions
--'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/15-symbolic_link_permissions
--'  2  20  ~/holberton-system_engineering-devops/0x01-shell_permissions/13-change_group
--'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/13-change_group
--'  2  25  ~/holberton-system_engineering-devops/0x01-shell_permissions/12-drectory_permissions
--'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/12-drectory_permissions
--'  2  29  ~/holberton-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
--'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
--'  2  28  ~/holberton-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
--'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
--'  2  14  ~/holberton-system_engineering-devops/0x01-shell_permissions/9-John_Doe
--'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/9-John_Doe
 
 # History of marks within files (newest to oldest):
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
+	"	2	32
+	^	2	33
+	.	2	32
+	+	2	32
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/20-hiago
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/18-letteronly
+	"	2	37
+	^	2	38
+	.	2	6
+	+	2	6
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/17-hidethisword
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/16-whatsnext
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
 
 > ~/.bash_history
 	"	2263	40
@@ -715,45 +759,3 @@ $
 	^	1	2
 	.	1	2
 	+	1	2
-
-> ~/holbertonschool-zero_day/0x02-vi/0-inserting
-	"	1	9
-	^	1	10
-	.	1	9
-	+	1	9
-
-> ~/holbertonschool-zero_day/0x02-vi/README.md
-	"	1	0
-	^	1	14
-	.	1	13
-	+	1	13
-
-> ~/holbertonschool-zero_day/0x01-emacs/6-quitting
-	"	1	6
-	^	1	7
-	.	1	0
-	+	1	0
-
-> ~/holbertonschool-zero_day/0x01-emacs/5-undoing
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
-
-> ~/holbertonschool-zero_day/0x01-emacs/4-searching
-	"	1	14
-	^	1	15
-	.	1	0
-	+	1	0
-
-> ~/holbertonschool-zero_day/0x01-emacs/3-pasting
-	"	1	7
-	^	1	8
-	.	1	0
-	+	1	0
-
-> ~/holbertonschool-zero_day/0x01-emacs/2-cut
-	"	1	7
-	^	1	8
-	.	1	0
-	+	1	0
