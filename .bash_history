@@ -2242,3 +2242,87 @@ git status
 cd ..
 cd ..
 git status
+git add --all
+git commit -m "0x02 fix"
+git push
+cd holbertonschool-zero_day/
+git status
+git push
+cd 0x02-vi/
+git add --all
+git commit -m "vi 0x02 fix"
+git staatus
+cd ..
+git push origin master
+git pull
+ls
+cd ..
+rm -rf holbertonschool-zero_day/
+git commit -m "holbertonzero day"
+git rm --cached
+git rm --cached holbertonschool-zero_day  
+ls
+git clone https://github.com/funkified/holbertonschool-zero_day.git
+ls
+cd holbertonschool-zero_day/
+ls
+cd holbertonschool-zero_day/
+ls
+cd ..
+git rm --cached holbertonschool-zero_day 
+ls
+cd holbertonschool-zero_day/
+ls
+ls
+ls
+ls
+git branch
+cd ..
+git branch
+cd ..
+git branch
+ls
+git rm --cached holbertonschool-zero_day
+git status
+git reset HEAD holbertonschool-zero_day/
+ls 
+cd holbertonschool-zero_day/
+ls
+cd holberton
+cd holbertonschool-zero_day/
+ls
+git reset HEAD
+cd ..
+cd ..
+git reset HEAD
+cd holbertonschool-zero_day/
+ls
+cd holberton
+cd holbertonschool-zero_day/
+ls
+cd ..
+cd ..
+clear
+git status
+git checkout holbertonschool-zero_day/
+cd holbertonschool-zero_day/
+ls
+git ls-files -d | xargs git checkout -- holbertonschool-zero_day/
+cd holbertonschool-zero_day/
+ls
+cd ..
+cd ..
+git ls-files -d | xargs git checkout -- holbertonschool-zero_day/
+cd holbertonschool-zero_day/
+ls
+cd holbertonschool-zero_day/
+ls
+git ls-files -d | xargs git checkout --
+fin .bash_history
+ls -la
+cd ..
+ cd..
+cd ..
+ls -la
+vim .bash_history 
+git status

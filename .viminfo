@@ -36,22 +36,26 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	g
 
 # global variables:
 
 # File marks:
-'0  1  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
-'1  1  2  ~/holbertonschool-zero_day/0x02-vi/4-exiting
-'2  2  6  ~/holberton-system_engineering-devops/0x02-shell_redirections/15-countthatword
-'3  2  20  ~/holberton-system_engineering-devops/0x02-shell_redirections/14-findthatword
-'4  2  13  ~/holberton-system_engineering-devops/0x02-shell_redirections/13-unique
-'5  2  12  ~/holberton-system_engineering-devops/0x02-shell_redirections/12-newest_files
-'6  2  31  ~/holberton-system_engineering-devops/0x02-shell_redirections/11-directories
-'7  2  34  ~/holberton-system_engineering-devops/0x02-shell_redirections/10-no_more_js
-'8  2  21  ~/holberton-system_engineering-devops/0x02-shell_redirections/9-duplicate_last_line
-'9  2  22  ~/holberton-system_engineering-devops/0x02-shell_redirections/8-cwd_state
+'0  2263  40  ~/.bash_history
+'1  1  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
+'2  1  2  ~/holbertonschool-zero_day/0x02-vi/4-exiting
+'3  2  6  ~/holberton-system_engineering-devops/0x02-shell_redirections/15-countthatword
+'4  2  20  ~/holberton-system_engineering-devops/0x02-shell_redirections/14-findthatword
+'5  2  13  ~/holberton-system_engineering-devops/0x02-shell_redirections/13-unique
+'6  2  12  ~/holberton-system_engineering-devops/0x02-shell_redirections/12-newest_files
+'7  2  31  ~/holberton-system_engineering-devops/0x02-shell_redirections/11-directories
+'8  2  34  ~/holberton-system_engineering-devops/0x02-shell_redirections/10-no_more_js
+'9  2  21  ~/holberton-system_engineering-devops/0x02-shell_redirections/9-duplicate_last_line
 
 # Jumplist (newest first):
+-'  2263  40  ~/.bash_history
+-'  1  0  ~/.bash_history
 -'  1  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
 -'  1  2  ~/holbertonschool-zero_day/0x02-vi/4-exiting
 -'  2  6  ~/holberton-system_engineering-devops/0x02-shell_redirections/15-countthatword
@@ -149,9 +153,15 @@ $
 -'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
 -'  2  14  ~/holberton-system_engineering-devops/0x01-shell_permissions/9-John_Doe
 -'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/9-John_Doe
--'  2  14  ~/holberton-system_engineering-devops/0x01-shell_permissions/8-James_Bond
 
 # History of marks within files (newest to oldest):
+
+> ~/.bash_history
+	"	2263	40
+	^	2263	41
+	.	2264	0
+	+	2263	41
+	+	2264	0
 
 > ~/holbertonschool-zero_day/0x02-vi/6-end_line
 	"	1	0
@@ -745,11 +755,5 @@ $
 > ~/holbertonschool-zero_day/0x01-emacs/2-cut
 	"	1	7
 	^	1	8
-	.	1	0
-	+	1	0
-
-> ~/holbertonschool-zero_day/0x01-emacs/1-saving
-	"	1	0
-	^	1	1
 	.	1	0
 	+	1	0
