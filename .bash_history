@@ -1736,3 +1736,235 @@ git status
 git commit -m "rm repo"
 cd ..
 git status
+git add --all
+git push 
+git branch
+cd holberton
+cd holberton-system_engineering-devops/
+ls
+git branch
+git status
+git push
+cd ..
+git add holbertonschool-zero_day/
+git commit -m "zero day"
+git push
+ls 
+cd holberton-system_engineering-devops/
+la
+ls
+ls -la
+cd 0x01-shell_permissions/
+l
+ls
+cd ..
+cd ..
+git add holberton-system_engineering-devops/
+git commit -m "redoing repo HsEd"
+git push 
+cd holberton-system_engineering-devops/
+ls
+git status
+git init
+git push 
+git remote add origin master
+git push origin master 
+git remote add origin https://github.com/funkified/holberton-system_engineering-devops.git
+git branch -M master
+git push -u origin master 
+git add 0x02-shell_redirections/
+git status
+cd 0x02-shell_redirections/
+ls
+git status
+git init
+git remote add master 
+git remote add origin https://github.com/funkified/holberton-system_engineering-devops.git
+git branch -M master
+git push -u origin master 
+git status
+cd ..
+git status
+mv 0x02-shell_redirections/ 0x02-shell_redirections1
+mkdir 0x02-shell_redirections
+cd 0x02-shell_redirections
+ls
+git init
+cd ..
+cp 0x02-shell_redirections1/ 0x02-shell_redirections
+cd 0x02-shell_redirections
+ls
+cd ..
+cp --help
+cd 0x01-shell_permissions/
+ls
+cd ..
+ls
+cp 0x02-shell_redirections1/ 0x02-shell_redirections
+cp 0x02-shell_redirections1 0x02-shell_redirections
+cd 0x02-shell_redirections1
+la
+ls
+cp ../0x02-shell_redirections
+cp ../0x02-shell_redirections/
+cp ../0x02-shell_redirections1/ ../0x02-shell_redirections
+cp ..
+cd ..
+mv 0x02-shell_redirections1/0-hello_world 0x02-shell_redirections1/1-confused_smiley 0x02-shell_redirections1/2-hellofile 0x02-shell_redirections1/3-twofiles 0x02-shell_redirections1/4-lastlines 
+mv 0x02-shell_redirections1/0-hello_world 0x02-shell_redirections/0-hello_world
+cd 0x02-shell_redirections
+ls
+cd ..
+mv 0x02-shell_redirections1/README.md 
+mv 0x02-shell_redirections1/README.md 0x02-shell_redirections/README.md
+cd 0x02-shell_redirections
+git branch -M master 
+git branch 
+git checkout -b master
+git branch -M master 
+git remote add origin master
+git commit -m "readme hello world mv"
+git add --all
+git commit -m "readme hello world mv"
+git push 
+git push -u origin master
+git branch -M master
+git push -u origin master
+git push 
+cd ..
+git status
+git add --all
+git commit -m "readme hello world mv"
+git push 
+cd 0x02-shell_redirections
+git branch
+clear
+ls
+ll
+ls -la
+cd holberton-system_engineering-devops/
+clear
+ls
+ls -la
+cd 0x00-shell_basics/
+ls
+cd ..
+cd 0x01-shell_permissions/
+ls
+clear
+git branch
+cd ..
+cd 0x02-shell_redirections
+ls
+cd ..
+0x02-shell_redirections1
+cd 0x02-shell_redirections1
+ls
+vim 2-hellofile 
+cd ..
+0x02-shell_redirections
+cd 0x02-shell_redirections
+clear
+ls
+cd ..
+cd 0x02-shell_redirections1/
+ls
+vim 3-twofiles 
+cd ..
+rm -rf 0x01-shell_permissions/
+commit -m "rm -rf shellperm"
+git commit -m "rm -rf shellperm"
+git add 0x01-shell_permissions 
+git add --all
+ls
+git add --ignore-removal 
+ls
+git clone https://github.com/funkified/holberton-system_engineering-devops.git
+ls
+git status
+git checkout 0x01-shell_permissions/0-iam_betty
+git reset HEAD 0x01-shell_permissions/0-iam_betty
+git reset HEAD 0x01-shell_permissions/1-who_am_i
+git reset HEAD 0x01-shell_permissions/10-mirror_permissions
+git reset HEAD 0x01-shell_permissions/2-groups
+git reset HEAD 0x01-shell_permissions/3-new_owner
+git reset HEAD 0x01-shell_permissions/4-empty
+git reset HEAD 0x01-shell_permissions/5-execute
+git reset HEAD 0x01-shell_permissions/6-multiple_permission
+git status
+cd ..
+rm -rf holberton-system_engineering-devops/
+git clone https://github.com/funkified/holberton-system_engineering-devops.git
+ls
+cd holberton-system_engineering-devops/
+ls
+cd 0x02-shell_redirections
+ls
+cd ..
+rm -rf 0x02-shell_redirections
+mv 0x02-shell_redirections1/ 0x02-shell_redirections
+clear
+ls
+vim README.md 
+vim README.md 
+rm README.md 
+vim README.md
+git add README.md 
+git commit -m "readme syst devops"
+git push 
+ls
+cd 0x02-shell_redirections/
+ls
+cd ..
+ls
+cd 0x02-shell_redirections/
+rm \*\\'"Holberton"\'\\*$\?\*\*\*\*:)
+rm \*\\'"Holberton"\'\\*$\?\*\*\*\*:)\
+rm \*\\'"Holberton"\'\\*$\?\*\*\*\*:)/
+rm -rf \*\\'"Holberton"\'\\*$\?\*\*\*\*:)
+rm /\*\\'"Holberton"\'\\*$\?\*\*\*\*:)/
+clear
+vim README.md
+vim 0-hello_world
+chmod +x 0-hello_world 
+./ 0-hello_world 
+./0-hello_world 
+vim 1-confused_smiley
+chmod +x 1-confused_smiley 
+./1-confused_smiley 
+git add --all
+git add .
+cd ..
+git status
+git rm 0x02-shell_redirections
+git status
+git rm 0x02-shell_redirections
+git checkout 0x02-shell_redirections/
+cd 0x02-shell_redirections/
+git status
+cd ..
+ls
+git --help
+git rm --help
+git rm --force 0x02-shell_redirections
+git reset HEAD 0x02-shell_redirections1
+git reset HEAD 
+git reset
+git status
+git commit -m "removing 0x02-shell redir1"
+git add --all
+git commit --all
+clear
+cd ..
+exit
+ls
+cd holberton
+cd holberton-system_engineering-devops/
+ls
+git status
+git rm 0x02-shell_redirections
+git add 0x02-shell_redirections/
+git add 0x02-shell_redirections/README.md 
+cd ..
+ls
+git status

@@ -15,8 +15,9 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-:q
+:WQ
 :q!
+:q
 :help togglebg
 :togglebg
 :w
@@ -38,22 +39,31 @@ $
 # global variables:
 
 # File marks:
-'0  2  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
-'1  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
-'2  17  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
-'3  2  62  ~/holberton-system_engineering-devops/0x02-shell_redirections/7-file
-'4  2  12  ~/holberton-system_engineering-devops/0x02-shell_redirections/6-third_line
-'5  12  54  ~/holberton-system_engineering-devops/iacta
-'6  2  15  ~/holberton-system_engineering-devops/0x02-shell_redirections/5-firstlines
-'7  2  15  ~/holberton-system_engineering-devops/0x02-shell_redirections/4-lastlines
-'8  2  25  ~/holberton-system_engineering-devops/0x02-shell_redirections/3-twofiles
-'9  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/2-hellofile
+'0  2  14  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+'1  2  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
+'2  19  50  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
+'3  1  33  ~/holberton-system_engineering-devops/README.md
+'4  16  9  ~/holberton-system_engineering-devops/README.md
+'5  2  65  ~/holberton-system_engineering-devops/README.md
+'6  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections1/3-twofiles
+'7  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections1/2-hellofile
+'8  3  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
+'9  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
 
 # Jumplist (newest first):
+-'  2  14  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
 -'  2  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
+-'  19  50  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
--'  17  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
+-'  1  33  ~/holberton-system_engineering-devops/README.md
+-'  16  9  ~/holberton-system_engineering-devops/README.md
+-'  2  65  ~/holberton-system_engineering-devops/README.md
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections1/3-twofiles
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections1/2-hellofile
+-'  3  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
+-'  35  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
 -'  2  62  ~/holberton-system_engineering-devops/0x02-shell_redirections/7-file
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/7-file
 -'  2  12  ~/holberton-system_engineering-devops/0x02-shell_redirections/6-third_line
@@ -68,8 +78,7 @@ $
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/3-twofiles
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/2-hellofile
 -'  2  4  ~/holberton-system_engineering-devops/0x02-shell_redirections/2-hellofile
--'  2  13  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+-'  3  13  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
 -'  803  0  ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
 -'  1  0  ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
 -'  1  0  ~/.vim/bundle/vim-colors-solarized
@@ -140,28 +149,44 @@ $
 -'  2  5  ~/holberton-system_engineering-devops/0x00-shell_basics/4-listmorefiles
 -'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/4-listmorefiles
 -'  2  4  ~/holberton-system_engineering-devops/0x00-shell_basics/3-listfiles
--'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/3-listfiles
--'  1  19  ~/holberton-system_engineering-devops/0x00-shell_basics/README.md
--'  2  0  ~/holberton-system_engineering-devops/0x00-shell_basics/holberton.mgc
--'  2  10  ~/holberton-system_engineering-devops/0x00-shell_basics/18-commas
--'  2  28  ~/holberton-system_engineering-devops/0x00-shell_basics/17-tree
--'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/17-tree
 
 # History of marks within files (newest to oldest):
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+	"	2	14
+	^	2	15
+	.	2	11
+	+	3	14
+	+	2	11
 
 > ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
 	"	2	18
 	^	2	19
-	.	3	0
-	+	2	19
-	+	3	0
+	.	2	18
+	+	3	19
+	+	4	0
+	+	2	18
 
 > ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
-	"	1	0
-	^	17	0
-	.	16	51
+	"	19	50
+	^	19	51
+	.	20	0
 	+	1	22
-	+	16	51
+	+	34	51
+	+	20	0
+
+> ~/holberton-system_engineering-devops/README.md
+	"	1	33
+	^	1	34
+	.	1	33
+	+	16	10
+	+	1	33
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections1/3-twofiles
+	"	1	0
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections1/2-hellofile
+	"	1	0
 
 > ~/holberton-system_engineering-devops/0x02-shell_redirections/7-file
 	"	2	62
@@ -204,12 +229,6 @@ $
 	^	2	5
 	.	2	4
 	+	2	4
-
-> ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-	"	2	13
-	^	2	14
-	.	2	14
-	+	2	14
 
 > ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
 	"	803	0
