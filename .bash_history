@@ -2018,3 +2018,227 @@ git commit .
 ls
 git commit -rm
 git status
+git add --all
+git status
+git commit -m "removing repo syst devop"
+git push 
+ls
+git clone https://github.com/funkified/holberton-system_engineering-devops.git
+cd holberton-system_engineering-devops/
+git init
+ls
+cd 0x02-shell_redirections
+ls
+cd ..
+rm -rf 0x02-shell_redirections 0x02-shell_redirections1
+ls
+git add --all
+git commit -m "removing redirections"
+git push 
+mkdir 0x02-shell_redirections
+touck 0x02-shell_redirections/README.md
+touch 0x02-shell_redirections/README.md
+vim 0x02-shell_redirections/
+vim  0x02-shell_redirections/README.md 
+cd 0x02-shell_redirections/
+git init 
+git add --al
+git add README.md 
+git commit -m "README"
+git push origin master
+cd ..
+git add --all
+git commit -m "readme redir"
+git push 
+git branch
+cd ..
+git branch
+cd holberton
+cd holberton-system_engineering-devops/
+git status
+git branch
+cd 0x02-shell_redirections/
+git branch
+git status
+c d..
+cd ..
+git status
+git branch
+vim 0x02-shell_redirections/0-hello_world
+chmod +x 0x02-shell_redirections/0-hello_world 
+./0x02-shell_redirections/0-hello_world 
+git add --all
+git commit -m "Helloworld1"
+git add --all
+git status
+git checkout 0x02-shell_redirections/
+git commit -m "Helloworld1"
+git add 0x02-shell_redirections/
+git commit -m "Helloworld1"
+git commit .
+git push 
+cd 0x02-shell_redirections/
+git status
+git add 0-hello_world 
+git commit -m "0helloworld:
+git commit -m "0helloworld"
+git push 
+git remote add https://github.com/funkified/holberton-system_engineering-devops.git
+git remote add origin master
+git push origin master
+git push -u origin master
+cd ..
+git status
+git add --all
+git commit -m "0helloworld"
+git push 
+git push 
+git status
+ls
+cd 0x02-shell_redirections/
+ls
+git status
+cd ..
+git rm --cached gitbook
+git rm --cached 0x02-shell_redirections/
+git status
+git add 0x02-shell_redirections/
+git status
+git commit -m "rm --cached redirections"
+git push
+vim 0x02-shell_redirections/1-confused_smiley
+chmod +x 0x02-shell_redirections/1-confused_smiley 
+vim 0x02-shell_redirections/
+vim 0x02-shell_redirections/2-hellofile
+vim 0x02-shell_redirections/3-twofiles
+vim 0x02-shell_redirections/4-lastlines
+vim 0x02-shell_redirections/5-firstlines
+vim 0x02-shell_redirections/6-third_line
+vim 0x02-shell_redirections/7-file
+chmod +x .
+git add --all
+git commit -m "task 0 -7"
+git push 
+cdd 0x02-shell_redirections/
+cd 0x02-shell_redirections/
+ls
+chmod +x 2-hellofile 
+./2-hellofile 
+vim 2-hellofile 
+./2-hellofile 
+git add 2-hellofile 
+cd ..
+git add --all
+git commit -m "fixing task 2"
+git push 
+git push 
+cd 0x02-shell_redirections/
+chmod +x *
+./3-twofiles 
+./4-lastlines 
+./5-firstlines 
+./6-third_line 
+vim iacta
+./6-third_line 
+./7-file 
+vim 7-file 
+ls
+./7-file 
+vim 7-file 
+ls
+git add --all
+git commit -m "changings permisions 1-7"
+cd ..
+git add .
+git commit -m "changings permisions 1-7"
+git push
+vim 0x02-shell_redirections/8-cwd_state
+ls -la > ls_cwd_content
+vim 0x02-shell_redirections/9-duplicate_last_line
+vim 0x02-shell_redirections/10-no_more_js
+chmod =x *
+chmod +x *
+chmod +x * 0x02-shell_redirections/
+cd 0x02-shell_redirections/
+chmod +x *
+ls
+cd ..
+chmod a+x 0x02-shell_redirections/
+cd 0x02-shell_redirections/
+ls
+cd ..
+chmod 777 0x02-shell_redirections/
+cd 0x02-shell_redirections/
+ls
+chmod +x *
+./9-duplicate_last_line 
+./10-no_more_js 
+git add --all
+cd ..
+git add --all
+chmod a+x *
+git add --all
+cd 0x02-shell_redirections/
+chmod 777 *
+git add --all
+cd ..
+git add --all
+chmod 777 README.md 
+git add --all
+chmod 777 *
+rm __ls__ 
+git add --all
+git commit -m "7-10 task" 
+git push 
+vim 0x02-shell_redirections/11-directories
+vim 0x02-shell_redirections/12-newest_files
+chmod *
+cd 0x02-shell_redirections/
+chmod +x *
+./11
+./11-directories 
+./12-newest_files 
+vim 13-unique
+chmod +x 13-unique 
+./13-unique 
+vim 14-findthatword
+chmod +x 14-findthatword 
+vim 15-countthatword
+chmod 15-countthatword 
+chmod +x 15-countthatword 
+./15
+./15-countthatword 
+git add --all
+git commit -m " -task 15"
+cd ..
+git add --all
+git commit -m " -task 15"
+git push 
+git push 
+cd ..
+cd holbertonschool-zero_day/
+cd 0x02-vi/
+;s
+ls
+vim 4-exiting 
+git add 4-exiting 
+git commit -m "fixing 4exit"
+vim 6-end_line 
+git 4-exiting 6-end_line
+git add 6-end_line 
+git commit -m "6 endline"
+git pushj
+cd ..
+git add --all
+git commit 0m "fixing vi 4-6"
+git commit -m "fixing vi 4-6"
+git status
+git push
+cd 0x02-vi/
+git status
+git push
+git branch
+git status
+cd ..
+cd ..
+git status
