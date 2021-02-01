@@ -2005,3 +2005,16 @@ cd ..
 git commit -m 0x02-shell_redirections
 cd ..
 git status
+git add .
+git commit .
+git commit -m "removing reirections1"
+git push 
+rm -rf holberton-system_engineering-devops/
+git commit -m "removing holb sys devops"
+git git commit .
+git commit .
+git commit --help
+git commit .
+ls
+git commit -rm
+git status
