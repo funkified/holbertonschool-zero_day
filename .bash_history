@@ -1968,3 +1968,40 @@ git add 0x02-shell_redirections/README.md
 cd ..
 ls
 git status
+git add --all
+git commit -m "removing shell permisison1"
+git push 
+cd holberton-system_engineering-devops/
+git status
+git rm 0x02-shell_redirections
+cd ..
+cd holberton-system_engineering-devops/
+cd 0x02-shell_redirections/
+git init
+git add 1-confused_smiley 
+git add 0-hello_world 
+git add README.md 
+git commit -m "adding readme 1, 0 task"
+git remote add origin master
+git branch -M master
+git push origin master
+git push -u origin master 
+cd ..
+git status
+git add 0x02-shell_redirections/0-hello_world 0x02-shell_redirections/1-confused_smiley 0x02-shell_redirections/README.md 
+rm -rf 0x02-shell_redirections1
+git add .
+git rm -R 0x02-shell_redirections
+git rm -f 0x02-shell_redirections
+git rm --force 0x02-shell_redirections
+cd ..
+cd holberton-system_engineering-devops/0x02-shell_redirections/
+ls
+git push 
+git push orgin -u master 
+git push origin
+git push
+cd ..
+git commit -m 0x02-shell_redirections
+cd ..
+git status
