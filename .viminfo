@@ -15,10 +15,10 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-:q
-:sq
-:WQ
 :q!
+:q
+:WQ
+:sq
 :help togglebg
 :togglebg
 :w
@@ -36,26 +36,71 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
+"0	CHAR	0
 	g
-"-	CHAR	0
-	g
+""-	CHAR	0
+	#!/bin/bash
 
 # global variables:
 
 # File marks:
-'0  2  71  ~/holberton-system_engineering-devops/0x02-shell_redirections/103-biggest_fan
-'1  2  35  ~/holberton-system_engineering-devops/0x02-shell_redirections/102-acrostic
-'2  2  94  ~/holberton-system_engineering-devops/0x02-shell_redirections/101-gifs
-'3  2  37  ~/holberton-system_engineering-devops/0x02-shell_redirections/100-empty_casks
-'4  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
-'5  2  32  ~/holberton-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
-'6  2  2  ~/holberton-system_engineering-devops/0x02-shell_redirections/21-reverse
-'7  2  4  ~/holberton-system_engineering-devops/0x02-shell_redirections/19-AZ
-'8  2  7  ~/holberton-system_engineering-devops/0x02-shell_redirections/20-hiago
-'9  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections
+'0  1  10  ~/holbertonschool-low_level_programming/Betty/betty
+'1  38  0  ~/holbertonschool-low_level_programming/Betty/betty
+'2  14  67  ~/holbertonschool-low_level_programming/README.md
+'3  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/103-the_biggest_fan
+'4  2  0  /first
+'5  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/101-odd
+'6  2  26  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/101-odd
+'7  2  109  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
+'8  2  25  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/100-rot13
+'9  2  20  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/14-decimal_to_hexadecimal
 
 # Jumplist (newest first):
+-'  1  10  ~/holbertonschool-low_level_programming/Betty/betty
+-'  38  0  ~/holbertonschool-low_level_programming/Betty/betty
+-'  14  67  ~/holbertonschool-low_level_programming/README.md
+-'  1  0  ~/holbertonschool-low_level_programming/README.md
+-'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/103-the_biggest_fan
+-'  2  0  /first
+-'  1  0  /first
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/101-odd
+-'  2  26  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/101-odd
+-'  2  109  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
+-'  2  25  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/100-rot13
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/100-rot13
+-'  2  20  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/14-decimal_to_hexadecimal
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/14-decimal_to_hexadecimal
+-'  2  23  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
+-'  2  50  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
+-'  2  18  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
+-'  2  18  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
+-'  2  22  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
+-'  2  13  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
+-'  2  23  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
+-'  2  16  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
+-'  2  2  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/5-local_variables
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/5-local_variables
+-'  2  2  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/4-global_variables
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/4-global_variables
+-'  2  27  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+-'  2  24  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/2-path
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/2-path
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/vim
+-'  2  17  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/vim
+-'  2  14  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/0-alias
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/0-alias
+-'  35  32  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/README.md
+-'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/README.md
 -'  2  71  ~/holberton-system_engineering-devops/0x02-shell_redirections/103-biggest_fan
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/103-biggest_fan
 -'  2  35  ~/holberton-system_engineering-devops/0x02-shell_redirections/102-acrostic
@@ -108,55 +153,150 @@ $
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/6-third_line
 -'  2  15  ~/holberton-system_engineering-devops/0x02-shell_redirections/5-firstlines
 -'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/5-firstlines
--'  2  15  ~/holberton-system_engineering-devops/0x02-shell_redirections/4-lastlines
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/4-lastlines
--'  2  25  ~/holberton-system_engineering-devops/0x02-shell_redirections/3-twofiles
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/3-twofiles
--'  2  14  ~/holberton-system_engineering-devops/0x02-shell_redirections/2-hellofile
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
--'  2  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
--'  16  49  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
--'  3  14  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
--'  3  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
--'  34  50  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
--'  1  33  ~/holberton-system_engineering-devops/README.md
--'  16  9  ~/holberton-system_engineering-devops/README.md
--'  2  65  ~/holberton-system_engineering-devops/README.md
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections1/3-twofiles
--'  1  0  ~/holberton-system_engineering-devops/0x02-shell_redirections1/2-hellofile
--'  4  18  ~/holberton-system_engineering-devops/0x02-shell_redirections/0-hello_world
--'  50  0  ~/holberton-system_engineering-devops/0x02-shell_redirections/README.md
--'  3  62  ~/holberton-system_engineering-devops/0x02-shell_redirections/7-file
--'  3  12  ~/holberton-system_engineering-devops/0x02-shell_redirections/6-third_line
--'  12  54  ~/holberton-system_engineering-devops/iacta
--'  1  0  ~/holberton-system_engineering-devops/iacta
--'  3  15  ~/holberton-system_engineering-devops/0x02-shell_redirections/5-firstlines
--'  3  15  ~/holberton-system_engineering-devops/0x02-shell_redirections/4-lastlines
--'  3  25  ~/holberton-system_engineering-devops/0x02-shell_redirections/3-twofiles
--'  3  4  ~/holberton-system_engineering-devops/0x02-shell_redirections/2-hellofile
--'  4  13  ~/holberton-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
--'  803  0  ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
--'  1  0  ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim
--'  1  0  ~/.vim/bundle/vim-colors-solarized
--'  3  24  ~/.vimrc
--'  1  0  ~/.vimrc
--'  1  0  ~/conf/vim-colors-solarized/autoload/togglebg.vim
--'  1  0  ~/.gitconfig
--'  1  0  ~/conf/panda.vimrc
--'  1  0  ~/conf/panda.bashrc
--'  17  0  ~/.gitconfig
--'  1  0  ~/conf/funkified.gitconfig
--'  42  0  ~/.tmux.conf
--'  1  0  ~/.tmux.conf
--'  9  0  ~/.gitconfig
--'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/holberton.mgc
--'  1  1  ~/holbertonschool-zero_day/0x03-git/.gitignore
--'  2  24  ~/holbertonschool-zero_day/0x03-git/bash/school
--'  1  0  ~/holbertonschool-zero_day/0x03-git/bash/school
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-low_level_programming/Betty/betty
+	"	1	10
+	^	1	11
+	.	20	6
+	+	38	6
+	+	20	6
+
+> ~/holbertonschool-low_level_programming/README.md
+	"	14	67
+	^	14	68
+	.	14	0
+	+	1	7
+	+	14	0
+
+> ~/holberton-system_engineering-devops/0x02-shell_redirections/103-the_biggest_fan
+	"	1	0
+
+> /first
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/101-odd
+	"	1	0
+	^	1	0
+	.	1	0
+	+	2	25
+	+	1	0
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
+	"	2	109
+	^	2	110
+	.	3	0
+	+	3	0
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/100-rot13
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/14-decimal_to_hexadecimal
+	"	2	20
+	^	2	22
+	.	2	21
+	+	2	21
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
+	"	2	23
+	^	2	24
+	.	2	23
+	+	2	23
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
+	"	2	50
+	^	2	51
+	.	2	0
+	+	2	16
+	+	1	1
+	+	2	19
+	+	1	1
+	+	2	0
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
+	"	1	0
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
+	"	2	23
+	^	2	24
+	.	2	23
+	+	2	23
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/5-local_variables
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/4-global_variables
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+	"	2	27
+	^	2	28
+	.	2	26
+	+	2	26
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/2-path
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/vim
+	"	1	0
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/0-alias
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/README.md
+	"	35	32
+	^	35	33
+	.	35	0
+	+	35	0
 
 > ~/holberton-system_engineering-devops/0x02-shell_redirections/103-biggest_fan
 	"	2	71
@@ -620,145 +760,3 @@ $
 	^	1	20
 	.	1	19
 	+	1	19
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/17-tree
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/16-clean_emacs
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/14-copy_html
-	"	2	11
-	^	2	12
-	.	2	11
-	+	2	11
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/13-symbolic_link
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	19
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/12-file_type
-	"	1	0
-	^	2	18
-	.	2	17
-	+	2	17
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/11-lists
-	"	2	16
-	^	2	17
-	.	2	16
-	+	2	16
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/8-firstdelete
-	"	2	22
-	^	2	23
-	.	2	22
-	+	2	22
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/7-movethatfile
-	"	2	33
-	^	2	34
-	.	2	33
-	+	2	33
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/6-firstdirectory
-	"	2	6
-	^	2	7
-	.	2	6
-	+	2	6
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/2-bring_me_home
-	"	2	3
-	^	2	4
-	.	2	3
-	+	2	3
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/1-listit
-	"	2	1
-	^	2	2
-	.	2	1
-	+	2	1
-
-> ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-	"	2	2
-	^	2	3
-	.	2	2
-	+	2	2
-
-> ~/holbertonschool-zero_day/0x03-git/bash/holberton
-	"	1	0
-	^	2	5
-	.	2	4
-	+	5	32
-	+	1	11
-	+	4	22
-	+	3	16
-	+	2	4
-
-> ~/holbertonschool-zero_day/0x03-git/README.md
-	"	1	0
-	^	1	28
-	.	1	27
-	+	23	67
-	+	19	0
-	+	1	0
-	+	6	0
-	+	5	0
-	+	1	27
-
-> ~/holbertonschool-zero_day/0x03-git/bash?school
-	"	2	12
-	^	2	13
-	.	2	12
-	+	2	12
-
-> ~/holbertonschool-zero_day/0x03-git/bash/README.md
-	"	1	0
-
-> ~/holbertonschool-zero_day/0x03-git/c/README.md
-	"	1	19
-	^	1	20
-	.	1	20
-	+	1	20
-
-> ~/holbertonschool-zero_day/0x01-emacs/2-cutting
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/holbertonschool-zero_day/bash/holberton
-	"	2	34
-	^	2	35
-	.	2	5
-	+	2	5
-
-> ~/holbertonschool-zero_day/bash/school
-	"	2	24
-	^	2	25
-	.	2	6
-	+	2	6
-
-> c/c_is_fun.c
-	"	1	0
-	^	1	0
-
-> ~/holbertonschool-zero_day/0x02-vi/101-delete_line
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> ~/holbertonschool-zero_day/0x02-vi/100-move_to_line
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2

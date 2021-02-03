@@ -2473,3 +2473,283 @@ git push
 git status
 cd ..
 git status
+git add --all
+git commit -m "advc task" 
+git push
+cd holberton-system_engineering-devops/
+git status
+cd 0x02-shell_redirections/
+git status
+ls
+cd ..
+cd 0x02-shell_redirections/
+mv 103-biggest_fan 103-the_biggest_fan
+ls
+git add 103-the_biggest_fan 
+cd ..
+git add .
+git status
+git add 0x02-shell_redirections/103-biggest_fan 
+git rm 0x02-shell_redirections/103-biggest_fan 
+git add 0x02-shell_redirections/103-biggest_fan 
+git add 0x02-shell_redirections/103-the_biggest_fan 
+git commit -m "rename 103"
+git push 
+echo $((2 +2))
+ls -l *.txt
+cd ..
+find /etc/profile.d/
+cat /etc/profile.d/bash_completion.sh 
+clear
+cd holberton-system_engineering-devops/
+mkdir 0x03-shell_variables_expansions
+cd 0x03-shell_variables_expansions
+git init
+vim README.md
+git add README.md 
+git commit -m "readme shellvar"
+git remote add origin master
+git branch -M master
+git push -u origin master
+git push 
+cd ..
+git status
+git add 0x03-shell_variables_expansions/
+cd 0x03-shell_variables_expansions/
+git push
+cd ..
+git add 0x03-shell_variables_expansions/README.md 
+git commit -m "readme shellvar"
+git push 
+vim 0x03-shell_variables_expansions/0-alias
+chmod +x 0x03-shell_variables_expansions/0-alias 
+vim 0x03-shell_variables_expansions/vim 0x03-shell_variables_expansions/1-hello_you
+cd 0x03-shell_variables_expansions/
+git status
+git add --all
+git commit -m "task 0-1"
+cd ..
+git status
+git add .
+git commit -m "task 0-1"
+git push 
+cd 0x03-shell_variables_expansions/
+ls
+vim vim 
+mv vim 1-hello_you
+git add 1-hello_you 
+cd ..
+git add .
+git status
+git rm 0x03-shell_variables_expansions/vim
+git add 0x03-shell_variables_expansions/1-hello_you 
+git commit -m "hellu"
+git push 
+chmod +x 0x03-shell_variables_expansions/1-hello_you 
+./0x03-shell_variables_expansions/1-hello_you 
+git add 0x03-shell_variables_expansions/1-hello_you 
+git commit -m "helleu"
+git push 
+vim 0x03-shell_variables_expansions/2-path
+export --help
+man export
+vim 0x03-shell_variables_expansions/3-paths
+chmod +x 0x03-shell_variables_expansions/3-paths 
+./0x03-shell_variables_expansions/3-paths 
+cd 0x03-shell_variables_expansions/
+git status
+git add --all
+git commit -m "task 0-3"
+cd ..
+git satsu
+git add .
+git commit -m "task 0-3"e
+git push
+printenv
+env
+vim 0x03-shell_variables_expansions/4-global_variables
+chmod +x 0x03-shell_variables_expansions/
+cd 0x03-shell_variables_expansions/
+ls
+chmod +x 4-global_variables 
+./4-global_variables 
+git add 4-global_variables 
+git commit -m "env"
+cd ..
+git add .
+git commit -m "env"
+git push 
+cd 0x03-shell_variables_expansions/
+vim 5-local_variables
+chmod +x 5-local_variables 
+./5-local_variables 
+vim 6-create_local_variable
+vim 6-create_local_variable
+chmod +x 6-create_local_variable 
+./6-create_local_variable 
+vim 7-create_global_variable
+chmod +x 7-create_global_variable 
+./7-create_global_variable 
+vim 8-true_knowledge
+chmod +x 8-true_knowledge 
+git add .
+./8-true_knowledge 
+vim 8-true_knowledge 
+git add .
+git commit -m "5-8"
+cd ..
+git add .
+git commit -m "5-8"
+git push 
+cd 0x03-shell_variables_expansions/
+vim 9-divide_and_rule
+chmod +x 9-divide_and_rule 
+./9-divide_and_rule 
+export POWER
+export DIVIDE
+./9-divide_and_rule 
+git add 9-divide_and_rule 
+vim 10-love_exponent_breath
+chmod +x 10-love_exponent_breath 
+./10-love_exponent_breath 
+ git add 10-love_exponent_breath 
+vim 11-binary_to_decimal
+chmod +x 11-binary_to_decimal 
+./11-binary_to_decimal 
+git status
+git add 11-binary_to_decimal 
+git add --all
+git commit -m "9-10"
+git push 
+cd .
+cd ..
+git status
+git add .
+git commit -m "9-10"
+git push 
+cd 0x03-shell_variables_expansions/
+ls
+vim 10-love_exponent_breath 
+git add 10-love_exponent_breath 
+cd ..
+git add .
+git commit -m "fixing 10"
+git push 
+cd 0x03-shell_variables_expansions/
+vim 12-combinations
+chmod +x 12-combinations 
+./12-combinations 
+git add 12-combinations 
+cd ..
+git add .
+git status
+git add 0x03-shell_variables_expansions/12-combinations 
+git commit -m "12 comb" 
+git push 
+vim 0x03-shell_variables_expansions/12-combinations 
+./0x03-shell_variables_expansions/12-combinations 
+git add .
+git commit -m "fixing 12comb"
+git push 
+vim 0x03-shell_variables_expansions/12-combinations 
+./0x03-shell_variables_expansions/12-combinations 
+cd 0x03-shell_variables_expansions/
+git add 12-combinations 
+cd ..
+git add  .
+git commit -m "fixing 12comb"
+git push 
+vim 0x03-shell_variables_expansions/13-print_float
+chmod +x 0x03-shell_variables_expansions/13-print_float 
+./0x03-shell_variables_expansions/13-print_float 
+vim 0x03-shell_variables_expansions/14-decimal_to_hexadecimal
+chmod +x 0x03-shell_variables_expansions/14-decimal_to_hexadecimal 
+0x03-shell_variables_expansions/14-decimal_to_hexadecimal 
+git add .
+git commit -m "12 -14" 
+git push 
+vim 0x03-shell_variables_expansions/100-rot13
+chmod +x 0x03-shell_variables_expansions/100-rot13 
+./0x03-shell_variables_expansions/100-rot13 
+vim 0x03-shell_variables_expansions/101-odd
+chmod +x 0x03-shell_variables_expansions/101-odd 
+vim 0x03-shell_variables_expansions/102-water_and_stir
+chmod +x 0x03-shell_variables_expansions/102-water_and_stir 
+git add .
+git commit -m "advc tasks" 
+git push 
+vim 0x03-shell_variables_expansions/101-odd 
+chmod +x 0x03-shell_variables_expansions/101-odd 
+./0x03-shell_variables_expansions/101-odd 
+vim 0x03-shell_variables_expansions/101-odd 
+./0x03-shell_variables_expansions/101-odd 
+git add .
+git commit -m "advc tasks" 
+git push 
+cd 0x03-shell_variables_expansions/
+git status
+git add .
+vim 101-odd 
+git add .
+git commit -m "advanced"
+cd ..
+git add .
+git commit -m "advanced"
+chmod +x 0x03-shell_variables_expansions/101-odd 
+./0x03-shell_variables_expansions/101-odd 
+git add ..
+git status
+ls -1
+cd 0x02-shell_redirections/
+cat 100-empty_casks 
+./100-empty_casks 
+cd ~
+cd .
+cd holberton-system_engineering-devops/
+cd \
+cd /
+cd --help
+clear
+vim first lines
+cd ..
+cd ~
+ls
+cd holberton-system_engineering-devops/
+ls
+cd 0x02-shell_redirections/
+ls
+vim 103-the_biggest_fan 
+cd ..
+cd .
+cd ..
+mkdir holbertonschool-low_level_programming
+echo "# holbertonschool-low_level_programming" >> README.md
+cd holberton
+cd holbertonschool-low_level_programming/o
+ls
+cd holbertonschool-low_level_programming/
+ls
+vim README.md
+git init
+git add README.md 
+git commit -m "README.md first comm"
+git branch -M master
+git remote add origin https://github.com/funkified/holbertonschool-low_level_programming.git
+git push origin master
+git clone https://github.com/holbertonschool/Betty.git
+cd Betty/
+sudo ./install.sh 
+vim betty
+vim betty
+git add .
+git commit -m "betty installed'
+git push 
+ cd..
+cd ..
+git status
+git add .
+git commit -m "betty installed"
+git push
+cd ..
+git statis
+git add holbertonschool-low_level_programming/
