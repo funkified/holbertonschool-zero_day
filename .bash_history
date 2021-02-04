@@ -2753,3 +2753,698 @@ git push
 cd ..
 git statis
 git add holbertonschool-low_level_programming/
+git add .
+git commit m " C first commit"
+git commit -m " C first commit"
+git push 
+cd holbertonschool-low_level_programming/
+git status
+git add .
+git commit -m " C first commit"
+git add Betty/
+git commit -m " C first commit"
+ls
+mkdir 0x00-hello_world
+touch 0x00-hello_world/README.md
+git add 0x00-hello_world/
+git add 0x00-hello_world/README.md 
+git commit -m "hello world C"
+git git push 
+ls
+rm push/
+rm rf push/
+rm -rf push/
+git status 
+git add Betty/
+git commit -m "hello world C"
+git checkout Betty/
+git status
+cd Betty/
+git status
+got add betty
+git add betty
+cd ..
+git status
+cd Betty/
+git status
+git add betty
+git commit -m "betty"
+cd ..
+git status
+git add Betty/
+git status
+git add Betty/
+git status
+hit reset HEAD Betty/betty
+git reset HEAD Betty/betty
+git status
+gitgit add Betty/
+git add Betty/
+git commit -m "Betty"
+git push 
+git rm --cached Betty/
+ls
+git status
+git add Betty/
+git commit -m "git rm --cached Betty"
+git push 
+git 0x00-hello_world/
+cd 0x00-hello_world/
+git init
+ls
+vim README.md 
+git add README.md 
+git commit -m "C README" 
+vim README.md 
+vim 0-preprocessor
+man gcc 
+chmod 0-preprocessor 
+chmod +x 0-preprocessor 
+./0-preprocessor 
+vim main.c
+chmod main.c 
+chmod +x main.c 
+export CFILE=main.c
+tail c
+ls
+./0-preprocessor 
+tail c
+ls
+./c
+chmod +x c
+./c
+vim 0-preprocessor 
+git status
+git add .
+git add README.md 
+git commit -m "task 1 prepro"
+git pus 
+git push
+git push origin master
+git remote add https://github.com/funkified/holbertonschool-low_level_programming.git
+git remote add origin master https://github.com/funkified/holbertonschool-low_level_programming.git
+git remote add origin https://github.com/funkified/holbertonschool-low_level_programming.git
+git push origin master 
+git branch -M master
+git push -u origin master
+git push -u origin master
+git status
+cd ..
+cd 0x00-hello_world/
+git init
+cd ..
+git status
+git add .
+git status
+git add .
+git commit -m "task 1 " 
+git push 
+export CFILE=main.c
+cat main.c
+cd 0x00-hello_world/
+git status
+cat main.c
+vim 1-compiler
+chmod +x 1-compiler 
+./1-compiler 
+ls
+git add .
+git status
+git commit -m "1-comp"
+git push 
+git push origin master
+cd ..
+git add .
+git stauts
+git commit -m "1-comp"
+git push 
+cd 0x00-hello_world/
+export CFILE=main.c
+cat main.c
+vim 2-assembler
+./2
+chmod +x 2-assembler 
+./2-assembler 
+ls
+vim 2-assembler 
+./2-assembler 
+ls
+rm s 
+git add .
+git commit -m "assembler:
+git commit -m "assembler"
+cd ..
+gi add .
+git add .
+git commit -m "assembler"
+git push 
+cd 0x00-hello_world/
+cat main.
+cat main.c 
+vim 3-name
+chmod +x 3-name 
+./3-name 
+ls
+./c 
+./ci
+git add . 
+git commit -m "3-name"
+cd ..
+git add ' 
+ls
+vim 0x00-hello_world/4-puts.c
+chmod 0x00-hello_world/4-puts.c 
+chmod +x 0x00-hello_world/4-puts.c 
+cd 0x00-hello_world/
+gcc 4-puts.c -0 a.out
+gcc 4-puts.c -o a.out
+vim 0x00-hello_world/4-puts.c
+vim 4-puts.c 
+gcc 4-puts.c -o a.out
+vim 4-puts.c 
+gcc 4-puts.c -o a.out
+vim 4-puts.c 
+gcc 4-puts.c -o a.out
+vim 4-puts.c 
+gcc 4-puts.c -o a.out
+ls
+./a.out 
+vim 4-puts.c 
+./4-puts.c 
+vim 4-puts.c 
+gcc 4-puts.c -o a.out
+./a.out 
+git add .
+git commit -m "puts" 
+cd ..
+git add .
+git commit -m "puts" 
+git push 
+vim 0x00-hello_world/1-compiler 
+./0x00-hello_world/1-compiler -o main.o
+cd 0x00-hello_world/
+./1-compiler -o main.o
+ls
+git add .
+git commit -m "fixing 1comp"
+git push 
+cd ..
+git add .
+git commit -m "fixing 1comp"
+git push 
+cd 0x00-hello_world/
+vim 4-puts.c 
+gcc 4-puts.c -o a.out
+./a.out 
+vim 4-puts.c 
+vim 4-puts.c 
+gcc 4-puts.c -o a.out
+./a.out 
+git add .
+git commit -m "fixing 4"
+cd ..
+git add .
+git commit -m "fixing 4"
+git push 
+cd 0x00-hello_world/
+vim 4-puts.c 
+gcc 4-puts.c -o a.out
+./a.out 
+git add .
+git commit -m "4puts fix"
+cd ..
+git add .
+git commit -m "4puts fix"
+git push 
+ cd 0x00-hello_world/
+ls
+echo $?
+gcc 4-puts.c && ./a.out 
+git add .
+git commit -m "fixing 4 again"
+git status
+cd ..
+git status
+ls
+cd 0x00-hello_world/
+ls
+./a.out 
+cd ..
+git add 0x00-hello_world/a.out 
+git commit -m "aout"
+git status
+git push
+cd c
+cd 0x00-hello_world/c
+cd 00x0
+cd 0x00-hello_world/
+vim 4-puts.c 
+gcc 4-puts.c && ./a.out 
+./a.out 
+echo $?
+git status
+git add .
+git commit -m "4 fix"
+cd ..
+git add .
+git commit -m "4fix"
+git push 
+clear
+./0x00-hello_world/a.out 
+vim 0x00-hello_world/4-puts.c 
+./0x00-hello_world/a.out 
+cd 0x00-hello_world/
+gcc 4-puts.c && ./a.out 
+git add .
+git commit -m "fixing 4"
+cd ..
+git add .
+git commit -m "fixing 4"
+git push 
+cd 0x00-hello_world/
+ls
+vim 5-printf.c
+chmod +x 5-printf.c 
+gcc -Wall 5-printf.c 
+./a.out
+vim 
+vim 5-printf.c 
+gcc -Wall 5-printf.c 
+./a.out
+git add .
+git commit -m "5printf"
+cd ..
+gitadd .
+git add .
+git commit -m "printf 5"
+git push 
+cd 0x00-hello_world/
+vim 6-size.c
+git add 6-size.c 
+sudo apt-update
+sudo apt-get update
+cd `
+cd ~
+sudo apt-get update
+sudo apt-get libc6-dev-i386
+sudo apt-get install libc6-dev-i386
+cd holbertonschool-low_level_programming/
+cd 0x00-hello_world/
+chmod 6-size.c 
+chmod +x 6-size.c 
+gcc 6-size.c -m32 -o size32 2> /tmp/32
+gcc 6-size.c -m32 -o size64 2> /tmp/64
+ls
+./size32
+./tmp/32
+cd /tmp/32
+cd tmp
+cd ~
+cd tmp
+find tmp
+ls -la
+cd holbertonschool-low_level_programming/
+ls
+cd 0x00-hello_world/
+gcc 6-size.c -m32 -o size64 2> /tmp/64
+ls
+git status
+git add 6-size.c 
+git commit -m "6size"
+cd ..
+git status
+git add .
+git commit -m "size"
+git push 
+cd ..
+cd holbertonschool-
+cd holbertonschool-low_level_programming/
+git push
+git push
+cd 0x00-hello_world/
+vim 6-size.c 
+sudo apt-get install libc6-dev-i386
+sudo apt-get update
+sudo apt-get install libc6-dev-i386
+gcc 6-size.c -m32 -o size32 2> /tmp/32
+ls
+cd tmp/
+mkdir tmp/32
+mkdir tmp
+touch tmp/32
+ls ..
+cd 0x0
+gcc 6-size.c -m32 -o size32 2> /tmp/32
+ls tmp/32
+ls tmp/
+cd ..
+cd 0x00-hello_world/
+gcc 6-size.c -m32 -o size32 2> /tmp/32
+-m32 gcc
+gcc -m32
+gcc -m32 -o size32
+gcc 6-size.c -m32 -o size32
+vim 6-size.c 
+vim 6-size.c 
+gcc 6-size.c -m32 -o size32
+vim 6-size.c 
+gcc 6-size.c -m32 -o size32
+vim 6-size.c 
+gcc 6-size.c 
+gcc 6-size.c -m32 -o size32
+gcc -Wformat 6-size.c -m32 -o size32
+gcc -Wall -Werror -Pendatic -Wformat 6-size.c -m32 -o size32
+gcc -Wall -Werror -pendatic -Wformat 6-size.c -m32 -o size32
+gcc -Wall -Werror -Wformat 6-size.c -m32 -o size32
+gcc 6-size.c -m32 -o size32 2> /tmp/32
+./size32 
+clear
+vim 6-size.c 
+./size32 
+git add 
+git add .
+git commit -m "6size compile m32"
+gcc 6-size.c -m64 -o size64 2> /tmp/64
+./size64 
+git add .
+git commit -m "sizeof64"
+cd ..
+git add .
+git commit -m "sizeof32 64"
+git push 
+cd 0x00-hello_world/
+ls
+vim 5-printf.c 
+betty 5-printf.c 
+vim 5-printf.c 
+betty 5-printf.c 
+vim 5-printf.c 
+betty 5-printf.c 
+vim 5-printf.c 
+betty 5-printf.c 
+vim 5-printf.c 
+betty 5-printf.c 
+gcc 6-size.c 
+gcc 5-printf.c 
+betty 5-printf.c 
+vim 5-printf.c 
+betty 5-printf.c 
+betty 6-size.c 
+perl --help
+perl -X
+perldoc perl
+betty 6-size.c 
+vim 6-size.c 
+betty 6-size.c 
+chmod +x main.
+chmod +x main.c
+gcc main.
+gcc main.c
+betty 6-size.c 
+git add . 
+git commit -m "betty 5-6"
+cd ..
+git add .
+git commit -m "betty 5-6"
+git push
+cd 0x00-hello_world/
+vim 4-puts.c 
+betty 4-puts.c 
+vim 4-puts.c 
+betty 4-puts.c 
+vim 4-puts.c 
+betty 4-puts.c 
+betty 4-puts.c 
+vim 4-puts.c 
+gcc 4-puts.c 
+betty 4-puts.c 
+vim 4-puts.c 
+betty 4-puts.c 
+git add 4-puts.c 
+git commit -m "betty 4puts"
+cd ..
+git add .
+git commit -m "betty 4puts"
+git push 
+vim 0x00-hello_world/4-puts.c 
+betty 4
+betty 0x00-hello_world/4-puts.c 
+git add .
+git commit -m "betty doc 4puts"
+git push
+vim 0x00-hello_world/4-puts.c 
+betty 0x00-hello_world/4-puts.c 
+git add .
+git commit -m "betty doc 4puts 2"
+git push 
+cd 0x00-hello_world/
+vim 100-intel
+vim 100-intel
+chmod +x 100-intel 
+./100-intel 
+gcc 100 -o main.c 2> main.s
+ls
+cat main.s 
+gcc 100-intel -o main.c 2> main.s
+cat main.s 
+gcc 100-intel -o main.c
+gcc -S 100-intel -o main.c
+gcc -S 100-intel -o main.c main.s
+gcc -S 100-intel -o main.c > main.s
+ls
+cat main.
+cat main.s
+./100-intel 
+ls
+gcc -c main.o main.c
+mv main.o main.c
+./100-intel 
+ls
+rm main.c
+./100-intel 
+vim main.c
+chmod +x main.c
+./100-intel 
+ls
+cat main.s
+git add .
+git rm main.c
+git --cache main.c
+git rm --cached main.c
+git status
+git add main.c
+git add .
+git rm main.o
+git add .
+git commit -m "100 intel"
+cd ..
+git add . 
+git status
+git rm 0x00-hello_world/main.o
+git add .
+git commit -m "100 intel"
+git push 
+cd 0x00-hello_world/
+vim 101-quote
+vim 101-quote.c
+chmod 101-quote.c 
+chmod +x 101-quote.c 
+gcc -Wall 101-quote.c -o quote
+vim 101-quote.c
+gcc -Wall 101-quote.c -o quote
+./quote 
+vim 101-quote.c
+./quote 
+gcc -Wall 101-quote.c -o quote
+./quote 
+git add .
+git commit -m "101quote"
+cd ..
+git add .
+git commit -m "101quote"
+git push 
+cd 0x00-hello_world/
+betty 101-quote.c 
+vim 101-quote.c
+betty 101-quote.c 
+vim 101-quote.c
+betty 101-quote.c 
+betty 101-quote.c 
+betty 100-intel 
+git add .
+git commit -m "betty 100 1001"
+cd ..
+git add .
+git commit -m "betty 100 1001"
+git push
+gcc main.c
+cd 0x00-hello_world/
+gcc 
+gcc main.c
+ls
+./101-quote.c 
+./quote 
+./size32 
+cd ..
+mkdir 0x01-variables_if_else_while
+cd 0x01-variables_if_else_while/
+git init 
+vim README.md 
+git add README.md 
+git commit -m "0x01 Readme"
+git push 
+git branch -M
+git branch -M master
+git remote add origin master 
+git push -u origin master
+cd ..
+git add 0x01-variables_if_else_while/
+git add 0x01-variables_if_else_while/README.md 
+git commit -m "0x01 Readme"
+git push
+git push
+git push
+vim 0x01-variables_if_else_while/0-positive_or_negative.c
+cd 0x01-variables_if_else_while/
+ls
+chmod +x 0-positive_or_negative.c 
+gcc 0-positive_or_negative.c 
+./0-positive_or_negative.c 
+gcc export LANGUAGE=en_US.UTF-8
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+locale-gen en_US.UTF-8
+dpkg-reconfigure locales
+sudo dpkg-reconfigure locales
+gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+./0-positive_or_negative
+ls
+./a.out 
+ls
+./0-positive_or_negative
+betty 0-positive_or_negative
+./0-positive_or_negative
+ls
+chmod +x 0-positive_or_negative
+./0-positive_or_negative
+vim 0-positive_or_negative.c
+gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+./0-positive_or_negative
+./a.out 
+vim 0-positive_or_negative.c
+gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+vim 0-positive_or_negative.c
+gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+vim 0-positive_or_negative.c
+gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+./0-positive_or_negative
+vim 0-positive_or_negative
+vim 0-positive_or_negative.c 
+gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+git status
+git add .
+git commit -m "0 pos or negative"
+cd ..
+gti add .
+git add .
+git commit -m "0 pos or negative"
+git push 
+vim cd 0x01-variables_if_else_while/
+git status
+cd 0x01-variables_if_else_while/
+ls
+vim 0-positive_or_negative
+vim 0-positive_or_negative.c
+ gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./vim 0-positive_or_negative.c
+vim 0-positive_or_negative.c
+ gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+./0-positive_or_negative
+/.0
+git add .
+betty 0-positive_or_negative
+betty 0-positive_or_negative.c
+vim 0-positive_or_negative.c 
+vim 0-positive_or_negative.c 
+betty 0-positive_or_negative.c
+vim 0-positive_or_negative.c 
+betty 0-positive_or_negative.c
+vim 0-positive_or_negative.c 
+betty 0-positive_or_negative
+betty 0-positive_or_negative.c
+git add .
+git commit -m "betty 0posneg"
+cd ..
+git add .
+git commit -m "betty 0posneg"
+git push 
+git push 
+cd 0x01-variables_if_else_while/
+cd ..
+cd ..
+ls -l
+ls -la
+ls -la
+vim .bashrc
+git clone https://github.com/panda01/conf.git
+ls
+ls -la
+cd conf/
+ls
+./install.sh 
+ls
+vim panda.gitconfig 
+sudo apt install neovim
+sudo add-apt repository ppa:neovim-ppa/stable
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt-get update
+sudo apt-get install neovim
+sudo apt-get install nvim
+sudo apt-get update
+vim student.install.sh
+git status
+git add .
+git stastus
+cd ..
+git status
+hgit add .
