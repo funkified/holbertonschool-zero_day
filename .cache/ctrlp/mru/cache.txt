@@ -1,0 +1,15 @@
+/home/vagrant/holbertonschool-low_level_programming/10-print_comb2.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/9-print_comb.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/8-print_base16.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/7-print_tebahpla.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/6-print_numberz.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/5-print_numbers.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/5-print_numbers
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/4-print_alphabt.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/4-print_alphabt
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/localebetty.sh
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/3-print_alphabets
+/home/vagrant/holbertonschool-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c

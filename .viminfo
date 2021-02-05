@@ -2,7 +2,7 @@
 # You may edit it if you're careful!
 
 # Value of 'encoding' when this file was written
-*encoding=utf-8
+*encoding=latin1
 
 
 # hlsearch on (H) or off (h):
@@ -14,8 +14,9 @@
 $
 
 # Command Line History (newest to oldest):
-:wq
 :q
+:wq
+:wq!
 :q!
 :i
 :WQ
@@ -23,7 +24,6 @@ $
 :help togglebg
 :togglebg
 :w
-:wq!
 :qw
 
 # Search String History (newest to oldest):
@@ -45,18 +45,33 @@ $
 # global variables:
 
 # File marks:
-'0  4  25  ~/conf/student.install.sh
-'1  15  0  ~/conf/panda.gitconfig
-'2  6  0  ~/.bashrc
-'3  15  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-'4  16  1  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-'5  14  15  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-'6  10  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-'7  12  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-'8  23  19  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-'9  1  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative
+'0  21  9  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+'1  1  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit
+'2  22  36  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+'3  6  2  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+'4  10  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+'5  8  10  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+'6  18  13  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+'7  25  8  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+'8  1  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+'9  14  6  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
 
 # Jumplist (newest first):
+-'  21  9  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit
+-'  22  36  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  6  2  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  10  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  8  10  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  18  13  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  25  8  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  14  6  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  20  6  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  24  67  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  17  24  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  26  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit_c
 -'  4  25  ~/conf/student.install.sh
 -'  1  0  ~/conf/student.install.sh
 -'  15  0  ~/conf/panda.gitconfig
@@ -140,24 +155,51 @@ $
 -'  2  20  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/14-decimal_to_hexadecimal
 -'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/14-decimal_to_hexadecimal
 -'  2  23  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
--'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
--'  2  50  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
--'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
--'  2  18  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
--'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
--'  2  18  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
--'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
--'  2  22  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
--'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
--'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
--'  2  13  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
--'  2  23  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
--'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
--'  2  16  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
--'  1  0  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
--'  2  2  ~/holberton-system_engineering-devops/0x03-shell_variables_expansions/5-local_variables
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+	"	21	9
+	^	22	37
+	.	22	36
+	+	2	7
+	+	1	8
+	+	5	27
+	+	20	51
+	+	26	0
+	+	16	14
+	+	17	24
+	+	20	24
+	+	18	31
+	+	20	22
+	+	18	11
+	+	18	15
+	+	19	5
+	+	20	66
+	+	24	67
+	+	22	6
+	+	20	6
+	+	18	12
+	+	14	6
+	+	19	0
+	+	25	8
+	+	18	14
+	+	5	0
+	+	6	6
+	+	8	11
+	+	18	11
+	+	8	31
+	+	6	2
+	+	22	36
+
+> ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit
+	"	1	0
+
+> ~/holbertonschool-low_level_programming/0x01-variables_if_else_while/1-last_digit_c
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/conf/student.install.sh
 	"	4	25
@@ -836,21 +878,3 @@ $
 	^	2	25
 	.	2	24
 	+	2	24
-
-> ~/holberton-system_engineering-devops/0x01-shell_permissions/13-change_group
-	"	2	20
-	^	2	21
-	.	2	20
-	+	2	20
-
-> ~/holberton-system_engineering-devops/0x01-shell_permissions/12-drectory_permissions
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
-
-> ~/holberton-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-	"	2	29
-	^	2	30
-	.	2	29
-	+	2	29

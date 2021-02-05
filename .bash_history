@@ -3448,3 +3448,564 @@ git stastus
 cd ..
 git status
 hgit add .
+git add .
+git commit -m "nvim conf"
+git push 
+cd holbertonschool-low_level_programming/
+ls
+git status
+cd 0x01-variables_if_else_while/
+cd conf/
+chmod +x student.install.sh 
+vim 1-last_digit_c
+./student.install.sh 
+vim 1-last_digit.c
+chmod +x 1-last_digit.c 
+gcc 1-last_digit.c 
+vim 1-last_digit.c
+gcc 1-last_digit.c 
+ls
+./1-last_digit.c 
+gcc 1-last_digit.c -o 1-last_digit
+./1-last_digit
+./1-last_digit
+ls
+./a.out 
+vim 1-last_digit
+vim 1-last_digit.c
+gcc 1-last_digit.c -o 1-last_digit
+vim 1-last_digit.c
+gcc 1-last_digit.c -o 1-last_digit
+vim 1-last_digit.c
+gcc 1-last_digit.c -o 1-last_digit
+./1-last_digit
+vim 1-last_digit.c
+gcc 1-last_digit.c -o 1-last_digit
+vim 1-last_digit.c
+gcc 1-last_digit.c -o 1-last_digit
+vim 1-last_digit.c
+gcc 1-last_digit.c -o 1-last_digit
+vim 1-last_digit.c
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+vim 1-last_digit.c
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+vim 1-last_digit.c
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+./1-last_digit
+./1
+./1-last_digit
+./1-last_digit
+./1-last_digit
+betty 1-last_digit.c
+vim 1-last_digit.c
+vim 1-last_digit.c
+betty 1-last_digit.c
+vim 1-last_digit.c
+betty 1-last_digit.c
+git add .
+git commit -m "last digit" 
+cd ..
+git add .
+git commit -m "last digit" 
+git push 
+vim 0x01-variables_if_else_while/1-last_digit
+vim 0x01-variables_if_else_while/1-last_digit.c
+cd 0x01-variables_if_else_while/
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+git add .
+git commit -m "last digit betty doc"
+cd ..
+git add .
+git commit -m "last digit betty doc"
+git push 
+sudo snap install nvim
+sudo snap install nvim --classic
+sudo snapd install nvim --classic
+reboot
+sudo reboot
+cd conf/
+cd holbertonschool-low_level_programming/
+ls
+cd 0x01-variables_if_else_while/
+ls
+vim 1-last_digit.c
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+betty 1-last_digit.c
+git add .
+git commit -m "betty 1lastdigit"
+cd ..
+git add .
+git commit -m "betty 1lastdigit"
+git push
+git push
+sudo snap install nvim --classic
+vim 0x01-variables_if_else_while/1-last_digit.c
+nvim somefile
+./install.sh 
+sudo ./install.sh 
+ls
+git clone https://github.com/panda01/conf.git
+./install.sh 
+cd ..
+./1-last_digit
+git status
+cd 0x01-variables_if_else_while/
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+vim 1-last_digit
+vim 1-last_digit.c
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+,.1
+./1-last_digit
+./1
+./1-last_digit
+./1-last_digit
+git add .
+git commit -m "and is 0"
+cd ..
+git add .
+git commit -m "and is 0"
+git push 
+vim 0x01-variables_if_else_while/1-last_digit
+vim 0x01-variables_if_else_while/1-last_digit.c
+cd 0x01-variables_if_else_while/
+nvim 2-print_alphabet.c
+chmod +x 2-print_alphabet.c 
+ gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+ls
+gcc -std=c99 -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+ls
+./2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -std=c99 -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -std=c99 -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -std=c99 -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -std=c99 -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+./2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -std=c99 -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+nvim 2-print_alphabet.c
+gcc -std=c99 -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+./2-print_alphabet
+betty 2-print_alphabet.c
+nvim 2-print_alphabet.c
+gcc -std=c99 -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
+./2-print_alphabet
+betty 2-print_alphabet.c
+git add .
+git commit -m "low alpha"
+cd ..
+git add .
+git commit -m "low alpha"
+git push 
+git push 
+cd 0x01-variables_if_else_while/
+nvim 3-print_alphabets.c
+chmod +x 3-print_alphabets.c 
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+./3-print_alphabets
+betty 3-print_alphabets
+betty 3-print_alphabets.c
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+./3-print_alphabets
+betty 3-print_alphabets.c
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+./3-print_alphabets
+betty 3-print_alphabets
+betty 3-print_alphabets.c
+nvim 3-print_alphabets.c
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+betty 3-print_alphabets.c
+git add .
+git commit -m "upper alpha"
+cd ..
+git add .
+git commit -m "upper alpha"
+git push 
+git push 
+cd 0x01-variables_if_else_while/
+./3-print_alphabets
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+./3-print_alphabets
+betty 3-print_alphabets
+betty 3-print_alphabets.c
+nvim 3-print_alphabets.c
+betty 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+git add .
+git commit -m "alpha fix"
+cd ..
+git add .
+git commit -m "alpha fix"
+git push 
+cd 0x01-variables_if_else_while/
+nvim 3-print_alphabets
+nvim 3-print_alphabets.c
+gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
+./3
+./3-print_alphabets
+betty 3-print_alphabets.c
+git add .
+git commit -m "fixing new lines" 
+cd ..
+git add .
+git commit -m "fixing new lines" 
+git push 
+cd 0x01-variables_if_else_while/
+nvim 1-last_digit.c
+betty 1-last_digit.c
+git add .
+git commit -m "betty task1"
+cd ..
+git add .
+git commit -m "betty task1"
+git push 
+cd 0x00-hello_world/
+cd ..
+0x01-variables_if_else_while/
+cd 0x01-variables_if_else_while/
+nvim 4-print_alphabt.c
+chmod +x 4-print_alphabt.c 
+gcc 4-print_alphabt.c 
+nvim 4-print_alphabt.c
+gcc 4-print_alphabt.c 
+nvim 4-print_alphabt.c
+gcc 4-print_alphabt.c 
+gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
+./4-print_alphabt
+betty 4-print_alphabt
+betty 4-print_alphabt.c
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+nvim 4-print_alphabt.c
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+git add .
+git commit -m "4-alpha"
+cd ..
+git add .
+git commit -m "4-alpha"
+git push 
+git push 
+git push 
+git push 
+git push 
+git push 
+cd 0x01-variables_if_else_while/
+ls
+nvim 1-last_digit
+cd ..
+cd 0x01-variables_if_else_while/
+nvim localebetty.sh
+chmod +x localebetty.sh 
+./localebetty.sh 
+betty 1-last_digit
+betty 1-last_digit.c
+export LANGUAGE=en_US.UTF-8
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+locale-gen en_US.UTF-8
+sudo dpkg-reconfigure locales
+betty 1-last_digit.c
+./localebetty.sh 
+nvim 4-print_alphabt
+nvim 4-print_alphabt.c 
+betty 4-print_alphabt.c
+nvim 1-last_digit
+nvim 1-last_digit.c
+betty 1-last_digit.c
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+nvim 1-last_digit
+nvim 1-last_digit.c
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+git add .
+git commit -m "fixing 1lastdigit" 
+cd ..
+git commit -m "fixing 1lastdigit" 
+git add .
+git commit -m "fixing 1lastdigit" 
+git push 
+pppppppppppppp
+cd 0x01-variables_if_else_while/
+nvim 1-last_digit
+nvim 1-last_digit.c
+nvim 5-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+nvim 5-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+nvim 5-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+./5-print_numbers 
+nvim 5-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+nvim 5-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+nvim 5-print_numbers.c
+nvim 5-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+./5-print_numbers 
+betty 5-print_numbers.c
+nvim 5-print_numbers.c
+betty 5-print_numbers.c
+nvim 5-print_numbers.c
+betty 5-print_numbers.c
+nvim 5-print_numbers.c
+betty 5-print_numbers.c
+nvim 5-print_numbers.c
+betty 5-print_numbers.c
+nvim 5-print_numbers.c
+betty 5-print_numbers.c
+nvim 5-print_numbers.c
+betty 5-print_numbers.c
+git add .
+git add -m "5 numbers"
+git commit -m "5 numbers"
+cd .
+cd ..
+git add .
+git commit -m "5 numbers"
+git push 
+cd 0x01-variables_if_else_while/
+nvim 5-print_numbers
+nvim 5-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
+./5-print_numbers 
+git add .
+git commit -m "fixiing spaces"
+cd ..
+git add .
+git commit -m "fixiing spaces"
+git push
+cd 0x01-variables_if_else_while/
+nvim 6-print_numberz.c
+chmod +x 6
+chmod +x 6-print_numberz.c 
+gcc 6-print_numberz.c 
+gcc -Wall -pedantic -Werror -Wextra 6-print_numberz.c -o 6-print_numberz
+./6-print_numberz
+betty 6-print_numberz.c
+nvim 6-print_numberz.c
+betty 6-print_numberz.c
+git add .
+git commit -m "6numbers"
+cd ..
+git add .
+git commit -m "6 numbers"
+git push 
+cd 0x01-variables_if_else_while/
+nvim 7-print_tebahpla.c
+chmod +x 7-print_tebahpla.c 
+gcc -Wall -pedantic -Werror -Wextra 7-print_tebahpla.c -o 7-print_tebahpla
+./7-print_tebahpla
+git add .
+git commit -m "reverse alpha"
+cd ..
+git add ..
+git add .
+git commit -m "reverse alpha"
+git push 
+cd 0x01-variables_if_else_while/
+nvim 8-print_base16.c
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+nvim 8-print_base16.c
+gcc -Wall -pedantic -Werror -Wextra 8-print_base16.c -o 8-print_base16
+./8-print_base16 
+betty 8-print_base16.c
+nvim 8-print_base16.c
+betty 8-print_base16.c
+nvim 8-print_base16.c
+betty 8-print_base16.c
+git add .
+git commit -m "print base 16"
+cd ..
+git add .
+git commit -m "print base16"
+git push 
+cd 0x01-variables_if_else_while/
+nvim 9-print_comb.c
+chmod +x 9-print_comb.c 
+gcc -Wall -pedantic -Werror -Wextra 9-print_comb.c -o 9-print_comb
+./9-print_comb
+gcc -Wall -pedantic -Werror -Wextra 9-print_comb.c -o 9-print_comb
+./9-print_comb
+nvim 9-print_comb.c
+gcc -Wall -pedantic -Werror -Wextra 9-print_comb.c -o 9-print_comb
+./9-print_comb
+./9-print_comb | cat -e
+nvim 9-print_comb.c
+gcc -Wall -pedantic -Werror -Wextra 9-print_comb.c -o 9-print_comb
+./9-print_comb
+git add .
+betty 9-print_comb.c
+nvim 9-print_comb.c
+betty 9-print_comb.c
+git add .
+git commit -m "9print comb"
+cd ..
+git add .
+git commit -m "9print comb"
+git push 
+nvim 10-print_comb2.c
+chmod +x 10-print_comb2.c 
+gcc -Wall -pedantic -Werror -Wextra 10-print_comb2.c -o 10-print_comb2
+./10-print_comb2
+betty 10-print_comb2
+betty 10-print_comb2.c
+git add .
+git commit -m "task10"
+cd ..
