@@ -10750,3 +10750,7 @@ ls
 git status
 cd ..
 rm -rf printf/
+git commit .
+git push 
+git branch
+git checkout master
