@@ -10649,3 +10649,31 @@ git commit -m "test"
 git push 
 git push -u origin main
 cd ..
+git add .
+git commit -m "test"
+git push 
+git status
+mv printf/_printf.c _printf.c
+rm -rf printf/
+git rm -r printf 
+git checkout printf
+mkdir printf
+git add printf/
+cd printf/
+git pull https://github.com/GabsMermaid/printf.git
+git status
+git add .
+git pull https://github.com/GabsMermaid/printf.git
+git status
+git add _printf.c 
+ls
+git init https://github.com/GabsMermaid/printf.git
+git status
+git add .
+git status
+git commit .
+git commit -m "printf"
+git branch
+git status
+cd ..
+git status
