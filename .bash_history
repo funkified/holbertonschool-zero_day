@@ -10731,3 +10731,22 @@ git add fprint/
 git add .
 ls
 rm -rf printf/
+git commit .
+git push
+ls
+mkdir printf 
+git add printf/
+cd printf/
+git init https://github.com/GabsMermaid/printf.git
+git pull https://github.com/GabsMermaid/printf.git
+ls
+git pul lgit@github.com:GabsMermaid/printf.git
+git pull git@github.com:GabsMermaid/printf.git
+ls
+cd ..
+git status
+cd printf/
+ls
+git status
+cd ..
+rm -rf printf/

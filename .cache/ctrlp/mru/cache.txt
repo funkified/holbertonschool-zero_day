@@ -1,5 +1,5 @@
-/home/vagrant/printf/test
 /home/vagrant/.git/COMMIT_EDITMSG
+/home/vagrant/printf/test
 /home/vagrant/printf/.git/COMMIT_EDITMSG
 /home/vagrant/printf/_printf.c
 /home/vagrant/printf/print
