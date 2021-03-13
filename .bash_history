@@ -1,126 +1,3 @@
-ls
-ls -la
-clear
-vagrant ssh
-vagrant up
-ls -la
-exit
-ls
-ls -la
-sudo apt update
-sudo apt install git
-ls
-ls -la
-git --version
-ls
-la
-user.name Sergio
-git --config
-sudo apt install neovim
-sudo apt-get install nvim
-nvim
-git config --global user.name "Sergio"
-git config --global user.email "sergio.vera@icloud.com
-git config --global user.email "sergio.vera@icloud.com"
-git config --list
-clear
-ls
-cd ..
-exit
-sudo apt install vim 
-ls -la
-vim .bashrc
-source .bashrc 
-vim .bashrc
-cd github
-ls
-mkdir ccohort14
-git init
-echo "# ccohort14" >> README.md
-git add README.md
-git branch -M main
-rm -rf ccohort14/
-mkdir ccohort14
-git init
-git add README.md
-git branch -M master
-cd ccohort14/
-ls
-git add README.md
-git init
-git add README.md
-ls
-echo "# ccohort14" >> README.md
-ls
-git add README.md 
-git commit -m "first commit" 
-git branch -M main
-git remote add origin https://github.com/funkified/ccohort14.git
-git push -u origin main
-ls
-cd ..
-ls
-rm README.md 
-ls
-vagrant keygen 
-vagrant keygen --help
-exit
-git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
-ls
-git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
-ls
-cd set
-ls
-./setoolkit 
-sudo apt-get install python-pycrypto
-sudo apt install python-pycrypto
-ls
-cd ..
-ls
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install emacs
-emacs --versiom
-echo "# holbertonschool-zero_day" >> README.md
-ls
-mkdir holbertonschool-zero_day
-ls
-cd holbertonschool-zero_day/
-echo "# holbertonschool-zero_day" >> README.md
-git init
-git add README.md 
-git branch -Mmain
-git branch -M main
-git branch main
-git branch -M
-git branch -M master
-git branch
-ls
-git branch main
-git remote add origin https://github.com/funkified/holbertonschool-zero_day.git
-git commit -m "first commit"
-git push
-git push origin master
-mkdir 0x00-vagrant
-cd 0x00-vagrant/
-git init
-vim README.md 
-uname
-vim 0-hello_ubuntu
-git add -A
-ls
-git commit -m "hello ubuntu"
-git push 
-git push origin master 
-git push -u origin master
-git remote add origin https://github.com/funkified/holbertonschool-zero_day.git
-git push origin master
-git push
-cd ..
-ls
-git add 0x00-vagrant/
-cd 0x00-vagrant/
-git push origin master
 git branch -M main 
 git push -u origin master 
 cd ..
@@ -4009,3 +3886,6551 @@ betty 10-print_comb2.c
 git add .
 git commit -m "task10"
 cd ..
+git add .
+git commit -m "task10"
+git push 
+cd holbertonschool-
+cd holbertonschool-low_level_programming/
+la
+ls
+mv 10-print_comb2 10-print_comb2.c 0x01-variables_if_else_while/10-print+comb2 0x01-variables_if_else_while/10-print_comb2.c
+ls
+mv 10-print_comb2 0x01-variables_if_else_while/10-print_comb2
+mv 10-print_comb2.c 0x01-variables_if_else_while/10-print_comb2.c
+cd 0x01-variables_if_else_while/
+git status
+git add .
+git commit -m "task10"
+cd .
+cd ..
+git add .
+git status
+git rm 10-print_comb2
+git rm 10-print_comb2.c 
+git add .
+git commit -m "task 10"
+git push
+cd 0x01-variables_if_else_while/
+./10-print_comb2
+nvim 10-print_comb2
+nvim 10-print_comb2.c
+gcc -Wall -pedantic -Werror -Wextra 10-print_comb2.c -o 10-print_comb2
+./10-print_comb2
+git add .
+git commiyt -m "fixing 10"
+cd ..
+git add .
+git commiyt -m "fixing 10"
+git push 
+cd 0x01-variables_if_else_while/
+ls
+nvim 100-print_comb3.c
+chmod +x 100-print_comb3.c 
+gcc -Wall -pedantic -Werror -Wextra 100-print_comb3.c -o 100-print_comb3
+./100-print_comb3
+betty 100-print_comb3.c
+git add .
+nvim 101-print_comb4
+gcc -Wall -pedantic -Werror -Wextra 101-print_comb4.c -o 101-print_comb4
+chmod +x 101-print_comb4 
+chmod +x 101-print_comb4.c
+ls
+nvim 101-print_comb4.c
+mv 101-print_comb4 101-print_comb4.c
+chmod +x 101-print_comb4.c 
+gcc -Wall -pedantic -Werror -Wextra 101-print_comb4.c -o 101-print_comb4
+./101-print_comb4
+git add .
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+nvim 4-print_alphabt.c
+betty 4-print_alphabt.c
+git add .
+git commit -m "advncd" 
+cd ..
+git add .
+git commit -m "advncd" 
+git push 
+cd 0x01-variables_if_else_while/
+nvim 1-last_digit.c
+nvim 1-last_digit.c
+betty 1-last_digit.c
+gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+./1-last_digit
+git add .
+git commit -m "fixint 1last digit"
+cd .
+cd ..
+git add .
+git commit -m "fixint 1last digit"
+git push 
+cd 0x01-variables_if_else_while/
+betty 10-print_comb2.c
+nvim 10-print_comb2
+nvim 10-print_comb2.c
+betty 10-print_comb2.c
+git add 10-print_comb2.c
+git commit -m "fixing betty 10-comb2"
+cd ..
+git add .
+git commit -m "fixing betty 10-comb2"
+git push 
+cd 0x01-variables_if_else_while/
+man putchar
+nvim 102-print_comb5.c
+chmod +x 102-print_comb5.c 
+gcc -Wall -pedantic -Werror -Wextra 102-print_comb5.c -o 102-print_comb5
+nvim 102-print_comb5.c
+gcc -Wall -pedantic -Werror -Wextra 102-print_comb5.c -o 102-print_comb5
+./102-print_comb5
+echo 89 % 7
+echo (89 % 7)
+clear
+cd ..
+mkdir 0x02-functions_nested_loops
+cd 0x02-functions_nested_loops/
+git init
+nvim README.md
+git add README.md 
+git commit -m "first commit" 
+cd ...
+cd ..
+git add .
+git commit -m "first comm"
+cd 0x02-functions_nested_loops/
+nvim 0-holberton.c
+chmod +x 0-holberton.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+nvim 0-holberton.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+nvim _putchar.c
+chmod +x _putchar.c 
+./_putchar.c 
+gcc _putchar.c -o _putchar.c 
+#include <unistd.h>
+/**
+ * _putchar - writes the character c to stdout
+ * @c: The character to print
+ *
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
+ */
+int _putchar(char c)
+{ return (write(1, &c, 1));
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+nvim 0-holberton.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+nvim 0-holberton.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+ls
+nvim _putchar.c
+gcc _putchar.c -o _putchar
+export $CFILE
+gcc _putchar.c -o _putchar
+gcc _putchar.c
+nvim 0-holberton.c 
+gcc 0-holberton.c 
+nvim 0-holberton.c 
+rm 0-holberton.c 
+nvim holberton.h
+git add holberton.h 
+nvim 0-holberton.h
+nvim 0-holberton.c
+chmod +x 0-holberton.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+ls
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
+./0-holberton
+git add .
+git commit -m "task 1"
+cd ..
+git add .
+ls
+git commit -m "task 1"
+git push 
+cd 0x02-functions_nested_loops/
+ls
+nvim holberton.h 
+nvim 1-alphabet.c
+mkdir tmp
+nvim 1-main.c
+chmod +x 1-main.c 
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+nvim 1-alphabet.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet
+./1-alphabet 
+git add .
+git commit -m "task 2
+git commit -m "task 2"
+cd ..
+git add .
+git commit -m "task 2"
+git push 
+fin --help
+find --help
+man find
+git ---cached 
+cd 0x01-variables_if_else_while/
+vim 102-print_comb5.c
+chmod +x 102-print_comb5.c
+gcc -Wall -pedantic -Werror -Wextra 102-print_comb5.c -o 102-print_comb5
+betty 102-print_comb5.c
+nvim updrade-vim.sh
+nvim 102-print_comb5.c
+nvim 102-print_comb5.c
+nvim 102-print_comb5.c
+betty 102-print_comb5.c
+nvim 102-print_comb5.c
+betty 102-print_comb5.c
+nvim 102-print_comb5.c
+betty 102-print_comb5.c
+nvim 102-print_comb5.c
+betty 102-print_comb5.c
+nvim 102-print_comb5.c
+betty 102-print_comb5.c
+nvim 102-print_comb5.c
+nvim 102-print_comb5.c
+betty 102-print_comb5.c
+gcc 102-print_comb5 -o 102-print_comb5
+./102-print_comb5.c 
+./102-print_comb5
+gcc -Wall -pedantic -Werror -Wextra 102-print_comb5.c -o 102-print_comb5
+./102-print_comb5
+git add .
+git commit -m "102 variables"
+cd ..
+git status
+git add .
+git commit -m "102 variables"
+git push 
+git chached --help
+git rm --cached 0x02-functions_nested_loops/
+ls
+git add 0x02-functions_nested_loops/
+git status
+git add .
+git status
+git add 0x02-functions_nested_loops/
+git status
+git add . 
+git commit -m "0x02 rm cache'
+
+git commit -m "0x02 rm cache"
+ls
+git push
+cd 0x02-functions_nested_loops/
+betty 0-holberton.c
+nvim 0-holberton.c
+betty 0-holberton.c
+nvim 0-holberton.c
+betty 0-holberton.c
+betty 0-holberton.c
+ls
+betty 1-alphabet.c
+nvim 1-alphabet.c
+nvim 1-alphabet.c
+betty 1-alphabet.c
+nvim 1-alphabet.c
+betty 1-alphabet.c
+git add .
+git commit -m "task 1 -2 "
+cd ..
+git add . 
+git commit -m "task 1 -2 "
+git push
+cd 0x02-functions_nested_loops/
+nvim holberton.h 
+nvim 2-main.c
+nvim 2-print_alphabet_x10.c
+chmod +x 2-print_alphabet_x10.c 
+gcc 2-print_alphabet_x10.c 
+nvim 2-print_alphabet_x10.c
+gcc 2-print_alphabet_x10.c 
+nvim 2-print_alphabet_x10.c
+gcc 2-print_alphabet_x10.c 
+nvim 2-print_alphabet_x10.c
+gcc 2-print_alphabet_x10.c 
+nvim 2-print_alphabet_x10.c
+gcc 2-print_alphabet_x10.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-print_alphabet_x10.c -o 2-alphabet_x10
+nvim 2-print_alphabet_x10.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-print_alphabet_x10.c -o 2-alphabet_x10
+./2-alphabet_x10 
+betty 2-alphabet_x10.c
+ls
+betty 2-print_alphabet_x10.c 
+git add .
+git commit -m "task3"
+cd ..
+git add .
+git commit -m "task3"
+git push 
+nvim 0x02-functions_nested_loops/
+cd 0x02-functions_nested_loops/
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-print_alphabet_x10.c -o 2-alphabet_x10
+./2-alphabet_x10 
+git add .
+cd ..
+git add .
+git commit -m "fixing new line"
+git push 
+man islower
+cd 0x02-functions_nested_loops/
+vim holberton.h 
+man islower
+vim holberton.h 
+nvim 3-main.c
+chmod +x 3-main.c 
+nvim 3-islower.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-islower.c -o 3-islower
+nvim 3-islower.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-islower.c -o 3-islower
+./3-islower 
+nvim 3-islower.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-islower.c -o 3-islower
+./3-islower 
+betty 3-islower.c
+nvim 3-islower.c
+betty 3-islower.c
+git add .
+cd ..
+git add .
+git commit -m "islower"
+git push 
+clear
+cd holbertonschool-low_level_programming/
+ls
+cd oxo2
+cd 0x02-functions_nested_loops/
+ls
+nvim holberton.h 
+nvim 4-main.c
+nvim 4-isalpha.c
+man isalpha
+nvim 4-isalpha.c 
+chmod +x 4-main.c 4-isalpha.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
+./4-isalpha
+git add .
+cd ..
+git commit -m "isalpha"
+git add .
+git commit -m "isalpha"
+git [push 
+git [push 
+Jetlag89!
+git [push 
+cd 0x02-functions_nested_loops/
+ls
+nvim 4-isalpha.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
+nvim 4-isalpha.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
+nvim 4-isalpha.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
+nvim 4-isalpha.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
+nvim 4-isalpha.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
+nvim 4-isalpha.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
+nvim 4-isalpha.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
+./4-isalpha
+betty 4-isalpha.c
+nvim 4-isalpha.c 
+betty 4-isalpha.c
+cd ..
+git add .
+git commit -m "4 fixed"
+git push 
+cd 0x02-functions_nested_loops/
+nvim holberton.h 
+nvim 5-main.c
+chmod +x 5-main.c 
+nvim 5-sign.c
+chmod +x 5-sign.c 
+gcc 5-sign.c 
+nvim 5-sign.c
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+./5-
+./5-sign
+nvim 5-sign.c
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+nvim 5-sign.c
+./5-sign
+nvim 5-sign.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
+./5-sign
+nvim 5-sign.c
+betty 5-sign.c
+nvim 5-sign.c
+betty 5-sign.c
+nvim 5-sign.c
+betty 5-sign.c
+git add .
+cd ..
+git add .
+git commit -m "5 sign"
+git push 
+man abs
+cd 0x02-functions_nested_loops/
+nvim 6-abs.c
+nvim holberton.h 
+nvim 6-main.c
+chmod +x 6-main.c 
+nvim 6-abs.c
+chmod +x 6-abs.c 
+ gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-abs.c -o 6-abs
+nvim 6-abs.c
+ gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-abs.c -o 6-abs
+nvim 6-abs.c
+nvim holberton.h 
+ gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-abs.c -o 6-abs
+./6-
+./6-abs
+betty 6-abs.c
+nvim 6-abs.c
+betty 6-abs.c
+git add .
+cd ..
+git commit -m "6 abs" 
+git add .
+git commit -m "6 abs" 
+git push 
+git push 
+cd 0x02-functions_nested_loops/
+ls
+mv 0-holberton 1-alphabet 1-main.c 2-main.c 3-main.c 5-main.c 4-main.c /tmp
+ls
+cd tmp/
+ls
+cd ..
+cd 0x02
+nvim holberton.h 
+7-main.c
+nvim 7-mainc
+nvim 7-main.c
+clear
+nvim 7-print_last_digit.c
+chmod +x 7-print_last_digit.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_last_digit.c -o 7-last_digit
+./7-last_digit 
+git add .
+git status
+git rm 0-holberton 1-main.c 1-alphabet 2-main.c 3-main.c 4-main.c 5-main.c 
+git status
+ls
+git add . 
+cd ..
+git status
+git add .
+ git status
+git rm 0x02-functions_nested_loops/0-holberton.c 0x02-functions_nested_loops/1-alphabet.c 
+git status
+git add 0x02-functions_nested_loops/1-alphabet.c 
+git checkout 0x02-functions_nested_loops/1-alphabet.c
+git reset HEAD 0x02-functions_nested_loops/1-alphabet.c
+git status
+git checkout 0x02-functions_nested_loops/1-alphabet.c
+git checkout 0x02-functions_nested_loops/1-alphabet
+rm 0x02-functions_nested_loops/2-main.c
+git add .
+git status
+git reset 
+git status
+git add 0x02-functions_nested_loops/7-last_digit 
+git add 0x02-functions_nested_loops/7-print_last_digit.c 
+git commit -m "7 last digit"
+git push
+cd 0x02-functions_nested_loops/
+ls
+git status
+git add 1-alphabet 
+git checkout 0-holberton.c
+betty 7-print_last_digit.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_last_digit.c -o 7-last_digit
+./7-last_digit 
+git add .
+git commit -m "task 7" 
+cd ..
+git status
+git add 0x02-functions_nested_loops/7-main.c 
+git add 0x02-functions_nested_loops/holberton.h 
+git commit -m "7 last digti"
+git push 
+ls 
+cd 0x02-functions_nested_loops/
+ls
+nvim 8-main.c
+chmod +x 8-main.c 
+nvim holberton.h 
+nvim 8-24_hours.c
+chmod +x 8-24_hours.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
+nvim 8-24_hours.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
+nvim 8-24_hours.c
+nvim 8-24_hours.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
+./8-24
+./8-24 
+./8-24 | head
+./8-24 | tail
+git add .
+cd ..
+git add .
+git ststatus
+git status
+got add 0x02-functions_nested_loops/8-24.c
+git add 0x02-functions_nested_loops/8-24_hours.c 
+git add 0x02-functions_nested_loops/holberton.h 
+git commit -m "8 24hrs"
+git push 
+cd 0x02-functions_nested_loops/
+nvim 8-24_hours.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
+./8-24 | tail
+betty 8-24_hours.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+git add 8-24_hours.c 
+cd ..
+git add 8-24_hours.c 
+git add 0x02-functions_nested_loops/8-24_hours.c 
+git commit -m "8 ffixed"
+git push 
+git push 
+cd 0x02-functions_nested_loops/
+./8-24 |wc -l
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
+./8-24 |wc -l
+git add 8-24
+git add 8-24_hours.c 
+cd ..
+git add 0x02-functions_nested_loops/8-24 
+git add 0x02-functions_nested_loops/8-24_hours.c 
+git commit -m "fixing 8 24"
+git push 
+cd 0x02-functions_nested_loops/
+nvim holberton.h 
+nvim 9-times_table.c
+chmod +x 9-times_table.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+ls
+nvim 9-main.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+nvim holberton.h 
+./9-times_table | cat -e
+./9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+clear
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+nvim 9-times_table.c
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+clear
+git add 9-times_table
+git add 9-times_table.c 
+nvim 10-add.c
+nvim 10-main.c
+nvim holberton.h 
+nvim 10-add.c
+chmod +x 10-add.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-add.c -o 10-add
+chmod +x 10-add.c 
+nvim 10-add.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-add.c -o 10-add
+nvim 10-add.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-add.c -o 10-add
+nvim 10-add.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-add.c -o 10-add
+nvim 10-add.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-add.c -o 10-add
+nvim 10-add.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-add.c -o 10-add
+./10-add
+betty 10-add.c
+nvim 10-add.c
+betty 10-add.c
+git add 10-add.c 
+cd ..
+git add 0x02-functions_nested_loops/10-add.c
+gcm "10add"
+nvim gcm
+chmod +x gcm 
+./gcm
+gcm
+rm gcm 
+git rm gcm 
+git commit -m "add"
+git push
+git status
+cd 0x02-functions_nested_loops/
+git status
+git add 10-main.c 
+git add 10-add 
+git add holberton.h 
+git add 10-add.c
+cd ..
+git status
+git add 0x02-functions_nested_loops/10-add
+git add 0x02-functions_nested_loops/10-add.c
+git add 0x02-functions_nested_loops/9-times_table
+git add 0x02-functions_nested_loops/9-times_table.c
+git commit -m "9-10"
+git push 
+cd 0x02-functions_nested_loops/
+./10-add
+nvim 10-add.c
+git status
+git add 9-main.c 
+git commit -m "10 add"
+cd ..
+git status
+git add 0x02-functions_nested_loops/holberton.h 
+git add 0x02-functions_nested_loops/10-main.c 
+git commit -m "10 add"
+git push 
+git push 
+0x02-functions_nested_loops/
+cd 0x02-functions_nested_loops/
+nvim 9-times_table.c
+./9-times_table
+clear
+cd ..
+mkdir 0x03-debugging
+git add 0x03-debugging/
+nvim 0x03-debugging/README.md
+cd 0x03-debugging/
+git init
+nvim main.c
+chmod +x main.c 
+nvim holberton.h
+mv main.c 0-main.c
+nvim 0-main.c 
+nvim holberton.h 
+nvim 0-main.c 
+gcc -Wall -pedantic -Werror -Wextra positive_or_negative.c main.c
+nvim 0-main.c 
+nvim main.c
+gcc -Wall -pedantic -Werror -Wextra positive_or_negative.c main.c
+nvim positive_or_negative.c
+gcc -Wall -pedantic -Werror -Wextra positive_or_negative.c main.c
+gcc -Wall -pedantic -Werror -Wextra positive_or_negative.c 0-main.c -o 0-main
+chmod +x positive_or_negative.c 
+gcc -Wall -pedantic -Werror -Wextra positive_or_negative.c 0-main.c -o 0-main
+chmod +x main.c 
+chmod +x 0-main.c 
+gcc -Wall -pedantic -Werror -Wextra positive_or_negative.c 0-main.c -o 0-main
+wc -l 0-main.c 
+git status
+git add .
+cd ..
+git add .
+git status
+git add 0x02-functions_nested_loops/9-main.c 
+gir add 0x03-debugging/main.c 0x03-debugging/0-main.c 0x03-debugging/positive_or_negative.c 0x03-debugging/holberton.h 
+git add 0x03-debugging/main.c 0x03-debugging/0-main.c 0x03-debugging/positive_or_negative.c 0x03-debugging/holberton.h 
+git status
+git add 0x03-debugging/0-main.c 
+git add 0x03-debugging/holberton.h 
+git add 0x03-debugging/main.c 
+git add 0x03-debugging/positive_or_negative.c 
+git status
+git add 0x03-debugging/main.c 
+git add 0x02-functions_nested_loops/9-main.c 
+git commit -m "debugging first commit'
+git commit -m "debugging first commit"
+git push 
+cd 0x03-debugging/
+nvim 1-main.c
+git add 1-main.c 
+git commit -m "1main debug"
+cd ..
+git add 0x03-debugging/1-main.c 
+git commit -m "1main debug"
+git push
+cd 0x03-debugging/
+chmod +x 1-main.c 
+gcc 1-main.c -o 1-main
+./1-main
+wc -l 1-main.c
+nvim 1-main.c
+wc -l 1-main.c
+git add 1-main.c
+git add 1-main 
+git commit -m "1main"
+cd ..
+git add 0x03-debugging/1-main
+git add 0x03-debugging/1-main.c
+git commit -m "1main"
+git push 
+nvim 0x03-debugging/1-main.c
+git add 0x03-debugging/1-main.c 
+git commit -m "task 1"
+git push 
+cd 0x03-debugging/
+betty 1-main.c
+nvim 1-main.c
+nvim 1-main.c
+gcc 1-main.c -o 1-main
+./1-main
+wc -l 1-main
+wc -l 1-main.
+wc -l 1-main.c
+git add 1-main.c 
+git add 1-main
+cd ..
+git add 0x03-debugging/1-main.c
+git add 0x03-debugging/1-main
+git commit -m "task 1"
+git push 
+git push 
+clear
+clear
+cd 0x02-functions_nested_loops/
+ls
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+git checkout 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+clear
+./9-times_table
+nvim 9-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
+./9-times_table
+clear
+cd ..
+0x03-debugging/
+cd 0x03-debugging/
+ls
+nvim main.c 
+nvim 0-main.c 
+nvim main.c 
+nvim positive_or_negative.c 
+nvim 0-main.c 
+nvim main.c 
+nvim positive_or_negative.c 
+gcc -Wall -pedantic -Werror -Wextra positive_or_negative.c 0-main.c -o 0-main
+betty nvim 1-main.c
+betty nvim 1-main.c
+nvim 1-main.c
+nvim 1-main.c
+betty 1-main.c
+nvim 1-main.c
+betty 1-main.c
+git add 1-main.c 
+cd ..
+git add 0x03-debugging/1-main.c
+git commit -m "task 1 debug"
+git push
+cd 0x02-functions_nested_loops/
+betty 8-24.c
+ls
+betty 8-24_hours.c 
+ls
+betty 6-abs.c
+clear
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+nvim 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+betty 8-24_hours.c 
+nvim 8-24_hours.c 
+git add 8-24_hours.c 
+cd ..
+git status
+git add 0x02-functions_nested_loops/8-24_hours.c 
+git add 0x02-functions_nested_loops/9-times_table
+git add 0x02-functions_nested_loops/9-times_table.c
+git commit -m "m(*^%*&$(^RT) betty"
+git push
+cd 0x03-debugging/
+nvim 1-main.c 
+nvim 2-main.c
+nvim 2-largest_number.c
+chmod +x 2-largest_number.c 
+gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
+nvim 2-largest_number.c 
+betty 2-largest_number.c 
+nvim 2-largest_number.c 
+betty 2-largest_number.c 
+nvim 2-largest_number.c 
+betty 2-largest_number.c 
+nvim 2-largest_number.c 
+git 2-largest_number.c
+git add 2-largest_number.c 
+cd ..
+git add 0x03-debugging/2-largest_number.c 
+git commit -m "2 largest debug"
+git push
+git push
+cd 0x03-debugging/
+nvim 2-largest_number.c 
+chmod +x 2-largest_number.c 
+gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
+nvim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
+betty 2-largest_number.c 
+git add 2-largest_number.c 
+cd ..
+git status
+hot 0x03-debugging/2-main.c 
+hot 0x03-debugging/2-largest_number.c 
+hot 0x03-debugging/holberton.h 
+git add 0x03-debugging/holberton.h 
+git add 0x03-debugging/2-main.c 
+git add 0x03-debugging/2-largest_number.c 
+git commit -m "task"
+git push 
+git push 
+git status
+cd 0x03-debugging/
+nvim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-maingcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
+gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
+nvim holberton.h 
+nvim 2-main.c 
+nvim 2-largest_number.c 
+gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
+nvim holberton.h 
+ls
+gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
+./2-main 
+betty 2-largest_number.c 
+git add 2-largest_number.c 
+cd ..
+git add 0x03-debugging/2-main
+git add 0x03-debugging/2-largest_number.c 
+git commit -m "largest debug"
+git push
+d 0x03-debugging/
+cd 0x03-debugging/
+nvim 3-main.c
+nvim 3-main_a.c
+nvim 3-convert_day.c
+nvim 3-print_remaining_days.c
+nvim 3-print_remaining_days.c
+nvim holberton.h 
+nvim 3-print_remaining_days.c
+git add 3-print_remaining_days.c 
+git add 3-main_a.c 
+git add holberton.h 
+cd ..
+git status
+git add 0x03-debugging/3-main_a.c 
+git add 0x03-debugging/3-print_remaining_days.c 
+git status
+git add 0x03-debugging/3-convert_day.c 
+git commit -m "3 debug"
+git push
+git push
+cd 0x03-debugging/
+ls
+nvim 3-main_b.c
+nvim 3-main_a.c 
+gcc -Wall -Werror -Wextra -pedantic 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b 
+nvim holberton.h 
+ls
+gcc -Wall -Werror -Wextra -pedantic 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b 
+nvim 3-main_b.c
+nvim 3-convert_day.c 
+ls
+nvim 3-print_remaining_days.c 
+rm 3-print_remaining_days.c 
+nvim 3-print_remaining_days.c
+gcc -Wall -Werror -Wextra -pedantic 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b 
+gcc -Wall -Werror -Wextra -pedantic 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b
+nvim holberton.h 
+ls
+betty 3-print_remaining_days.c 
+gcc -Wall -Werror -Wextra -pedantic 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b
+nvim 3-main_b.c 
+nvim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b
+nvim holberton.h 
+nvim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b
+gcc -Wall -Werror -Wextra -pedantic 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b 
+git add .
+cd ..
+git add .
+git status
+git add 0x03-debugging/3-main_b.c 
+git add 0x03-debugging/3-print_remaining_days.c 
+git add 0x03-debugging/holberton.h 
+git commit -m "lsadjfl"
+git push
+nvim 0x03-debugging/2-largest_number.c 
+betty 0x03-debugging/2-largest_number.c 
+git add 0x03-debugging/2-largest_number.c 
+git commit -m "lakh"
+git push
+clear
+cd 0x02-functions_nested_loops/
+cat 3-islower
+Q
+cat 3-islower.c
+nvim 3-islower.c
+nvim 4-isalpha.c
+cat 4-isalpha.c
+clear
+nvim 5-sign.c
+cat 5-sign.c
+cat 6-abs.c
+nvim 7-print_last_digit.c 
+cat 7-print_last_digit.c 
+clear
+cat 8-24_hours.c 
+./8-24
+nvim 9-times_table.c
+cat 9-times_table.c
+nvim 9-main.c 
+cat 9-main.c 
+nvim 11-main.c
+nvim holberton.h 
+nvim 11-print_to_98.c
+ls
+nvim 9-times_table.c
+nvim 100-times_table.c
+ls
+nvim 11-print_to_98.c 
+chmod +x 11-print_to_98.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 11-main.c 11-print_to_98.c -o 11-98
+./11-98 
+git add .
+cd ..
+git status
+git rm 0x02-functions_nested_loops/0-holberton.c 
+git checkout 0x02-functions_nested_loops/0-holberton.c
+git add 0x02-functions_nested_loops/0-holberton.c
+git status
+nvim 0x02-functions_nested_loops/0-holberton.c
+chmod +x 0x02-functions_nested_loops/0-holberton.c 
+git add 0x02-functions_nested_loops/0-holberton.c 
+git checkout 0x02-functions_nested_loops/0-holberton
+git rm 0x02-functions_nested_loops/1-main.c
+git rm 0x02-functions_nested_loops/2-main.c
+git rm 0x02-functions_nested_loops/3-main.c
+git rm 0x02-functions_nested_loops/4-main.c
+git rm 0x02-functions_nested_loops/5-main.c
+git add .
+git commit -m "print to98"
+git push 
+cd 0x02-functions_nested_loops/
+ls
+git status
+git add 0-holberton
+git add .
+betty 11-print_to_98.c 
+nvim 11-print_to_98.c 
+betty 11-print_to_98.c 
+nvim 11-print_to_98.c 
+betty 11-print_to_98.c 
+nvim 11-print_to_98.c 
+betty 11-print_to_98.c 
+nvim 11-print_to_98.c 
+nvim 11-print_to_98.c 
+betty 11-print_to_98.c 
+export LANGUAGE=en_US.UTF-8
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+locale-gen en_US.UTF-8
+sudo dpkg-reconfigure locales
+betty 11-print_to_98.c 
+git add .
+cd ..
+export LANGUAGE=en_US.UTF-8
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+locale-gen en_US.UTF-8
+sudo dpkg-reconfigure locales
+git add .
+git commit -m "betty fix"
+git push 
+cd 0x02-functions_nested_loops/
+nvim 100-main.c
+nvim nvim holberton.h 
+nvim holberton.h 
+nvim 100-times_table
+nvim 100-times_table.c
+chmod +x 100-times_table.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-times_table.c -o 100-times_table
+nvim 100-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-times_table.c -o 100-times_table
+nvim 100-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-times_table.c -o 100-times_table
+./100-times_table
+betty 100-times_table
+betty 100-times_table.c
+nvim 100-times_table.c
+betty 100-times_table.c
+nvim 100-times_table.c
+betty 100-times_table.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-times_table.c -o 100-times_table
+./100-times_table
+chmod +x 100-main.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-times_table.c -o 100-times_table
+./100-times_table
+git add .
+git commit -m "task 100"
+git pusj 
+cd ..
+git add .
+git commit -m "task 100"
+git push
+clear
+nvim 101-natural.c
+chmod +x 101-natural.c 
+gcc 101-natural.c -o 101-natural
+nvim 101-natural.c
+gcc 101-natural.c -o 101-natural
+./101-natural
+betty 101-natural.c
+git add .
+cd ..
+git add .
+git status
+ls
+cd holbertonschool-low_level_programming/
+ls
+mv 101-natural 0x02-functions_nested_loops/101-natural
+mv 101-natural.c 0x02-functions_nested_loops/101-natural.c
+git status
+git add .
+git add 0x02-functions_nested_loops/101-natural.c
+git add 0x02-functions_nested_loops/101-natural.c.c
+git status
+git rm 101-natural
+git rm 101-natural.c
+ls
+git status
+git add .
+git commit -m "101 natural"
+git push
+cd 0x02-functions_nested_loops/
+git status
+git ad d.
+git add .
+git commit -m "101"
+cd ..
+git status
+git commit -m "101"
+git push 
+clear
+cat 0x02-functions_nested_loops/101-natural.c
+cd 0x02-functions_nested_loops/
+nvim 102-fibonacci.c
+chmod +x 102-fibonacci.c 
+gcc 102-fibonacci.c -o 102-fibonacci
+nvim 102-fibonacci.c
+gcc 102-fibonacci.c -o 102-fibonacci
+./102-fibonacci
+git add .
+betty 102-fibonacci.c
+git commit -m "fibonacci 102"
+cd ..
+git ad d.
+git add .
+cd ..
+cd holbertonschool-low_level_programming/
+git add .
+git commit -m "fibonacci 102"
+git push 
+nvim 103-fibonacci.c
+chmod +x 103-fibonacci.c 
+gcc -o 103-fibonacci
+gcc 103-fibonacci.c -o 103-fibonacci
+nvim 103-fibonacci.c
+gcc 103-fibonacci.c -o 103-fibonacci
+./103-fibonacci
+git add .
+git commit -m "fibo eve"
+cd ..
+git add .
+git status
+ls
+cd holbertonschool-low_level_programming/
+ls
+mv 103-fibonacci 0x02-functions_nested_loops/103-fibonacci
+mv 103-fibonacci.c 0x02-functions_nested_loops/103-fibonacci.c
+cd 0x02-functions_nested_loops/
+git add .
+git commit -m "fibo eve"
+git push
+cd ..
+git status
+gi add 0x02-functions_nested_loops/103-fibonacci
+git add 0x02-functions_nested_loops/103-fibonacci
+git add 0x02-functions_nested_loops/103-fibonacci.c
+git commit -m "fibo eve"
+git push 
+                                                 cd holbertonschool-low_level_programming/
+mkdir 0x04-more_functions_nested_loops
+git add 0x04-more_functions_nested_loops/
+git commit -m "more nested loops"
+git nvim 0x04-more_functions_nested_loops/README.md
+nvim 0x04-more_functions_nested_loops/README.md
+git add .
+git add 0x04-more_functions_nested_loops/
+git add 0x04-more_functions_nested_loops/README.md 
+git commit -m "readme.md"
+ cd0x04
+ cd 0x04-more_functions_nested_loops/
+nvim holberton.h
+nvim 0-main.c
+nvim 0-main.c
+nvim 0-isupper.c
+chmod +x 0-isupper.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
+./0-isuper 
+git add .
+git commit -m "isup"
+cd ..
+git add .
+git status 
+git rm 103-fibonacci 103-fibonacci.c
+git add .
+git commit -m "is upper"
+git push
+0x02-functions_nested_loops/
+cd ..
+cd holbertonschool-low_level_programming/
+nvim 1-main.c
+clear
+cd 0x04-more_functions_nested_loops/
+nvim holberton.h 
+nvim 1-main.c
+nvim 1-isidigit.c
+chmod +x 1-isidigit.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
+mv 1-isidigit.c 1-isdigit.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
+./1-isdigit
+git add .
+betty 1-isdigit.c
+git add .
+git commit -m "is digit:
+git commit -m "is digit"
+cd ..
+git ad d.
+git add .
+git commit -m "is digit"
+git push 
+cd 0x04-more_functions_nested_loops/
+betty 0-isupper.c 
+nvim 0-isupper.c 
+betty 0-isupper.c 
+nvim 0-isupper.c 
+betty 0-isupper.c 
+git add .
+cd ..
+git add .
+git commit -m "betty 0"
+git push 
+0x02-functions_nested_loops/
+cd 0x043
+cd 0x04-more_functions_nested_loops/
+nvim holberton.h 
+nvim 2-main.c
+nvim 2-mul.c
+chmod +x 2-mul.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-mul.c -o 2-mul
+./2-mul.c
+./2-mul
+git add .
+betty 2-mul.c
+cd ..
+git add .
+git commit -m "2 mul "
+git push 
+git push 
+cd 0x04-more_functions_nested_loops/
+ls
+nvim 3-main.c
+nvim holberton.h 
+nvim holberton.h 
+nvim 3-print_numbers.c
+chmod +x 3-print_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim _putchar.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+chmod +x _putchar.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim _putchar.c
+nvim 3-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim holberton.h 
+nvim 3-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim 3-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim 3-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+chmod +x 3-main.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim 3-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim 3-print_numbers.c
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+nvim 3-main.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+./3-print_numbers
+./3-print_numbers | cat -e
+nvim 3-print_numbers.c
+nvim 3-main.c 
+nvim 3-print_numbers.c
+betty 3-print_numbers.c
+nvim 3-print_numbers.c
+betty 3-print_numbers.c
+nvim 3-print_numbers.c
+betty 3-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+./3-print_numbers
+nvim 3-print_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
+./3-print_numbers
+git add .
+git commit -m "task 3'
+git commit -m "task 3"
+cd ..
+git add .
+git commit -m "task 3"
+git status
+cd 0x04-more_functions_nested_loops/
+git status
+ls
+git add .
+git status
+cd ..
+git push
+nvim 4-main.c
+mv 4-main.c 0x04-more_functions_nested_loops/4-main.c
+cd 0x04-more_functions_nested_loops/
+nvim holberton.h 
+nvim 4-print_most_numbers.c4-print_most_numbers.c
+nvim 4-print_most_numbers.c
+chmod +x 4-print_most_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_most_numbers.c -o 4-print_most_numbers
+nvim 4-print_most_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_most_numbers.c -o 4-print_most_numbers
+./4-print_most_numbers
+git add .
+cd ..
+cd 0x04-more_functions_nested_loops/
+betty 4-print_most_numbers.c
+cd ..
+git add .
+gi tcommit -m "task 4"
+git commit -m "task 4"
+git push 
+git push 
+0x04-more_functions_nested_loops/
+cd 0x04-more_functions_nested_loops/
+nvim holberton.h 
+nvim holberton.h 
+nvim 5-main.c
+nvim 5-more_numbers.c
+chmod +x 5-more_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+nvim 5-more_numbers.c
+nvim 5-more_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+nvim 5-more_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers
+betty 5-more_numbers.c
+nvim 5-more_numbers.c
+betty 5-more_numbers.c
+betty 5-more_numbers.c
+nvim 5-more_numbers.c
+betty 5-more_numbers.c
+betty 5-more_numbers.c
+nvim 5-more_numbers.c
+betty 5-more_numbers.c
+nvim 5-more_numbers.c
+betty 5-more_numbers.c
+nvim 5-more_numbers.c
+betty 5-more_numbers.c
+nvim 5-more_numbers.c
+betty 5-more_numbers.c
+nvim 5-more_numbers.c
+betty 5-more_numbers.c
+wq
+git add .
+cd ..
+git add .
+git commit -m "more"
+git push
+cd 0x04-more_functions_nested_loops/
+nvim 5-more_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers.c
+./5-more_numbers
+git add .
+cd ..
+git add .
+git commit -m "more 55"
+git push
+cd 0x04-more_functions_nested_loops/
+./5-more_numbers
+nvim 5-more_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers
+nvim 5-more_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers
+nvim 5-more_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers
+git add .
+cd ..
+git add .
+git commit -m "fucking more nums"
+git push 
+cd 0x04-more_functions_nested_loops/
+ls
+nvim 5-more_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers
+nvim 5-more_numbers.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
+./5-more_numbers
+betty 5-more_numbers.c
+git add .
+cd ..
+git add .
+git commit -m "more"
+git push
+git push
+0x04-more_functions_nested_loops/
+cd 0x04-more_functions_nested_loops/
+nvim holberton.h 
+nvim 6-main.c
+nvim 6-print_line.c
+git add .
+chmod +x 6-print_line.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
+,.6
+./6-
+./6-
+./6-print_line.c 
+./6-lines 
+betty 6-print_line.c 
+git add .
+cd ..
+git commit add .
+git status
+git add .
+git commit -m "6 lines"
+git push 
+cd 0x04-more_functions_nested_loops/
+nvim holberton.h 
+nvim 7-main.c
+nvim 7-print_diagonal.c
+chmod +x 7-print_diagonal.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
+chmod +x 7-print_diagonal.c 
+nvim 7-print_diagonal.c
+chmod +x 7-print_diagonal.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
+nvim 7-print_diagonal.c
+nvim 7-print_diagonal.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
+nvim 7-print_diagonal.c 
+nvim 7-print_diagonal.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
+nvim 7-main.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
+./7-diagonals 
+git add .
+cd ..
+cd 0x04-more_functions_nested_loops/
+sl
+ls
+nvim 7-print_diagonal.c 
+betty 7-print_diagonal.c 
+git add .
+cd ..
+git add .
+git commit -m "7diagona"
+git push
+git push
+0x04-more_functions_nested_loops/
+cd 0x04-more_functions_nested_loops/
+ls
+nvim 0-isupper.c 
+nvim 3-print_numbers.c
+cat 3-print_numbers.c
+cat 4-print_most_numbers.c
+ls
+nvim 5-more_numbers.c
+nvim 6-print_line.c 
+nim 7-print_diagonal.c 
+nvim 7-print_diagonal.c 
+nvim 8-print_square.c
+chmod +x 8-print_square.c 
+nvim 8-main.c
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
+nvim 8-print_square.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
+nvim 8-print_square.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
+nvim 8-print_square.c
+nvim 8-main.c
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
+nvim 8-print_square.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
+nvim 8-print_square.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
+nvim 8-print_square.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
+./8-squares 
+nvim 8-print_square.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
+./8-squares 
+nvim 8-print_square.c
+cat 8-print_square.c
+bett 8-print_square.c 
+betty 8-print_square.c 
+nvim 8-print_square.c
+nvim 8-print_square.c
+betty 8-print_square.c 
+nvim 8-print_square.c
+betty 8-print_square.c 
+git add .
+cd ..
+git add .
+git commit -m "square"
+git push
+cd 0x04-more_functions_nested_loops/
+nvim 9-fizz_fuzz.c
+chmod 9-fizz_fuzz.c 
+chmod +x 9-fizz_fuzz.c 
+gcc 9-fizz_fuzz.c -o 9-fizz_fuzz
+./9-fizz_fuzz
+betty 9-fizz_fuzz.c
+mv 9-fizz_fuzz.c 9-fizz_buzz.c
+gcc 9-fizz_fuzz.c -o 9-fizz_buzz
+gcc 9-fizz_buzz.c -o 9-fizz_buzz
+./9-fizz_
+./9-fizz_buzz.c
+ls
+mv 9-fizz_fuzz 9-fizz_buzz
+./9-fizz_buzz
+betty 9-fizz_buzz.c
+nvim 9-fizz_buzz.c
+nvim 9-fizz_buzz.c
+betty 9-fizz_buzz.c
+git add .
+git commit -m "fizz"
+cd ..
+git add .
+git commit -m "fizz"
+git push 
+cd 0x04-more_functions_nested_loops/
+git push
+cd ..
+gitstatus
+git status
+git push
+cd 0x04-more_functions_nested_loops/
+nvim holberton.h 
+nvim 10-main.c
+nvim 10-print_triangle.c
+chmod +x 10-print_triangle.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-print_triangle.c -o 10-triangles
+nvim 10-print_triangle.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-print_triangle.c -o 10-triangles
+./10-triangles 
+betty 10-print_triangle.c 
+git add .
+cd ..
+git add .
+git commit -m "triangle"
+git push
+ls -la
+nvim .vimrc 
+vim 
+git clone git://github.com/altercation/solarized.git
+cd holbertonschool-low_level_programming/
+cleAR
+clear
+mkdir 0x05-pointers_arrays_strings
+cd 0x05-pointers_arrays_strings/
+nvim README.md
+git add README.md r
+git add README.md 
+git init
+nvim holberton.h
+nvim 0-main.c
+nvim 0-reset_to_98.c
+cat 0-reset_to_98.c 
+nvim 0-reset_to_98.c 
+chmod +x 0-reset_to_98.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+nvim 0-main.c
+nvim 0-main.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
+./0-98 
+cat 0-main.c 
+cat 0-reset_to_98.c 
+git add.
+git ad d.
+git add .
+cd ..
+git add .
+git status
+git add .
+git commit -m "reset to 98
+git commit -m "reset to 98"
+cd 0x05-pointers_arrays_strings/
+betty 0-reset_to_98.c 
+cd ..
+git push
+cd 0x05-pointers_arrays_strings/
+nvim holberton.h 
+nvim 1-main.c
+nvim 2-strlen.c
+chmod +x 2-strlen.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+mv 1-main.c 2-main.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+man strlen
+nvim 2-strlen.c
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./2-strlen
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+nvim 2-strlen.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
+./2-strlen
+cat 2-strlen.c
+nvim 2-strlen.c
+betty 2-strlen.c
+nvim 2-strlen.c
+betty 2-strlen.c
+betty 2-strlen.c
+nvim 2-strlen.c
+betty 2-strlen.c
+betty 2-strlen.c
+nvim 2-strlen.c
+betty 2-strlen.c
+nvim 2-strlen.c
+betty 2-strlen.c
+git add .
+cd ..
+git add .
+git commit -m "strlen2"
+git push 
+cd 0x05-pointers_arrays_strings/
+nvim holberton.h 
+nvim 1-main.c
+cat 1-main.c 
+nvim 1-main.c 
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+./1-swap 
+nvim 1-swap.c
+betty 1-swap.c
+nvim 1-swap.c
+betty 1-swap.c
+git add .
+cd ..
+git add commit -m "1swap"
+git commit -m "1swap"
+git add .
+git commit -m "1swap"
+git push 
+cd 0x05-pointers_arrays_strings/
+./1-swap 
+nvim 1-swap.c
+nvim 1-main.c 
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+nvim 1-swap.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
+./1-swap 
+git add .
+cd ..
+git commit -m "1swap fix"
+git add .
+betty 0x05-pointers_arrays_strings/1-swap.c
+cd 0x05-pointers_arrays_strings/
+nvim 1-swap.c
+betty 1-swap.c
+nvim 1-swap.c
+betty 1-swap.c
+nvim 1-swap.c
+betty 1-swap.c
+git add .
+cd ..
+git add .
+git commit -m "betty fix "
+git push 
+cd 0x05-pointers_arrays_strings/
+nvim 3-main.c
+nvim holberton.h 
+nvim holberton.h 
+nvim 3-puts.c
+man puts
+nvim 3-puts.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+nvim _putchar.c
+chmod +x _putchar.c 
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts 
+betty 3-puts.c
+git add .
+cd ..
+git add .
+git commit -m "puts"
+git push 
+cd 0x05-pointers_arrays_strings/
+./3-puts 
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+nvim holberton.h 
+nvim 3-puts
+nvim 3-puts.c
+nvim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+nvim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts.c
+./3-puts
+git add .
+cd ..
+git add .
+git commit -m "puts"
+git status
+cd 0x05-pointers_arrays_strings/
+git status
+git add .
+git commit -m "pointers"
+cd ..
+git status
+git push 
+git push 
+cd 0x05-pointers_arrays_strings/
+ls
+betty 3-puts.c
+nvim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3-puts 
+betty 3-puts.c
+git add .
+git commit -m "puts put"
+git push
+cd ..
+git add .
+git commit -m "puts put"
+git push
+cd 0x05-pointers_arrays_strings/
+nvim 3-puts.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
+./3
+./3-puts 
+git add .
+git add .
+git commit -m "3puts using putchar"
+git push 
+cd ..
+git add .
+git commit -m "3puts using putchar"
+git push
+cd 0x05-pointers_arrays_strings/
+ls
+cat 3-puts.c
+cat 3-main.c 
+clear
+ls
+$
+\
+find --help
+find *.c
+ls
+cd ..
+cd 0x01-variables_if_else_while/
+cd ..
+0x04-more_functions_nested_loops/
+cd 0x04-more_functions_nested_loops/
+ls
+cat 3-print_numbers.c
+cd ..
+cd 0x04-more_functions_nested_loops/
+nvim 4-print_most_numbers
+cat 4-print_most_numbers.c
+ls
+cat 1-isdigit.c
+cd ..
+cd 0x01-variables_if_else_while/
+ls
+cat 2-print_alphabet.c 
+int main(void)
+{ char lower; for (lower = 'a'; lower <= 'z'; lower++)
+putchar(lower);
+putchar('\n');
+return (0);
+}
+ls
+cat 3-print_alphabets.c
+cd ..
+cd 0x04-more_functions_nested_loops/
+ls
+cat 4-print_most_numbers.c
+ls
+cat 5-more_numbers.c
+./5-more_numbers
+cd ..
+cd ..
+ls
+cd holberton-system_engineering-devops/
+cd 0x03-shell_variables_expansions/
+ls
+cat 101-odd 
+man xargs 
+perl man
+pearl man
+cd ..
+cd 0x02-shell_redirections/
+ls
+cat 12-newest_files 
+cat 4-lastlines 
+cat 17-hidethisword 
+nvim 17-hidethisword 
+grep --help
+q
+cat 15-countthatword 
+./15-countthatword 
+grep --help
+q
+clear
+cd ..
+cd 0x05
+cd ..
+cd holbertonschool-low_level_programming/
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+nvim 4-main.c
+nvim 4-print_rev.c
+cat 3-puts.c
+nvim holberton.h 
+nvim 4-print_rev.c 
+chmod +x 4-print_rev.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+./4-print_rev
+ca 4-print_rev.c
+cat 4-print_rev.c
+bett 4-print_rev.c
+betty 4-print_rev.c
+nvim 4-print_rev.c 
+betty 4-print_rev.c
+nvim 4-print_rev.c 
+betty 4-print_rev.c
+nvim 4-print_rev.c 
+betty 4-print_rev.c
+nvim 4-print_rev.c 
+betty 4-print_rev.c
+git add .
+cd ..
+git commit -m "print rev"
+git add .
+git commit -m "print rev"
+git push
+cd 0x05-pointers_arrays_strings/
+nvim holberton.h 
+nvim 5-main.c
+nvim 5-rev_string.c
+chmod +x 5-rev_string.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-main.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+ls
+nvim 5-rev_string.c
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+./5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+./5-rev_string
+nvim 5-rev_string.c
+./5-rev_string
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+./5-rev_string
+nvim 5-rev_string.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-rev_string.c -o 5-rev_string
+./5-rev_string
+betty 5-rev_string.c
+git add .
+cd ..
+git commit -m "task 5"
+git add .
+git commit -m "task 5"
+git push 
+cd 0x05-pointers_arrays_strings/
+nvi holberton.h 
+nvim holberton.h 
+nvim 6-main.c
+nvim 6puts2.c
+mv 6puts2.c 6-puts2.c
+chmod +x 6-puts2.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+nvim 6puts2.c
+nvim 6-puts2.c
+nvim 6-puts2.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+./6-puts2
+betty 6-puts2.c
+nvim 6-puts2.c
+betty 6-puts2.c
+nvim 6-puts2.c
+betty 6-puts2.c
+nvim 6-puts2.c
+betty 6-puts2.c
+git add .
+cd ..
+git add .
+git commit -m "6puts"
+git push 
+cd 0x05-pointers_arrays_strings/
+nvim holberton.h 
+nvim 7-main.c
+nvim 7-puts_half.c
+chmod +x 7-puts_half.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-puts_half.c -o 7-puts_half
+./7-puts_half
+betty 7-puts_half.c
+git add .
+cd ..
+git add .
+git commit -m "8" 
+git push 
+git push 
+cd 0x05-pointers_arrays_strings/
+9-main.c
+nvim 9-main.c
+nvim holberton.h 
+mv 9-main.c 8-main.c
+nvim 8-print_array.c
+chmod +x 8-print_array.c 
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_array.c -o 8-print_array
+./8-print_array
+betty 8-print_array.c
+git add .
+cd ..
+git add .
+git commit -m "8a"
+git push 
+cd holbertonschool-l
+cd holbertonschool-low_level_programming/
+cd 0x05-pointers_arrays_strings/
+cat 7-puts_half.c
+cat 7-main.c 
+./7-puts_half
+ls
+cat 5-rev_string.c
+nvim 100-atoi.c
+clear
+cd ..
+mkdir 0x06-pointers_arrays_strings
+CD 0X06
+cd 0x06-pointers_arrays_strings/
+nvim README.md
+nvim 0-main.c 
+nvim holberton.h 
+nvim 0-strcat.c
+chmod +x 0-strcat.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-main.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat
+betty 0-strcat.c
+nvim 0-strcat.c
+betty 0-strcat.c
+git add .
+cd ..
+git add .
+git status
+git commit -m "task 1"
+git push 
+clear
+cd holbertonschool-low_level_programming/
+cd 0x06-pointers_arrays_strings/
+nvim 0-strcat.x
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat.c
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat.c
+./0-strcat
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+git add .
+cd ..
+git add .
+git commit -m "fixing 1
+git commit -m "fixing 0"
+git push 
+cd 0x06-pointers_arrays_strings/
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+nvim 0-strcat.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat
+cat nvim 0-strcat.c
+nvim 0-strcat.c
+nvim 0-strcat.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat.c
+./0-strcat
+nvim 0-strcat.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat
+nvim 0-strcat.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-strcat.c -o 0-strcat
+./0-strcat
+betty 0-strcat.c
+nvim 0-strcat.c 
+betty 0-strcat.c
+git add .
+cd ..
+git add .
+git commit -m "for loop tas0"
+git push 
+cd 0x06-pointers_arrays_strings/
+nvim holberton.h 
+nvim 1-main.c
+nvim 1-strncat.c
+cat 0-strcat.c
+nvim 1-strncat.c
+chmod +x 1-strncat.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+nvim 1-strncat.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+nvim 1-strncat.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+nvim 1-strncat.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+nvim 1-strncat.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+nvim 1-strncat.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+nvim 1-strncat.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+nvim 1-strncat.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strncat.c -o 1-strncat
+./1-strncat
+nvim 1-strncat.c 
+betty 1-strncat.c
+nvim 1-strncat.c 
+betty 1-strncat.c
+betty 1-strncat.c
+nvim 1-strncat.c 
+betty 1-strncat.c
+git add .
+cd //
+cd ..
+ls
+cd vagrant/
+ls
+cd ..
+cd ..
+cd vagrant/
+ls
+~
+cd ~
+ls
+cd holbertonschool-low_level_programming/
+git add .
+git status
+git add .
+git commit -m "strntcat1"
+git push 
+man strncpy
+cd 0x06-pointers_arrays_strings/
+nvim 2-main.c
+nvim holberton.h 
+nvim 2-strncpy.c
+chmod +x 2-strncpy.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strncpy.c -o 2-strncpy
+./2-strncpy
+betty 2-strncpy.c
+nvim 2-strncpy.c
+betty 2-strncpy.c
+git add .
+cd ..
+git commit -m "sctrncpy 2"
+git push 
+git push 
+man strcmp
+nvim 3-main.c 
+nvim h
+mv 3-main.c 0x06-pointers_arrays_strings/3-main.c
+cd 0x06-pointers_arrays_strings/
+nvim holberton.h 
+nvim 3-strcmp.c
+chmod +x 3-strcmp.c 
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-main.c 
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+./3-strcmp
+nvim 3-main.c 
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+./3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+./3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+./3-strcmp
+nvim 3-strcmp.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strcmp.c -o 3-strcmp
+./3-strcmp
+nvim 3-strcmp.c
+betty 3-strcmp.c
+nvim 3-strcmp.c
+betty 3-strcmp.c
+nvim 3-strcmp.c
+betty 3-strcmp.c
+git add .
+cd ..
+git add .
+git commit -m "strcmp3"
+git push
+cd 0x06-pointers_arrays_strings/
+nvim holberton.h 
+nvim 4-main.c 
+nvim 4-rev_array.c
+chmod +x 4-rev_array.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-rev_array.c -o 4-rev_array\
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-rev_array.c -o 4-rev_array\
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-rev_array.c -o 4-rev_array
+nvim 4-rev_array.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-rev_array.c -o 4-rev_array
+nvim 4-rev_array.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-rev_array.c -o 4-rev_array
+nvim 4-main.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-rev_array.c -o 4-rev_array
+./4-rev_array
+betty 4-rev_array.c
+git add .
+cd .
+git add .
+git commit -m "reverse"
+git push
+nvim holberton.h 
+nvim 5-main.c
+nvim 5-wqstring_toupper.c
+mv 5-wqstring_toupper.c 5-string_toupper.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-string_toupper.c -o 5-string_toupper
+nvim 5-string_toupper.c
+nvim 5-string_toupper.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-string_toupper.c -o 5-string_toupper
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-string_toupper.c -o 5-string_toupper
+nvim 5-string_toupper.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-string_toupper.c -o 5-string_toupper
+nvim 5-string_toupper.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-string_toupper.c -o 5-string_toupper
+./5-string_toupper 
+nvim 5-main.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-string_toupper.c -o 5-string_toupper
+./5-string_toupper 
+git add .
+cd ..
+git add .
+git commit -m "toupper"
+git [ush 
+git [ush 
+cd 0x06-pointers_arrays_strings/
+ls
+nvim 5-string_toupper
+nvim 5-string_toupper.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-string_toupper.c -o 5-string_toupper
+nvim 5-string_toupper.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-string_toupper.c -o 5-string_toupper
+./5-string_toupper 
+git add .
+cd .
+cd 0x06
+betty 5-string_toupper.c
+nvim 5-string_toupper.c
+betty 5-string_toupper.c
+git add .
+cd .
+cd ..
+git add .
+git commit -m "betty"
+git push
+cd holbertonschool-low_level_programming/
+cd 0x06-pointers_arrays_strings/
+nvim 2-strncpy.c
+ls
+nvim 5-string_toupper
+nvim 5-string_toupper.c
+nvim 2-strncpy.c
+nvim 3-strcmp.c
+nvim holberton.h 
+nvim 6-main.c
+nvim 6-cap_string.c
+chmod +x 6-cap_string.c 
+cc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+nvim 6-cap_string.c
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+nvim 6-cap_string.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+nvim 6-cap_string.c
+cat 6-cap_string.c 
+nvim 6-cap_string.c 
+nvim 6-main.c 
+nvim 6-cap_string.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+./6-cap
+./6-cap
+nvim 6-cap_string.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+nvim 6-cap_string.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+nvim 6-cap_string.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+nvim 6-cap_string.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+nvim 6-cap_string.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-cap_string.c -o 6-cap
+./6-cap
+betty 6-cap_string.c 
+nvim 6-cap_string.c 
+betty 6-cap_string.c 
+nvim 6-cap_string.c 
+betty 6-cap_string.c 
+betty 6-cap_string.c 
+nvim 6-cap_string.c 
+betty 6-cap_string.c 
+nvim 6-cap_string.c 
+betty 6-cap_string.c 
+git add .
+cd ..
+git add .
+git commit -m "task 6"
+git push 
+cd 0x06-pointers_arrays_strings/
+nvim 7-main.c
+nvim holberton.h 
+nvim 7-leet.c
+nvim 101-magic.c
+betty 101-magic.c 
+nvim 101-magic.c
+betty 101-magic.c 
+nvim 101-magic.c
+betty 101-magic.c 
+betty 101-magic.c 
+betty 101-magic.c 
+nvim 101-magic.c
+betty 101-magic.c 
+git add .
+cd ..
+git add .
+git commit -m "101 magic" 
+git push 
+nvim 0x06-pointers_arrays_strings/101-magic.c 
+chmod +x 0x06-pointers_arrays_strings/101-magic.c 
+./0x06-pointers_arrays_strings/101-magic.c 1
+./0x06-pointers_arrays_strings/101-magic.c 
+nvim 0x06-pointers_arrays_strings/101-magic.c 
+nvim 0x06-pointers_arrays_strings/101-magic.c 
+./0x06-pointers_arrays_strings/101-magic.c 
+git add .
+gcc 0x06-pointers_arrays_strings/101-magic.c 
+./0x06-pointers_arrays_strings/101-magic.c 
+gcc 0x06-pointers_arrays_strings/101-magic.c -o 101-magic
+./101-magic 
+git add .
+git commit -m "101'
+git commit -m "101"wq
+git push
+mv 101-magic 0x06-pointers_arrays_strings/101-magic
+cd 0x06-pointers_arrays_strings/
+./101-magic
+betty 101-magic.
+betty 101-magic.c
+git add .
+cd ..
+git add .
+git status
+git rm 101-magic 
+git add .
+git commit -m "101"
+git pushj
+cd 0x06-pointers_arrays_strings/
+nvim 101-magic
+nvim 101-magic.c
+rm 101-magic.c
+rm 101-magic
+git rm .
+git rm 101-magic 101-magic.c
+git 101-magic.c
+nvim 101-magic.c
+betty 101-magic.c 
+chmod +x 101-magic.c 
+gcc 101-magic.c -o 101-magic
+./101-magic
+git add .
+cd ..
+git add .
+git commt -m "101
+git commt -m "101"
+git push 
+cd 0x06-pointers_arrays_strings/
+ls
+nvim 7-leet.c 
+nvim 6-cap_string.c 
+nvim 7-leet.c 
+chmod 7-leet.c 
+chmod x+wq 7-leet.c 
+chmod x+ 7-leet.c 
+chmod +x 7-leet.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-leet.c -o 7-1337
+nvim 7-leet.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-leet.c -o 7-1337
+./7-1337 
+git add 
+git ad d.
+git add .
+cd .
+cd ..
+git add .
+git commit -m "leet"
+git push 
+cd 0x06-pointers_arrays_strings/
+nvim 7-leet.c 
+./7-1337 
+nvim 7-leet.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-leet.c -o 7-1337
+./7-1337 
+nvim 7-leet.c 
+betty 7-leet.c 
+nvim 7-leet.c 
+betty 7-leet.c 
+nvim 7-leet.c 
+betty 7-leet.c 
+nvim 7-leet.c 
+betty 7-leet.c 
+git add .
+cd ..
+git add .
+git commit -m 
+git commit -m "leet"
+git push
+cd 0x06-pointers_arrays_strings/
+nvim 100-main.v
+nvim 100-main.c
+nvim holberton.h 
+nvim holberton.h 
+nvi 100-print_number.c
+nvim 100-print_number.c
+nvim 100-print_number.c
+chmod +x 100-print_number.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+nvim _putchar.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+nvim 100-print_number.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+nvim 100-print_number.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+chmod +x _putchar.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+nvim holberton.h 
+nvim 100-print_number.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+nvim 100-print_number.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+nvim 100-print_number.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+ls
+nvim _putchar.c 
+nvi holberton.h 
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+nvim holberton.h 
+nvim 100-print_number.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 100-main.c 100-print_number.c -o 100-print_numbers
+./100-print_number
+./100-print_numbers
+betty 100-print_numbers
+nvim 100-print_numbers.c
+betty 100-print_numbers.c
+ls
+betty 100-print_number.c
+nvim 100-print_numbers.c
+nvim 100-print_number.c
+betty 100-print_number.c
+git add 
+git add .
+cd ..
+git add .
+git commit -m "100- prtin number"
+git  push
+cd holbertonschool-low_level_programming/
+mkdir 0x07-pointers_arrays_strings
+cd 0x07-pointers_arrays_strings/
+git init 
+nvim README.md
+git add README.md 
+git remote add origin master
+git commit -m "first commit"m
+git push -u origin master 
+cd ..
+git add 0x07-pointers_arrays_strings/
+git add .
+git commit -m "1st commit"
+git push
+cd 0x07-pointers_arrays_strings/
+git push -u origin master 
+git push
+git setuptstreaam
+git --help
+cd .. 
+cd 0x07-pointers_arrays_strings/
+nvim 0-main.c
+nvim 0-main.c
+nvim holberton.h 
+cat 0-main.c 
+char *_memset(char *s, char b, unsigned int n)
+/**
+ *_memset - function that fill first byte of memory are pointed to a const byte
+ * @n: const int
+ * @s: pointer to memory
+ * @b: constant byte
+ * Return: pointer to s
+ */
+{ return (s);
+}
+nvim 0-memset.c
+cat 0-main.c 
+nvim 0-main.c 
+git add .
+man memset
+nvim 0-memset.c 
+cat 0-memset.c 
+nvi 0-main.c 
+nvim 0-main.c 
+chmod +x 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+ls
+./a.out 
+cat 0-main.c 
+vagrant ssh
+cd holbertonschool-low_level_programming/
+cd 0x07-pointers_arrays_strings/
+nvim 0-memset.c 
+nvi 0-main.c
+nvim 0-main.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-main.c 
+nvim 0-memset.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+betty 0-memset.c
+git add .
+cd ..
+git add .
+git commit - m "memset"
+git add .
+git commit -m "memset"
+git push
+cd 0x07-pointers_arrays_strings/
+nvim 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+cd holbertonschool-low_level_programming/
+cd 0x07-pointers_arrays_strings/
+ls
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+./a.out 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+nvim 0-main.c 
+gcc 0-main.c 
+./a.out 
+nvim 0-main.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+rm /home/vagrant/.backup/0-mems
+rm /home/vagrant/.backup/0-memset.swp
+nvim 0-memset.c
+/home/vagrant/.backup/0-mems
+/home/vagrant/.backup/0-memset.c.swp
+chmod /home/vagrant/.backup/0-mems
+chmod +x /home/vagrant/.backup/0-mems
+chmod +x /home/vagrant/.backup/0-memset.c.swp
+rm /home/vagrant/.backup/0-memset.c.swp
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+ls
+rm 0-main.c 
+nvim 0-main.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+nvim 0-memset.c
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-memset.c -o 0-memset
+./0-memset 
+nvim 0-memset.c
+betty 0-memset.c
+git add .
+cd ..
+git add .
+git commit -m "fixing memset"
+git push 
+man memcpy
+cd 0x07-pointers_arrays_strings/
+nvim holberton.h 
+nvim 1-main.c
+nvim 1-memcpy.c
+chmod +x 1-memcpy.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-memcpy.c -o 1-memcpy
+./1-memcpy
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-memcpy.c -o 1-memcpy
+nvim 1-memcpy.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-memcpy.c -o 1-memcpy
+./1-memcpy
+nvim 1-memcpy.c
+chmod +x 1-memcpy.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-memcpy.c -o 1-memcpy
+nvim 1-memcpy.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-memcpy.c -o 1-memcpy
+nvim 1-memcpy.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-memcpy.c -o 1-memcpy
+nvim 1-memcpy.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-memcpy.c -o 1-memcpy
+./1-memcpy
+betty 1-memcpy.c
+nvim 1-memcpy.c
+betty 1-memcpy.c
+nvim 1-memcpy.c
+betty 1-memcpy.c
+git add .
+git commit -m "memcpy1"
+cd ..
+git add .
+git commit -m "memcpy1"
+git push
+man strchr
+cd 0x07-pointers_arrays_strings/
+nvim holberton.h 
+nvim 2-main.c
+nvim 2-strchr.c
+chmod +x 2-strchr.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strchr.c -o 2-strchr
+./2-strchr
+betty 2-strchr.c
+nvim 2-strchr.c
+betty 2-strchr.c
+nvim 2-strchr.c
+nvim 2-strchr.c
+betty 2-strchr.c
+git add .
+cd ..
+git add .
+git commit -m "task2"
+git push 
+man strspn 
+man strspn 
+cd 0x07-pointers_arrays_strings/
+ls
+nvim holberton.h 
+nvim holberton.h 
+nvim 3-main.c
+nvim 3-strspn.c
+chmod +x 3-strspn.c 
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+./3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+./3-strspn
+nvim 3-strspn.c
+./3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+./3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+nvim 3-strspn.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-strspn.c -o 3-strspn
+./3-strspn
+nvim 3-strspn.c
+betty 3-strspn.c
+git add .
+cd ..
+git commit -m "task 3"
+git add .
+git commit -m "task 3"
+git push 
+cd 0x07-pointers_arrays_strings/
+nvim holberton.h 
+nvim 4-main.c
+nvim 4-strpbrk.c
+chmod +x 4-strpbrk.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+./4-strpbrk
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+./4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+./4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+./4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+./4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+nvim 4-strpbrk.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-strpbrk.c -o 4-strpbrk
+./4-strpbrk
+betty 4-strpbrk.c
+nvim 4-strpbrk.c
+betty 4-strpbrk.c
+nvim 4-strpbrk.c
+betty 4-strpbrk.c
+nvim 4-strpbrk.c
+betty 4-strpbrk.c
+nvim 4-strpbrk.c
+betty 4-strpbrk.c
+git add .
+cd ..
+git add .
+git commit -m "task 5"
+git push 
+cd 0x07-pointers_arrays_strings/
+nvim holberton.h 
+nvim 5-main.c
+nvim 5-strstr.c
+chmod 5-strstr.c 
+chmod +x 5-strstr.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-strstr.c -o 5-strstr
+./5-strstr
+betty 5-strstr.c
+git add .
+cd ..
+git add .
+git commit -m "task 5"
+git push
+cd 0x07-pointers_arrays_strings/
+nvim 5-strstr.c
+LS
+clear
+ls
+cat 5-strstr.c
+ls
+nvim holberton.h 
+nvim 7-main.c
+nvim 7-print_chessboard.c
+nvim 1-memcpy
+nvim 1-memcpy.c
+cat 0-memset.c
+cat 2-strchr.c
+./2-strchr
+nvim 2-main.c 
+chmod +x 2-main.c 
+gcc 2-main.c -o 2-test
+./2-test 
+gcc 2-main.c 
+ls
+./a.out 
+gcc 2-main.c 
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+cat 2-strchr.c
+gcc 2-main.c 
+nvim 2-main.c 
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+cat 2-strchr.c
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+nvim 2-main.c 
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+nvim 2-main.c 
+cat 2-main.c 
+cat 2-strchr.c
+nvim 2-main.c 
+gcc 2-main.c 
+./a.out 
+nvim 2-main.c 
+nvim 2-main.c 
+gcc 2-main.c 
+nvim 2-main.c 
+gcc 2-main.c 
+nvim 2-main.c 
+gcc 2-main.c 
+nvim 2-main.c 
+cat 2-main.c 
+nvim 7-print_chessboard.c 
+chmod +x 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim #include <unistd.h>
+nvim _putchar.c
+chmod +x _putchar.c 
+gcc _putchar.c -o _putchar
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim _putchar.c
+nvim 7-print_chessboard.c 
+chmod +x 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+nvim holberton.h 
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+./7-print_chessboard
+betty 7-print_chessboard.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+nvim 7-print_chessboard.c 
+betty 7-print_chessboard.c
+git add .
+cd ..
+git add .
+git commit -m "chessboard"
+git push
+cd 0x07-pointers_arrays_strings/
+betty 7-print_chessboard.c
+nvim 7-print_chessboard.c
+betty 7-print_chessboard.c
+git add .
+git commit -m "chess betyt"
+cd ..
+git add .
+git commit -m "chess betyt"
+git push
+cd cd 0x07-pointers_arrays_strings/
+cd 0x07-pointers_arrays_strings/
+nvim 8-main.c
+nvim holberton.h 
+nvim holberton.h 
+nvim 8-print_diagsums.c
+cat 7-print_chessboard.c
+nvim 8-print_diagsums.c 
+chmod +x 8-print_diagsums.c 
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_diagsums.c -o 8-print_diagsums
+nvim 8-print_diagsums.c 
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_diagsums.c -o 8-print_diagsums
+nvim 8-print_diagsums.c 
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_diagsums.c -o 8-print_diagsums
+nvim 8-print_diagsums.c 
+gcc -Wall -pedantic -Werror -Wextra 8-main.c 8-print_diagsums.c -o 8-print_diagsums
+./8-print_diagsums
+betty 8-print_diagsums
+betty 8-print_diagsums.c
+nvim 8-print_diagsums.c 
+betty 8-print_diagsums.c
+nvim 8-print_diagsums.c 
+betty 8-print_diagsums.c
+nvim 8-print_diagsums.c 
+betty 8-print_diagsums.c
+nvim 8-print_diagsums.c 
+betty 8-print_diagsums.c
+git add .
+git commit -m "tassk 8"
+cd ..
+git add .
+git commit -m "tassk 8"
+git push
+nvim h
+cd 0x07-pointers_arrays_strings/
+nvim holberton.h 
+nvim 9-main.c
+nvim 9-set_string.c
+chmod +x 9-set_string.c 
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-set_string.c -o 9-set_string
+./9-set_string
+betty 9-set_string.c
+git add .
+cd ..
+git add .
+git commit -m "task 9"
+git push 
+mkdir 0x08-recursion
+cd 0x08-recursion/
+nvim README.md
+git add .
+cd ..
+git add .
+cd 0x08-recursion/
+nvim holberton.h
+nvim 0-main.c
+nvim holberton.h 
+nvim 0-main.c
+nvim 0-puts_recursion.c
+chmod +x 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim _putchar.c
+git clone https://github.com/holbertonschool/_putchar.c.git
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+chmod +x _putchar.c/
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+ls
+cd _putchar.c/
+ls
+cd ..
+mv _putchar.c/_putchar.c _putchar.c
+rm -rf _putchar.c/
+nvim _putchar.c 
+chmod +x _putchar.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+chmod +x 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvm 0-puts_recursion.c 
+nvi 0-puts_recursion.c 
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c 
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+betty 0-puts_recursion.c
+git add .
+git commit -m "task 0"
+cd ..
+git add .
+git commit -m "task 0"
+git push
+cd 0x08-recursion/
+nvim holberton.h 
+nvim 1-main.c
+nvim 1-print_rev_recursion.c
+chmod +x 1-print_rev_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+betty 1-print_rev_recursion.c
+nvim 1-print_rev_recursion.c
+betty 1-print_rev_recursion.c
+git add .
+git commit -m "task 1"
+cd ..
+git add .
+git commit -m "task 1"
+git push 
+cd 0x08-recursion/
+nvim holberton.h 
+nvim 2-main.c
+nvim 2-strlen_recursion.c
+nvim 2-strlen_recursion.c
+chmod +x 2-strlen_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra  2-main.c 2-strlen_recursion.c -o 2-strlen_recursion
+chmod +x 2-strlen_recursion.c 
+nvim 2-strlen_recursion.c
+gcc -Wall -pedantic -Werror -Wextra  2-main.c 2-strlen_recursion.c -o 2-strlen_recursion
+./2-strlen_recursion
+betty 2-strlen_recursion.c
+nvim 2-strlen_recursion.c
+betty 2-strlen_recursion.c
+nvim 2-strlen_recursion.c
+betty 2-strlen_recursion.c
+git add .
+git commit -m " task 2"
+cd ..
+git push
+cd 0x08-recursion/
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+git add .
+betty 0-puts_recursion.c
+git add .
+git commit -m "task 0 fix" 
+cd ..
+git push 
+cd 0x08-recursion/
+man puts
+rm 0-main.c 
+vim 0-main.c
+nvim 0-main.c 
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+git add .
+git commit -m "if*s"
+cd .
+git push 
+git push 
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim holberton.h 
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 2-strlen_recursion.c
+nvim 2-strlen_recursion.c
+cat 2-strlen_recursion.c
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+nvim 0-puts_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+./0-puts_recursion
+cat 0-puts_recursion.c
+betty 0-puts_recursion.c
+git add .
+git commit -m "fix 0"
+cd ..
+git push 
+git push 
+cd 0x08-recursion/
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+./1-print_rev_recursion
+cat 1-print_rev_recursion.c
+cat 0-puts_recursion.c
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+cat 0-puts_recursion.c
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+nvim 1-print_rev_recursion.c
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+ls
+nvim holberton.h 
+nvim 3-main.c
+nvim 3-factorial.c
+chmod +x 3-factorial.c 
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+git status
+git add .
+cd ..
+git add .
+git commit -m "recursion" 
+git push 
+cd 0x08-recursion/
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+nvim 3-factorial.c
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-factorial.c -o 3-factorial
+./3-factorial
+betty 3-factorial.c
+nvim 3-factorial.c
+betty 3-factorial.c
+nvim 3-factorial.c
+betty 3-factorial.c
+git add .
+git commit -m "3 fact" 
+cd ..
+git push
+cd 0x08-recursion/
+nvim holberton.h 
+nvim 4-main.c
+nvim 4-pow_recursion.c
+nvim 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+q
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+nvim 1-print_rev_recursion.c
+gcc -Wall -pedantic -Werror -Wextra _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+./1-print_rev_recursion
+betty 1-print_rev_recursion.c
+git add .
+git commit -m "1 task"
+cd ..
+git push 
+cat 0x08-recursion/1-print_rev_recursion.c
+clear
+cd 0x08-recursion/
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+man pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+betty 4-pow_recursion.c 
+nvim 4-pow_recursion.c 
+betty 4-pow_recursion.c 
+git add .
+git commit -m "p0ow"
+cd ..
+gti push 
+git push 
+cd 0x08-recursion/
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+git checkout 4-pow_recursion.c
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+git checkout 4-pow_recursion.c
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+git checkout 4-pow_recursion.c
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+nvim 4-pow_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 4-main.c 4-pow_recursion.c -o 4-pow
+./4-pow 
+betty 4-pow_recursion.c 
+git add .
+git commit -m "pow!"
+cd ..
+git push
+cd 0x08-recursion/
+ls
+nvim holberton.h 
+cat 0-puts_recursion.c
+cat 1-print_rev_recursion.c
+./1-print_rev_recursion
+nvim 2-strlen_recursion.c
+cat 2-strlen_recursion.c
+cat 3-factorial.c
+cat 4-pow_recursion.c 
+ls
+nvim 5-main.c
+nvim holberton.h 
+nvim 5-sqrt_recursion.c
+chmod +x 5-sqrt_recursion.c 
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-sqrt_recursion.c -o 5-sqrt
+./5-sqrt
+nvim 5-sqrt_recursion.c
+gcc -Wall -pedantic -Werror -Wextra 5-main.c 5-sqrt_recursion.c -o 5-sqrt
+./5-sqrt
+betty 5-sqrt_recursion.c 
+nvim 5-sqrt_recursion.c
+betty 5-sqrt_recursion.c 
+nvim 5-sqrt_recursion.c
+betty 5-sqrt_recursion.c 
+nvim 5-sqrt_recursion.c
+betty 5-sqrt_recursion.c 
+git ad d.
+git add .
+git commit -m "task 5"
+cd ..
+git push
+git add .
+git commit -m "task 5"
+git push
+git status
+git pull
+git pull remote https://github.com/funkified/holbertonschool-low_level_programming.git
+git pull remote master
+git pull remote main
+git pull https://github.com/funkified/holbertonschool-low_level_programming.git
+git push
+ls
+cd 0x08-recursion/
+nvim 5-sqrt_recursion.c 
+betty 5-sqrt
+betty 5-sqrt_recursion.c 
+nvim 5-sqrt_recursion.c 
+betty 5-sqrt_recursion.c 
+nvim 5-sqrt_recursion.c 
+betty 5-sqrt_recursion.c 
+nvim 5-sqrt_recursion.c 
+betty 5-sqrt_recursion.c 
+nvim 5-sqrt_recursion.c 
+betty 5-sqrt_recursion.c 
+nvim 5-sqrt_recursion.c 
+betty 5-sqrt_recursion.c 
+git add .
+git commit -m "betty fix"
+cd ..
+git push
+cd 0x08-recursion/
+nvim 5-sqrt_recursion.c 
+nvim holberton.h 
+nvim 6-main.c
+nvim holberton.h 
+nvim 7-main.c
+nvim 7-is_palindrome.c
+chmod +x 7-is_palindrome.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-is_palindrome.c -o 7-palindrome
+./7-
+./7-palindrome 
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c
+betty 7-is_palindrome.c 
+git add .
+git commit -m "task 7"
+cd ..
+git push
+git push
+git push
+cd 0x08-recursion/
+ls
+git status
+cd ..
+git status
+ccd 0x08-recursion/\
+cd 0x08-recursion/
+git add 7-is_palindrome.c 
+git commit -m "7"
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-is_palindrome.c -o 7-palindrome
+nvim 7-is_palindrome.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-is_palindrome.c -o 7-palindrome
+nvim 7-is_palindrome.c 
+nvim 7-is_palindrome.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-is_palindrome.c -o 7-palindrome
+nvim 7-is_palindrome.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-is_palindrome.c -o 7-palindrome
+nvim 7-is_palindrome.c 
+nvim 7-is_palindrome.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-is_palindrome.c -o 7-palindrome
+nvim 7-is_palindrome.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-is_palindrome.c -o 7-palindrome
+./7-palindrome 
+nvim 7-is_palindrome.c 
+gcc -Wall -pedantic -Werror -Wextra 7-main.c 7-is_palindrome.c -o 7-palindrome
+./7-
+./7-palindrome 
+nvim 7-is_palindrome.c 
+./7-palindrome 
+git add .
+git commit -m "palindrome"
+cd ..
+git push
+cd 0x08-recursion/
+nvim 7-is_palindrome.c 
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c 
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c 
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c 
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c 
+nvim 7-is_palindrome.c 
+betty 7-is_palindrome.c 
+nvim 7-is_palindrome.c 
+ls
+6-main.c
+nvim 6-main.c
+nvim holberton.h 
+nvim 7-is_palindrome.c 
+nvim holberton.h 
+rm 6-main.c 
+nvim 6-main.c
+nvim 6-is_prime_number.c
+chmod +x 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-p
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+./6-prime 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-
+./6-prime 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+./6-prime 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+cat 6-is_prime_number.c 
+nvim 6-is_prime_number.c 
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+nvim 6-is_prime_number.c 
+gcc -Wall -pedantic -Werror -Wextra 6-main.c 6-is_prime_number.c -o 6-prime
+./6-prime 
+git add .
+git commit -m "prime"
+cd ..
+git pusj 
+git push 
+cd 0x08-recursion/
+betty 6-is_prime_number.c 
+nvim 6-is_prime_number.c 
+betty 6-is_prime_number.c 
+nvim 6-is_prime_number.c 
+betty 6-is_prime_number.c 
+git add .
+git push 
+git commit -m "6prime"
+cd ..
+git push 
+cd 0x08-recursion/
+nvim 7-palindrome 
+nvim 7-is_palindrome.c 
+cd ..
+git status
+cd holbertonschool-low_level_programming/
+git status
+git ad .
+git ad d.
+git ad d .
+git add .
+ls
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv/
+nvim README.md
+git add .
+cd ..
+git add .
+git commit -m "first comm"
+cd 0x0A-argc_argv/
+nvim holberton.h
+nvim _putchar.c
+gcc _putchar.c 
+ls
+chmod +x _putchar.c 
+gcc _putchar.c 
+gcc _putchar.c -o _putchar
+nvim 0-whatsmyname.c
+chmod +x 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+nvim 0-whatsmyname.c 
+gcc -Wall -pedantic -Werror -Wextra 0-whatsmyname.c -o mynameis
+./mynameis 
+mv mynameis mynewnameis
+./mynewnameis 
+git add .
+cd ..
+gti add .
+git add .
+git commit -m "task 0"
+git push 
+cd 0x0A-argc_argv/
+nvim 0-whatsmyname.c 
+betty 0-whatsmyname.c 
+nvim 0-whatsmyname.c 
+betty 0-whatsmyname.c 
+nvim 0-whatsmyname.c 
+betty 0-whatsmyname.c 
+git ad d.
+git add .
+cd ..
+git add .
+git commit -m "task 0 betty"
+git push 
+nvim 1-nargs.c
+mv 1-nargs.c 1-args.c
+chmod +x 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+ls
+mv 1-args.c 0x0A-argc_argv/
+cd 0x0A-argc_argv/
+ls
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+./nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+./nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs
+./nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs hello
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs hello
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs hello
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+./nargs hello
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs hello
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs hello
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+./nargs hello world
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+betty 1-args.c 
+nvim 1-args.c 
+nvim 1-args.c 
+betty 1-args.c 
+git add .
+git commit -m "task 1"
+cd ..
+git add .
+git commit -m "task 1"
+git push
+git push
+clear
+cd 0x0A-argc_argv/
+./nargs 
+./nargs hel
+nvi 1-args.c 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+git checkout 1-args.c
+cd holbertonschool-low_level_programming/
+cd 0x0A-argc_argv/
+clear
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs holberton
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hel
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hel
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs holberto
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs holberton
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+/.n
+./nargs 
+./nargs he
+./nargs hello hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hello
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+man strol
+man strtol
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hel
+./nargs 
+./nargs hel
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs holberton.h 
+./nargs holberton
+./nargs holberton.h 
+nvim 1-args.c 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+nvim 1-args.c 
+gcc -Wall -pedantic -Werror -Wextra 1-args.c -o nargs 
+./nargs 
+./nargs hel
+./nargs hello
+./nargs "hello, world"
+hello world
+./nargs hello wolrd
+git add .
+git commit -m "__attribute__((unused))"
+cd ..
+git add .
+git commit -m "task 1 __attribute__((unused))"
+git push 
+git push 
+cd 0x0A-argc_argv/
+betty 1-args.c 
+nvim 1-args.c 
+betty 1-args.c 
+git add .
+cd ..
+ git commit -m "betty task 1"
+git push 
+cd 0x0A-argc_argv/
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+ls
+./args 
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+./args 
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+nvim 2-args.c
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args q
+./args 
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./a
+./args 
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./a
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+You can do anything, but not everything.
+./args You can do anything, but not everything.
+nvim 2-args.c
+gcc -Wall -pedantic -Werror -Wextra 2-args.c -o args
+./args 
+./args You can do anything, but not everything.
+git ad d.
+git add .
+git commit -m "task 2"
+cd ..
+git push 
+git push 
+cd 0x0A-argc_argv/
+betty 1-args.c 
+nvim 2-args.c 
+betty 2-args.c 
+nvim 2-args.c 
+betty 2-args.c 
+nvim 2-args.c 
+betty 2-args.c 
+nvim 2-args.c 
+betty 2-args.c 
+git ad d.
+git add .
+git commit -m " betty fix 2"
+cd ..
+git push 
+git push 
+cd 0x0A
+cd 0x0A-argc_argv/
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+ls
+./mul 
+./mul 
+./mul 
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./mul 
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./m
+./mul 
+./mul 
+./mul 2 3
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./mul 
+./mul 2 3
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./mul 2 3
+./mul 2 -3
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./mul 
+./mul 2 -3
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./mul 
+./mul 2 3
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./mul 
+./mul 2 3
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./mul 2 3
+nvim 3-mul.c
+nvim 3-mul.c
+gcc -Wall -pedantic -Werror -Wextra 3-mul.c -o mul
+./mul 
+./mul 2 3
+./mul 2 -3
+2 0
+./mul 2 0
+245 3245342
+./mul 245 3245342
+betty 3-mul.c 
+git add .
+git commit -m "task 3 "
+cd ..
+git push 
+mkdir 0x09-static_libraries
+vim RE
+vim README.md
+cd 0x09-static_libraries/
+nvim README.md
+nvim holberton.h
+nvim main.c
+nvim holberton.h 
+man ranlib
+nvim libholberton.a
+ranlib --help
+gcc -c *.c
+ar -rc libholberton.a *.o
+ls
+ranlinb libholberton.
+ranlib libholberton.
+ranlib libholberton.as
+ranlib libholberton.a
+ranlib libholberton.agcc main.c -L. -lholberton -o main
+gcc main.c -L -lholberton -o main
+./main
+gcc main.c -L -lholberton -o main
+cat main.
+cat main.c
+nvim holberton.h 
+chmod +x main.c
+gcc main.c -L -lholberton -o main
+Dls
+ls
+rm libholberton.a 
+ git checkout libholberton.a
+gcc -c * c
+gcc -c *.c
+ar -rc libholberton.a *.o
+ls
+ranlib libholberton.a 
+ar -t libholberton.a 
+nm libholberton.a 
+nvim main.c
+gcc -c *.c
+cat main.c
+nvim main.c
+gcc -c *.c
+nvim 0-isupper.o
+nvim 0-isupper.c
+nvim int _islower(int c)
+nvim _islower.c
+nvim _isalpha.c
+gcc -c *.c
+nvim 0-isupper.o
+nvim 0-isupper.c
+gcc -c *.c
+ar -rc libholberton.a *.o
+ranlib libholberton.a
+ar -t libholberton.a
+gcc main.c -L. -lholberton -o mai
+gcc main.c -L. -lholberton -o main
+./main.c 
+gcc main.c -L. -lholberton -o main
+nvim nvim abs.c
+nvim _abs.c
+gcc -c *.c
+nvim nvim abs.c
+nvim _abs.c
+gcc -c *.c
+ar -rc libholberton.a *.o
+ranlib libholberton.a
+ar -t libholberton.a
+git add .
+git commit -m "lib"
+cd ..
+git push 
+cd 0x09-static_libraries/
+cat 0-isupper.c
+nvim _isupper.c
+nvim _isdigit.c
+nvim _strlen.c
+nvim _puts.c
+nvim _atoi.c
+ranlib libholberton.a
+gcc -c *.c
+nvim _puts.c
+gcc -c *.c
+ar -rc libholberton.a *.o
+ranlib libholberton.a
+ar -t libholberton.a
+git add .
+git commit -m "more ljbs"
+cd .
+cd ..
+git push 
+ls
+cd 0x09-static_libraries/
+ls
+nvim nvim _strncpy.c
+nvim _strncpy.c
+nvim _strcmp.c
+cat _strcmp.c 
+nvim _memset.c
+nvim _strchr.c
+nvim _strspn.c
+nvim _strbrk,c
+nvim _strbrk.c
+nvim _strstr,c
+nvim _strstr.c
+gcc -c *.c
+nvim _strstr,c
+nvim _strstr.c
+nvim _strncpy.c
+gcc -c *.c
+ls
+nvim _strncpy.c
+gcc -c *.c
+nvim _memset.c 
+gcc -c *.c
+nvim _strstr.c 
+nvim _strncpy..c
+nvim _strncpywq.c
+nvim _strncpy.c
+nvim _strchr.c 
+gcc -c *.c
+nvim _memset.c 
+gcc -c *.c
+nvim _strchr.c 
+nvim _strncpy.
+nvim _strncpy.c
+nvim _strstr.c 
+gcc -c *.c
+ ar -rc libholberton.a *.o
+ranlib libholberton.a
+ar -t libholberton.a
+nvim _putchar.c
+gcc -c *.c
+nvim _putchar.c
+gcc -c *.c
+ar -rc libholberton.a *.o
+ranlib libholberton.a
+ar -t libholberton.a
+git add .
+git commit -m " stat lb"
+cd ..
+git push 
+cd ..
+cd holberton-system_engineering-devops/
+cd 0x03-shell_variables_expansions/
+ls
+cat 101-odd 
+cd ..
+cd 0x02-shell_redirections/
+cat 19-AZ 
+./19-AZ 
+ls -la
+cd ..
+cd 0x00-shell_basics/
+cat 4-listmorefiles 
+ls -al
+/boot
+cd ..
+cd ..
+cd holbertonschool-low_level_programming/
+ls
+cd 0x04-more_functions_nested_loops/
+ls
+nvim 8-print_square.c 
+cat 8-print_square.c 
+cd ..
+cd 0x05-pointers_arrays_strings/
+ls
+cd ..
+cd 0x04-more_functions_nested_loops/
+cd ..
+cd 0x05-pointers_arrays_strings/cd 0x05-pointers_arrays_strings/
+nvim 9-strcpy.c
+cat 9-strcpy.c 
+nvim 9-main.c
+chmod +x 9-strcpy.c 
+mv 9-main.c 9-strcpy.c 
+ls
+cat 9-strcpy.c 
+char *_strcpy(char *dest, char *src)
+{ int i; char scp; for (i = 0; src[i] != '\0; i++)
+{  (dest);
+mv 9-strcpy.c 9-main.c
+nvim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+ls
+mv 9-main.c 0x09-static_libraries/9-main.c
+mv 9-strcpy.c 0x09-static_libraries/9-strcpy.c
+cd 0x09-static_libraries/
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpynvim holberton.h 
+nvim holberton.h 
+nvim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpynvim holberton.h 
+nvim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpynvim holberton.h 
+nvim 9-strcpy.c
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpynvim holberton.h 
+ls
+cd .. 
+cd 0x01-variables_if_else_while/
+cat 5-print_numbers.c
+ls
+cat 5-print_numbers.c
+int main(void)
+{ int num; num = 0; while (num <= 9); { tf("%d", num);
+num++;
+}
+putchar('\n');
+return (0);
+}
+cat 5-print_numbers.c
+cd ..
+cd 0x04-more_functions_nested_loops/
+cat 9-fizz_buzz.c
+cd ..
+cd 0x05-pointers_arrays_strings/
+ls
+cat 3-puts.c
+cd ..
+cd ..
+cd holberton-system_engineering-devops/
+cd 0x02-shell_redirections/
+cat 7-file 
+cd ..
+cd ..
+cd holbertonschool-low_level_programming/
+cd 0x08-recursion/
+catr 1-print_rev_recursion.c
+cat 1-print_rev_recursion.c
+#!/bin/bash
+echo "Holberton School" > "\\*\\\\'\"Holberton School\"\\'\\\\*\$\\?\\*\\*\\*\\*\\*:)"
+cd ..
+cd ..
+cd holberton-system_engineering-devops
+cd 0x02-shell_redirections/
+ls
+cat 103-the_biggest_fan 
+cd ..
+cd .. 
+cd holbertonschool-low_level_programming/
+cd 0x06-pointers_arrays_strings/
+ls
+cd ..
+cd .
+cd ..
+cd holberton-system_engineering-devops/
+ls
+cd 0x00-shell_basics/
+ls
+cat 0-current_working_directory 
+cat 12-file_type 
+cd ..
+cd 0x02-shell_redirections/
+ls
+cat 12-newest_files 
+cd ,,
+cd ..
+cd ..
+cd holbertonschool-low_level_programming/
+cd 0x09-static_libraries/
+ls 
+mv 9-main.c 9-strcpy 9-strcpynvim ..
+mv 9-main.c 9-strcpy 9-strcpynvim .
+mv 9-main.c 9-strcpy 9-strcpynvim \
+mv 9-main.c 9-strcpy 9-strcpynvim /
+cd ..
+mv 0x09-static_libraries/9-strcpy.c 9-main.c 0x06-pointers_arrays_strings/
+ls
+cd 0x06-pointers_arrays_strings/
+ls
+git ad d.
+betty 9-strcpy.c 
+git add .
+cd ..
+git add .
+git commit -m "strcpy"
+cp 0x06-pointers_arrays_strings/9-strcpy.c 0x09-static_libraries/
+cd 0x09-static_libraries/
+ls
+mv _memset.o 0-memset.o
+mv _isdigit.o 1-isdigit.o
+mv _strlen.o 2-strlen.o
+mv _islower.o 3-islower.o
+mv _puts.o 3-puts.o
+mv _strcmp.o 3-strcmp.o
+mv _strncpy.o 2-strncpy.o
+mv _strspn.o 3-strspn.o
+mv _abs.o 6-abs.o
+gcc *.c
+gcc -c *.c
+ar -rc libholberton.a *.o
+ranlib libholberton.a 
+nm li_test.a
+nm lib_test.a
+gcc main.c -L. -lholberton -o main
+./main
+ls
+ar -t libholberton.a 
+ls
+mv _atoi.o 100-atoi.o
+mv _isalpha.o 4-isalpha.o
+ls
+mv _isdigit.o 1-isdigit.o
+mv _memset.o 0-memset.o 
+ls
+mv _strbrk.o 4-strbrk.o
+ls
+mv _strchr.o 2-strchr.o 
+ls
+mv _strstr.o 5-strstr.o 
+ls
+mv _strspn.o 3-strspn.o
+mv _strlen.o 
+mv _strlen.o 2-strlen.o 
+ls
+mv _strncpy.o 2-strncpy.o
+gcc -c *.c
+ar -rc libholberton.a *.o
+ranlib libholberton.a 
+ar -t libholberton.a 
+ls
+mv _strbrk.o 4-strbrk.o 
+ar -t libholberton.a 
+ls
+nvim 0-strcat.c
+gcc -c *.c
+ar -rc libholberton.a *.o
+ar -t libholberton.a 
+git add .
+git commit -m "adding more function"
+cd ..
+git push
+cd 0x09-static_libraries/
+ar -t libholberton.a 
+nvim 1-strncat.c
+ar -t libholberton.a 
+nvim 2-strchr.c
+ar -t libholberton.a 
+gcc -c *.c
+ar -rc libholberton.a *.o
+ar -t libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote
+ls
+cat 3-puts.o 
+cat 3-puts.c
+ls
+cat _puts.c
+nvim 3-puts.c
+nvim _put.c
+nvim _puts.c
+gcc -c *.c
+nvim _puts.c
+gcc -c *.c
+ar -rc libholberton.a *.o
+gcc main.c -L. -lholberton -o quote
+./quote 
+ls
+./quote 
+git add . 
+git commit -m " quote"
+cd ..
+git push 
+cat main.c
+cd 0x09-static_libraries/
+cat main.c
+nvim main.c
+gcc main.c -L. -lholberton -o quote
+./quote 
+ls
+ar -rc libholberton.a main
+ar -t libholberton.a 
+ranlib libholberton.a
+ar -t libholberton.a
+gcc main.c -L. -lholberton -o quote
+gcc main.c -L. -lholberton -o quote
+nvim 3-puts.c
+ls
+mv _puts.c 3-puts.o
+gcc main.c -L. -lholberton -o quote
+ls
+ar --help
+ar -d libholberton.a _puts.o 
+ar -t libholberton.a 
+gcc main.c -L. -lholberton -o quote
+ar -t libholberton.a 
+ls
+gcc main.c -L. -lholberton -o quote
+cat main
+rm main
+gcc main.c -L. -lholberton -o quote
+ar -t libholberton.a 
+cat main.c
+nvim holberton.h 
+nvim 3-puts.c
+ls
+cat 3-puts.o 
+nvim 3-puts.c
+gcc -c *.c
+ar -rc libholberton.a *.o
+ran libholberton.a 
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o quote
+ar -t libholberton.a 
+cat 3-puts.c
+ar -d libholberton.a 3-puts.o _puts.o
+ar -rc libholberton.a *.o
+gcc main.c -L. -lholberton -o quote
+ar -rc libholberton.a 
+ls
+ar -t libholberton.a 
+ar -d libholberton.a _isupper.o _isalpha.o _islower.o _strstr.o _strspn.o _memset.o _atoi.o _abs.o _strbrk.o _strchr.o _strlen.o _isdigit.o
+gcc main.c -L. -lholberton -o quote
+ar -t libholberton.a 
+ar -d libholberton.a _strcmp.o _strncpy.o
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o main
+ar -r libholberton.a main
+gcc main.c -L. -lholberton -o main
+ls
+rm _abs.c _abs.o _atoi.c _atoi.o _isalpha.c _isalpha.o _strstr.c _strstr.o _memset.c _memset.o _islower.c _islower.o _puts.c _puts.o
+rm _abs.c _abs.o _atoi.c _atoi.o _isalpha.c _isalpha.o _strstr.c _strstr.o _memset.c _memset.o _islower.c _islower.o _strchr.c _strchr.o
+ls
+rm *.o
+ls
+ar -rc libholberton.a *.o
+gcc -c *.c
+ar -rc libholberton.a *.o
+ranlib libholberton.a 
+ar -t libholberton.a 
+ar -d libholberton.a _puts.o _isdigit.o _isupper.o _strlen.o _strncpy.o _strspn.o _strbrk.o
+ar -t libholberton.a 
+ar -d _strcmp.o
+ar -d libholberton.a _strcmp.o
+ranlib holberton.h *.o
+ranlib libholberton.a *.o
+cat 0-isupper.o
+ar -d 0-isupper.o
+ar -d libholberton.a 0-isupper.o
+ls
+ar -rc libholberton.a 
+ar -rc libholberton.a 0-isupper.o
+nm libholberton.a 
+ls
+ar -t libholberton.a 
+ar -d libholberton.a main
+nm libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+git add .
+git commit -all
+git commit .
+git add .
+git commit -m " task 0"
+cd ..
+git push 
+cd 0x09-static_libraries/
+ar -t libholberton.a 
+ls
+nvim 6-abs.c
+100-atoi.c
+nvim 100-atoi.c
+nvim 4-isalpha.c
+ls
+4-strbrk.
+nvim 4-strbrk.c
+mv _strcmp.c 3-strcmp.c
+mv _strspn.c 3-strspn.c
+ls
+mv _strlen.c 2-strlen.c
+mr _strbrk.c
+rm _strbrk.c
+ls
+gcc -c *.c
+nvmi 100-atoi.c 
+nvim 100-atoi.c 
+gcc -c *.c
+ ar -rc libholberton.a *.o
+ls
+rm _strbrk.o 
+rm _strlen.o 
+rm _strspn.o 
+rm _isdigit.c _isdigit.o
+rm _strncpy.c _strncpy.o
+ls
+rm _isupper.c _isupper.o
+rm _strcmp.o 
+ls
+ranlib libholberton.a
+ar -t libholberton.a 
+ar -d libholberton.a _isdigit.o 
+ar -d libholberton.a _isupper.o _strcmp _strlen.o _strncpy.o _strspn.o
+ranlib libholberton.a
+ar -t libholberton.a 
+ar -d libholberton.a _strbrk.o _strcmp.o 
+ranlib libholberton.a 
+ar -t libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+nvim main.c
+git add .
+git status
+git rm .
+git commit -m "libraries"
+git status
+git commit --all
+cd ..
+git status
+git push 
+cd 0x09-static_libraries/
+ar -t libholberton.a 
+ls
+nvim 1-memcpy.c
+mv 4-strbrk.c 4-strpbrk.c
+mv 4-strbrk.o 4-strpbrk.o
+ar -rc libholberton.a *o
+ranlib libholberton.a 
+char *_memcpy(char *dest, char *src, unsigned int n);
+ar -t libholberton.a 
+#include "holberton.h"
+int main(void)
+{     _puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+    return (0);
+}gcc main.c -L. -lholberton -o quote
+gcc main.c -L. -lholberton -o quote
+./quote 
+git status
+git add .
+git commit .
+cd ..
+git push 
+cd 0x09-static_libraries/
+ar -t libholberton.a 
+nm libholberton.a 
+nvim _putchar.c
+gcc -c _putchar.c
+nvim _putchar.c
+gcc -c _putchar.c
+ls
+rm _putchar.o
+gcc -c _putchar.c
+ls
+ar -d libholberton.a _putchar.o
+ls
+ar -rc libholberton.a _putchar.o
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+git status
+git add .
+git commit -m "fixin putchar"
+cd ..
+git push 
+cd 0x09-static_libraries/
+nm libholberton.a 
+nvim holberton.h 
+ls
+ar -t libholberton.a 
+ar -d libholberton.a main.o
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+ls
+rm main.o
+gcc main.c -L. -lholberton -o quote
+./quote 
+ls
+rm main.c 
+nvim main.c
+gcc main.c -L. -lholberton -o quote
+./quote 
+cat main.c 
+ls
+chmod +x main.c 
+gcc main.c -L. -lholberton -o quote
+./quote 
+git add .
+git status
+git rm main.o
+git add .
+git commit -m "0"
+cd .
+cd ..
+git push 
+git push 
+cd 0x09-static_libraries/
+ar -t libholberton.a 
+ar -d 4-strpbrk.o
+ar -d libholberton.a 4-strpbrk.o
+ls
+ar -rc libholberton.a 4-strpbrk.o
+ranlib libholberton.a 
+ar -t libholberton.a 
+ar -d libholberton.a 4-strbrk.o
+ranlib libholberton.a 
+ar -t libholberton.a 
+git commit .
+git commit .
+cd .
+cd ..
+git push 
+cd 0x09-static_libraries/
+nm libholberton.a 
+ar -r libholberton.a 
+ar -t libholberton.a 
+nvim 0-ls
+ls
+gcc -c 1-memcpy.c 
+nvim 1-memcpy.c 
+gcc -c 1-memcpy.c 
+ar -rc libholberton.a 1-memcpy.o
+ran libholberton.a 
+ranlib libholberton.a 
+ar -t libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+git ad d.
+git ad d.
+git add .
+cd ..
+git commit -m "add 1memcpy"
+git push
+cd 0x09-static_libraries/
+ls
+ar -t libholberton.a 
+git status
+ls
+nvim holberton.h 
+gcc main.c -L. -lholberton -o quote
+./quote 
+ls
+nm libholberton.a 
+ar -rc libholberton.a *.o
+ranlib holberton.h 
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+git commit -m "rnalib"
+git add .
+git commit -m "rnalib"
+cd ..
+git push
+cd 0x09-static_libraries/
+nm libholberton.a 
+ls
+cat 6-abs.c
+nvim holberton.h 
+gcc -c 6-abs.c
+ar -d libholberton.a 6-abs.o
+ar -rc libholberton.a 6-abs.o
+ranlib libholberton.a 
+nm libholberton.a 
+git add .
+git commit -m "abs"
+cd ..
+git push 
+cd 0x09-static_libraries/
+betty libholberton.a 
+ar -t libholberton.a 
+nvim holberton.h 
+ar -t libholberton.a 
+ls
+git status
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+gcc main.c -L. -libholberton.a -o quote
+gcc main.c -L. -libholberton -o quote
+gcc main.c -L. -lholberton -o quote
+ls
+gcc main.c -L. -lholberton 
+ls
+nm libholberton.a 
+ls
+cat 0-isupper.o
+cat 0-isupper.c
+nvim 0-isupper.c
+gcc -c 0-isupper.c
+ls
+ar -d libholberton.a 0-isupper.o
+ranlib libholberton.a 
+ar -rc libholberton.a 0-isupper.o
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+nvim 0-isupper.c
+nvim main.c 
+nvim _putchar.c
+ar -d libholberton.a _putchar.o
+gcc -c _putchar.c
+ar -rc libholberton.a _putchar.o
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+cat 3-puts.c
+nvim 3-puts.c
+gcc -c 3-puts.c
+ar -d libholberton.a 3-puts.o
+ranlib libholberton.a 
+ar -rc libholberton.a 3-puts.o
+ranlib libholberton.a 
+gcc main.c -L. -lholberton -o quote
+./quote 
+git add 
+git add .
+git commit -m "3puts"
+cd ..
+git push 
+cd 0x0A-argc_argv/
+nvim 4-add.c
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+nvim 4-add.c
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+nvim 4-add.c
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+nvim 4-add.c
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+nvim 4-add.c
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+nvim 4-add.c
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+nvim 4-add.c
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+nvim 4-add.c
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+nvim 4-add.c
+gcc -Wall -pedantic -Werror -Wextra 4-add.c -o add
+./add 
+./add 1 3
+./add 1 2 3 e 4 5
+nvim 4-add.c 
+betty 4-add.c 
+nvim 4-add.c 
+betty 4-add.c 
+nvim 4-add.c 
+betty 4-add.c 
+git add .
+git commit -m "task 4"
+cd ..
+git push 
+mv 0x05-pointers_arrays_strings/
+cd 0x05-pointers_arrays_strings/
+ls
+nvim 9-main.c
+nvim holberton.h 
+nvim 9-strcpy.c
+cd ..
+cp 0x09-static_libraries/9-strcpy.c 0x05-pointers_arrays_strings/9-strcpy.c
+cd 0x05-pointers_arrays_strings/
+ls
+cat 9-strcpy.c 
+chmod +x 9-strcpy.c 
+gcc -Wall -pedantic -Werror -Wextra 9-main.c 9-strcpy.c -o 9-strcpy
+./9-strcpy
+nvim 9-strcpy
+nvim 9-strcpyc
+nvim 9-strcpy.c
+betty 9-strcpy.c
+git add .
+git commit -m "task 9"
+cd ..
+git push 
+cd 0x05-pointers_arrays_strings/
+git status
+ls
+git add 9-strcpy.c
+git add 9-strcpy
+git commit -all
+git commit .
+cd ..
+git status
+git add .
+git push
+git commit -m "task 9"
+git push 
+nvim create_static_lib.sh
+chmod +x create_static_lib.sh 
+./create_static_lib.sh 
+ls
+mv create_static_lib.sh 0x09-static_libraries/
+mv liball.a 0x09-static_libraries/
+cd 0x09-static_libraries/
+./create_static_lib.sh 
+ls
+ar -t liball.a
+nvim create_static_lib.sh 
+./create_static_lib.sh 
+ar -t liball.a 
+git add .
+git commit -m "task 1"
+cd ..
+git push 
+git status
+cd 0x09-static_libraries/
+ls
+ar -t liball.a 
+ls
+nvim create_static_lib.sh 
+./create_static_lib.sh 
+ls *.o
+ls *a
+ar -t liball.a 
+ls
+nvim 5-strstr.c 
+gcc -c 5-strstr.c 
+ls
+./create_static_lib.sh 
+ar -t liball.a 
+ar -ls
+ls
+nvim 0-memset.c
+gcc -c 0-memset.c 
+./create_static_lib.sh 
+ar -t liball.a 
+ls
+./create_static_lib.sh 
+ar -t liball.a 
+git add .
+git commit --all
+cd ..
+git add .
+git status
+git push 
+nvim cd 0x09-static_libraries/create_static_lib.sh 
+cd 0x09-static_libraries/
+ls
+nvim create_static_lib.sh 
+./create_static_lib.sh 
+ar -t liball.a 
+git add .
+git commit -m "task 2 fix"
+cd ..
+git push
+ls 0x05-pointers_arrays_strings/
+nvim 101-keygen.c
+chmod +x 101-keygen.c 
+gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-keygen
+cd 0x05-pointers_arrays_strings/
+gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-keygen
+cd ..
+ls
+mv 101-keygen.c 0x05-pointers_arrays_strings/101-keygen.c
+gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-keygen
+cd 0x05-pointers_arrays_strings/
+gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-keygen
+ls
+nvim holberton.h 
+gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-keygen
+nvim 101-keygen.c 
+gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-keygen
+./101-keygen
+git 
+git add .
+git commit -m "101keygen"
+cd ..
+git push 
+git add .
+git commit -m "101keygen"
+git push 
+cd 0x0A-argc_argv/
+nvim 100-change.c
+chmod +x 100-change.c 
+gcc -Wall -pedantic -Werror -Wextra 100-change.c -o change
+nvim 100-change.c
+gcc -Wall -pedantic -Werror -Wextra 100-change.c -o change
+nvim 100-change.c
+gcc -Wall -pedantic -Werror -Wextra 100-change.c -o change
+nvim 100-change.c
+gcc -Wall -pedantic -Werror -Wextra 100-change.c -o change
+./change 
+./change 10
+./change 100
+./change 101
+./change 13
+betty 100-change.c 
+nvim 100-change.c
+betty 100-change.c 
+git add .
+git commit -m "100change" 
+cd ..
+git push 
+cd holbertonschool-low_level_programming/
+mkdir 0x0B-malloc_free
+cd 0x0B-malloc_free/
+nvim README.md
+git add README.md 
+nvim 0-main.c
+cd ..
+cp 0x06-pointers_arrays_strings/holberton.h 0x0B-malloc_free/holberton.h
+cd 0x0B-malloc_free/
+ls
+cat holberton.h 
+nvim 0-create_array.c
+nvim holberton.h 
+nvim 0-create_array.c 
+chmod +x 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 100-main.c 100-strtow.c -o strtow
+gcc -Wall -pedantic -Werror -Wextra 100-main.c 100-strtow.c -o strtow
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+./a 
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+./a 
+nvim 0-create_array.c 
+betty 0-create_array.c 
+nvim 0-create_array.c 
+betty 0-create_array.c 
+nvim 0-create_array.c 
+betty 0-create_array.c 
+git add .
+git commit -m " task 0"
+cd ..
+git push 
+git push 
+cd 0x0B-malloc_free/
+nvim 0-create_array.c 
+betty 0-create_array.c 
+mv 0-create_array.c createarray.c
+nvim 0-create_array.c
+nvim createarray.c 
+mv createarray.c 0-create_array.c
+char *create_array(unsigned int size, char c)
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+./a
+./a
+./a
+nvim 0-create_array.c 
+betty 0-create_array.c 
+git add .
+cd ..
+git add .
+git commit -m "fixing 0"
+git push 
+cd 0x0B-malloc_free/
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+git checkout 0-create_array.c
+cat 0-create_array.c 
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+nvim 0-create_array.c 
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-create_array.c -o a
+./a 
+git add .
+git commit -m "malloc 0"
+cd ..
+git push
+cd 0x0B-malloc_free/
+nvim 1-main.c
+nvim holberton.h 
+nvim 1-strdup.c
+man strdup
+nvim 1-strdup.c 
+sudo apt-get update -y
+sudo apt-get install -y valgrind
+ls
+nvim 1-strdup.c 
+chmod +x 1-strdup.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strdup.c -o s
+nvim 1-strdup.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strdup.c -o s
+nvim 1-strdup.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strdup.c -o s
+nvim 1-strdup.c 
+nvim 1-strdup.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strdup.c -o s
+nvim 1-strdup.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-strdup.c -o s
+./s
+betty 1-strdup.c 
+nvim 1-strdup.c 
+betty 1-strdup.c 
+nvim 1-strdup.c 
+betty 1-strdup.c 
+nvim 1-strdup.c 
+betty 1-strdup.c 
+git add .
+git commit -m "task 1" 
+cd .. 
+git push 
+nvim 2-main.c
+ls
+mv 2-main.c 0x0B-malloc_free/
+ls
+cd 0x0B-malloc_free/
+ls
+nvim 2-main.c 
+mv 2-main.c 2-str_concat.c
+nvim 2-main.c
+nvim 2-str_concat.c 
+chmod +x 2-str_concat.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-str_concat.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-str_concat.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-str_concat.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-str_concat.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-main.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-main.c 
+nvim 2-str_concat.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-str_concat.c rm 2-main.c 
+rm 2-main.c 
+nvim 2-main.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-str_concat.c 
+gcc -Wall -pedantic -Wextra 2-main.c 2-str_concat.c -o c
+gcc -Wall -pedantic -Wextra 2-main.c 2-str_concat.c -o c
+nvim 2-str_concat.c betty 2-str_concat.c 
+betty 2-str_concat.c 
+nvim 2-str_concat.c 
+betty 2-str_concat.c 
+nvim 2-str_concat.c 
+betty 2-str_concat.c 
+nvim 2-str_concat.c 
+betty 2-str_concat.c 
+git add .
+git commit -m "task 2"
+cd ..
+git push
+cd 0x0B-malloc_free/
+ls
+nvim 3-main.c
+nvmi 2-alloc_grind.c
+nvim 3-alloc_grid.c
+nvim holberton.h 
+cd holbertonschool-low_level_programming/
+cd 0x0B-malloc_free/
+ls
+nvim 3-alloc_grid.c 
+chmod +x 3-alloc_grid.c 
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-alloc_grid.c -o g
+chmod +x 3-alloc_grid.c 
+nvim 3-alloc_grid.c 
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-alloc_grid.c -o g
+./g 
+git add .
+git commit -m "alloc grid" 
+cd ..
+git push 
+cd 0x0B-malloc_free/
+betty 3-alloc_grid.c 
+nvim 3-alloc_grid.c 
+betty 3-alloc_grid.c 
+nvim 3-alloc_grid.c 
+betty 3-alloc_grid.c 
+nvi m3
+nvim 3-alloc_grid.c 
+gcc -Wall -pedantic -Werror -Wextra 3-main.c 3-alloc_grid.c -o g
+./g 
+betty 3-alloc_grid.c 
+git add .
+git commit -m "fixing 3"
+cd ..
+git push 
+ mkdir0x0C-more_malloc_free
+mkdir 0x0C-more_malloc_free
+cd 0x0C-more_malloc_free/
+nvim README.md
+nvim 0-malloc_checked
+nvim 0-malloc_checked.c
+nvim 0-main.c
+nvim holberton.h
+cd holbertonschool-low_level_programming/
+ls
+mkdir 0x0D-preprocessor
+cd 0x0D-preprocessor/
+nvim README.md
+nvim 0-main.c
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-main.c
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-object_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+./a
+git add .
+git init
+git commit -m "task 0"
+git add .
+git commit .
+cd .
+cd ..
+git status
+git add .
+git commit -m "task 0"
+git push 
+cd 0x0D-preprocessor/
+nvim 1-pi.h
+nvim 1-main.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c -o b
+./b 
+git add .
+git commit -m "task 1"
+cd ..
+git status
+git add .
+git commit -m "task 1"
+git push
+cd 0x0D-preprocessor/
+nvim 2-main.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c -o c
+nvim 2-main.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c -o c
+./c
+betty 2-main.c 
+git add .
+git commit -m "task 2"
+cd ..
+git add .
+git commit -m "task 2" 
+git push
+cd 0x0D-preprocessor/
+nvim 3-main.c
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+nvim 3-function_like_macro.h
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+./d
+git add .
+cd ..
+git add .
+git commit -m "task 3"
+git push 
+mkdir 0xE-structure_typedef
+cd ..
+cd holbertonschool-low_level_programming/
+mv 0xE-structure_typedef/ 0x0E-structures_typedef
+cd 0x0E-structures_typedef/
+nvim README.md
+nvim 0-main.c
+nvim dog.h
+make
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-main.c
+nvim dog.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-main.c
+nvim dog.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim 0-main.c
+make 0-main.c
+make 
+ls
+nvim dog.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+rm 0-main.c 
+nvim 0-main.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+nvim dog.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c -o a
+./a
+git add .
+git commit -m "woof"
+cd ..
+git add .
+git commit -m "task )"
+git push
+cd 0x0E-structures_typedef/
+nvim dog.h 
+nvim 1-init_dog.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-init_dog.c -o b
+nvim 1-main.c
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-init_dog.c -o b
+./b
+git add .
+git commit -m "task1"
+cd ..
+git push
+cd 0x0E-structures_typedef/
+ls
+cat 1-init_dog.c 
+ls
+nvim 2-main.c
+nvim dog.h 
+nvim 2-print_dog.c
+clear
+nvim 2-print_dog.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_dog.c -o c
+nvim 2-print_dog.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_dog.c -o c
+nvim 2-print_dog.c
+nvim dog.h 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_dog.c -o c
+nvim 2-print_dog.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_dog.c -o c
+nvim 2-print_dog.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_dog.c -o c
+nvim 2-print_dog.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_dog.c -o c
+nvim 2-print_dog.c
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_dog.c -o c
+./c
+nvim 2-print_dog.c
+betty 2-print_dog.c 
+nvim 2-print_dog.c
+betty 2-print_dog.c 
+nvim 2-print_dog.c
+betty 2-print_dog.c 
+git add .
+git commit -m "task 2"
+cd ..
+git push 
+cd 0x0E-structures_typedef/
+nvim 2-print_dog.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_dog.c -o c
+./c
+git add .
+git commit -m "fixing age"
+cd ..
+git push 
+git push 
+nvim 0x0E-structures_typedef/2-print_dog.c 
+ betty 0x0E-structures_typedef/2-print_dog.c 
+git add .
+git commit -m "adding new line" 
+git push 
+nvim 0x0E-structures_typedef/2-print_dog.c 
+cd 0x0E-structures_typedef/
+nvim 3-main.c
+nvim dog.h 
+nvim dog.h 
+nvim dog.h 
+gcc -Wall -pedantic -Werror -Wextra 3-main.c -o d
+./d
+git add .
+git commit -m "task 3"
+cd ..
+git push 
+cd 0x0E-structures_typedef/
+nvim dog.h 
+nvim 4-main.c
+nvim 4-new_dog.c
+nvim 4-new_dog.c
+cd ..
+cd 0x0D-preprocessor/
+ls
+nvim 4-main.c
+nvim 4-sum.h
+nvim 3-function_like_macro.h 
+nvim 4-sum.h
+nvim 3-function_like_macro.h 
+nvim 4-sum.h
+nvim 3-function_like_macro.h 
+nvim 4-sum.h
+gcc -Wall -pedantic -Werror -Wextra 4-main.c -o e
+./e
+git add .
+git commit -m "sum"
+cd ..
+git push 
+cd 0x0D-preprocessor/
+ls
+git status
+cd ..
+git status
+git add .
+git commit -m "sum"
+git push
+cd 0x0E-structures_typedef/
+ls
+nvim dog.h
+nvim 4-new_dog.h
+nvim dog.h 
+nvim 4-new_dog.c
+git add .
+git commit -m "task 4"
+cd ..
+git push
+git push
+mkdir 0x0F-function_pointers
+cd 0x0F-function_pointers/
+nvim README.md
+nvim nvim function_pointers.h
+nvim nvim function_pointers.h
+nvim function_pointers.h
+nvim 0-main.c
+nvim 0-print_name.c
+chmod +x 0-print_name.c 
+ gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+rm 0-main.c 
+nvim 0-main.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim function_pointers.h
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+nvim 0-print_name.c
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+nvim 0-print_name.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-print_name.c -o a
+./a
+git add .
+git commit -m "task 0"
+cd ..
+git push 
+cd 0x0F-function_pointers/
+nvim function_pointers.h 
+nvim 1-array_iterator.c
+nvim 1-main.c
+nvim 1-array_iterator.c 
+cd ..
+mkdir 0x10-variadic_functions
+cd 0x10-variadic_functions/
+ls
+nvim README.md
+nvim variadic_functions.h
+nvim 0-sum_them_all.c
+nvim 0-main.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-sum_them_all.c -o a
+nvim variadic_functions.h
+nvim 0-sum_them_all.c
+gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-sum_them_all.c -o a
+./a
+git add .
+betty 0-sum_them_all.c 
+git add .
+git commit -m "task 0"
+cd ..
+git push
+nvim 0x10-variadic_functions/
+cd 0x10-variadic_functions/
+nvim 0-main.c 
+nvim 1-main.c
+mv 1-main.c 1-print_numbers.c
+nvim 1-main.c
+nvim variadic_functions.h 
+nvim 1-print_numbers.c 
+bettt 1-print_numbers.c 
+betty 1-print_numbers.c 
+nvim 1-print_numbers.c 
+betty 1-print_numbers.c 
+chmod +x 1-print_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-print_numbers.c -o b
+nvim 1-print_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-print_numbers.c -o b
+nvim 1-print_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-print_numbers.c -o b
+nvim 1-print_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-print_numbers.c -o b
+nvim 1-print_numbers.c 
+gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-print_numbers.c -o b
+./b 
+git add .
+git commit -m "task 1"
+cd ..
+git push 
+clear
+cd 0x01-variables_if_else_while/
+cd ..
+cd 0x10-variadic_functions/
+ls
+nvim variadic_functions.h 
+nvim 1-print_numbers.c 
+nvim 2-main.c
+mv 2-main.c 2-print_strings.c
+nvim 2-main.c
+nvim 2-print_strings.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_strings.c -o c
+nvim 2-print_strings.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_strings.c -o c
+./c
+nvim 2-print_strings.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_strings.c -o c
+nvim 2-print_strings.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_strings.c -o c
+nvim 2-print_strings.c 
+gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-print_strings.c -o c
+./c
+betty 2-print_strings.c 
+git add .
+cd ..
+cd 0x10-variadic_functions/
+git commit -m "task 1 variadic"
+cd ..
+git push
+mkdir printf
+cd printf/
+git init
+git pull https://github.com/GabsMermaid/printf.git
+ls
+nvim README.md 
+git add .
+git commit -m "README test"
+git push
+git remote add origin master
+git push origin master
+cd ..
+git push
+git add .
+git commit -m "printf test"
+git push
+git rm --cached gitbook
+git rm --cached printf/
+git status
+git add printf/
+git commit -m "test"
+git push
+rm -rf printf/
+git rm printf 
+git rm -r printf 
+git commit -m "rm printf"
+cd ..
+mkdir printf
+cd printf/
+git init
+git pull git https://github.com/GabsMermaid/printf.git
+git pull https://github.com/GabsMermaid/printf.git
+ls 
+nvim test
+git ad d.
+git add .
+git commit -m "test"
+git remote add origin main
+git push origin main
+git push 
+git push origin master 
+git remote add https://github.com/GabsMermaid/printf.git
+git remote add --fetch origin master
+git push origin master 
+git set upstream
+git set upstream --help
+git set-upstream
+git --help
+cd ..
+git add printf/
+git checkout .
+git status
+git commit .
