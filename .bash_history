@@ -10610,3 +10610,14 @@ git push origin master
 cd ..
 git status
 git add printf/
+git commit .
+git push
+git push
+cd printf/
+git remote add upstream https://github.com/GabsMermaid/printf.git
+git status
+git add .
+git commit -m "printf testing"
+git push
+cd ..
+git status
