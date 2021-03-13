@@ -10677,3 +10677,57 @@ git branch
 git status
 cd ..
 git status
+git add .
+cd printf/
+ls
+git add .
+git status
+git add .
+git status
+git commit .
+git pull https://github.com/GabsMermaid/printf.git
+git commit -m "printf"
+git pull https://github.com/GabsMermaid/printf.git
+ls
+git push
+git pull https://github.com/GabsMermaid/printf.git
+ls
+rm https\:/
+rm -rf https\:/
+git status
+git checkout .
+ls
+git status
+git add .
+git set upstream https://github.com/GabsMermaid/printf.git
+git commit -m "printf"
+ls
+cd ..
+mkdir fprint
+mv printf/_printf.c fprint/_printf.c
+mv printf/_putchar.c fprint/_putchar.c
+mv printf/holberton.h fprint/holberton.h
+ls printf/
+rm -rf printf/
+git rm -r printf 
+ls fprint/
+mkdir printf
+git add printf/
+cd printf/
+git pull https://github.com/GabsMermaid/printf.git
+ls
+git init https://github.com/GabsMermaid/printf.git
+git pull https://github.com/GabsMermaid/printf.git
+ls
+git branch
+git branch -b checkout main
+git branch main 
+git checkout main
+ls
+git pull https://github.com/GabsMermaid/printf.git
+cd ..
+git status
+git add fprint/
+git add .
+ls
+rm -rf printf/
