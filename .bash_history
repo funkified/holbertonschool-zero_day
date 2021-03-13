@@ -10754,3 +10754,6 @@ git commit .
 git push 
 git branch
 git checkout master
+git commit .
+git checkout master
+git status
