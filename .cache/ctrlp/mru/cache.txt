@@ -1,3 +1,4 @@
+/home/vagrant/printf/test
 /home/vagrant/.git/COMMIT_EDITMSG
 /home/vagrant/printf/.git/COMMIT_EDITMSG
 /home/vagrant/printf/_printf.c
@@ -7,7 +8,6 @@
 /home/vagrant/printf/holberton.h
 /home/vagrant/printf/_putchar.c
 /home/vagrant/printf/README.md
-/home/vagrant/printf/test
 /home/vagrant/holbertonschool-low_level_programming/printf/README.md
 /home/vagrant/holbertonschool-low_level_programming/0x10-variadic_functions/2-print_strings.c
 /home/vagrant/holbertonschool-low_level_programming/0x10-variadic_functions/2-main.c

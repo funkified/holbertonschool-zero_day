@@ -10621,3 +10621,31 @@ git commit -m "printf testing"
 git push
 cd ..
 git status
+git add .
+git commit -m "printf testing"
+git push
+cd printf/
+git status
+git push origin main
+git branch main
+git branch
+git branch --help
+git checkout main
+ls
+git commit -m "switched branch"
+git push origin main
+git branch --help
+git branch -u main
+git branch -u 
+git branch -u main
+git init https://github.com/GabsMermaid/printf.git
+git status
+git add .
+git commit -m "test"
+nvim test
+git add test 
+git add .
+git commit -m "test"
+git push 
+git push -u origin main
+cd ..
