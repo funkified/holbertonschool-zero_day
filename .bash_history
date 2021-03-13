@@ -10757,3 +10757,6 @@ git checkout master
 git commit .
 git checkout master
 git status
+git checkout .bash_history
+git commit -m "chckout"
+git checkout master
