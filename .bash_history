@@ -10000,3 +10000,48 @@ git checkout master
 exit
 git status
 git checkout master
+git add .
+git checkout master
+mkdir printf
+cd printf/
+git checkout main
+git branch
+git pull git@github.com:GabsMermaid/printf.git
+https://github.com/GabsMermaid/printf.git
+git pull https://github.com/GabsMermaid/printf.git
+git checkout master
+cd ..
+mkdir printf/
+rm -rf printf/
+git rm -r "removing printf"
+git rm -r printf
+git status
+mkdir printf
+cd printf/
+git init https://github.com/GabsMermaid/printf.git
+git pull https://github.com/GabsMermaid/printf.git
+git branch
+git checkout master 
+cd ..
+cd printf/
+cd ..
+ls
+git add fprint/
+git commit -m "fprint"
+git push
+git push
+mv fprint/ printf
+cd printf/
+git pull https://github.com/GabsMermaid/printf.git
+git init https://github.com/GabsMermaid/printf.git
+git commit -m "commit"
+git add .
+git commit .
+git push
+cd ..
+git push 
+git push 
+git status
+git add .
+git add .
+git status
