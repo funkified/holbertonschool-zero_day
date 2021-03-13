@@ -10434,3 +10434,179 @@ git add printf/
 git checkout .
 git status
 git commit .
+git commit .
+git push
+git push
+cd printf/
+ls
+git init
+git status
+ls
+nvim README.md 
+nvim holberton.h
+nvim main.c
+nvim _printf.c
+nvim test.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c
+nvim _putchar.c
+nvim holberton.h 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+nvim holberton.h 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim holberton.h 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+nvim holberton.h 
+nvim holberton.h 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c
+ls
+./a.out 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c -o print
+./print 
+nvim print_char.c
+nvim _printf.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c -o print
+./print 
+nvim _printf.c
+nvim test.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c test.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format test.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c test.c -o test
+nvim test.c 
+mv test.c main.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c main.c -o test
+chmod +x _printf.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c main.c -o test
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c main.c -o test
+clear
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c main.c -o test
+nvim main.c 
+nvim test.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c test.c
+nvim test.c
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c test.c
+nvim test.c
+rm test.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+nvim print 
+ls
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./c
+./a.out 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c main.c 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+rm main.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./c
+./a.out 
+ls
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./c
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+./a.out 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+nvim _printf.c 
+gcc -Wall -Wextra -Werror -pedantic -Wno-format *.c 
+./a.out 
+clear
+git status
+ls
+rm print 
+git commit .
+git push
+git branch
+git push -u origin master
+git remote add origin master
+git push origin master
+cd ..
+git status
+git add printf/

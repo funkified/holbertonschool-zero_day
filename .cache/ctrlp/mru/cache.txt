@@ -1,3 +1,11 @@
+/home/vagrant/printf/.git/COMMIT_EDITMSG
+/home/vagrant/printf/_printf.c
+/home/vagrant/printf/print
+/home/vagrant/printf/test.c
+/home/vagrant/printf/main.c
+/home/vagrant/printf/holberton.h
+/home/vagrant/printf/_putchar.c
+/home/vagrant/printf/README.md
 /home/vagrant/.git/COMMIT_EDITMSG
 /home/vagrant/printf/test
 /home/vagrant/holbertonschool-low_level_programming/printf/README.md
@@ -240,11 +248,3 @@
 /home/vagrant/holbertonschool-low_level_programming/0x02-functions_nested_loops/9-main.c
 /home/vagrant/holbertonschool-low_level_programming/0x02-functions_nested_loops/7-print_last_digit.c
 /home/vagrant/holbertonschool-low_level_programming/0x02-functions_nested_loops/5-sign.c
-/home/vagrant/holbertonschool-low_level_programming/0x02-functions_nested_loops/4-isalpha.c
-/home/vagrant/holbertonschool-low_level_programming/0x02-functions_nested_loops/3-islower.c
-/home/vagrant/holbertonschool-low_level_programming/0x03-debugging/2-largest_number.c
-/home/vagrant/holbertonschool-low_level_programming/0x03-debugging/holberton.h
-/home/vagrant/holbertonschool-low_level_programming/0x03-debugging/3-main_b.c
-/home/vagrant/holbertonschool-low_level_programming/0x03-debugging/3-print_remaining_days.c
-/home/vagrant/holbertonschool-low_level_programming/0x03-debugging/3-convert_day.c
-/home/vagrant/holbertonschool-low_level_programming/0x03-debugging/3-main_a.c
